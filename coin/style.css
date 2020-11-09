@@ -1,0 +1,25 @@
+/* autheur Aymeric Bizouarn */
+body {
+    background-color: #2d3436;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    vertical-align: center;
+    font-family: sans-serif;
+    overflow-X: hidden;
+    color: white;
+    font-size: 15px;
+}
+#input{
+    width: 100%;
+    display: inline-grid;
+    grid-template-columns: 141px auto;
+}
+#commande{
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+    font-size: 15px;
+    margin-top: -2px;
+    margin-left: -10px;
+}
