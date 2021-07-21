@@ -1,5 +1,5 @@
 # bizouarn.github.io
-## update submodule
+## update submodule 
 ```
 git submodule update --remote --init --recursive
 git add .
