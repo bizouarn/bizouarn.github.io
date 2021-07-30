@@ -1,8 +1,5 @@
-# bizouarn.github.io
-## update submodule
-```
-git submodule update --remote --init --recursive
-git add .
-git commit -m "update submodule"
-git push
-```
+# Welcome in my github website 🎉
+## © Aymeric bizouarn - 2021
+### Link
+- [Color converter](https://bizouarn.github.io/Color-converter-GUI/)
+- [Portfolio](https://bizouarn.github.io/color-converter-gui/)
