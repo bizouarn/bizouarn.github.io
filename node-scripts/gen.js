@@ -12,19 +12,24 @@ function gen(){
     var release_notes_header = '# Release Notes\n\n';
     var release_notes_footer = '';
     var release_notes_contributors = ['# Contributors\n'];
-    var release_notes_evo = ['# Evolution of the project\n', '| Version | Date | Contributor |\n', '|:--------|:-----|:------------|\n'];
-    var release_notes_bug = ['# Bugs fixed\n', '| Version | Date | Contributor |\n', '|:--------|:-----|:------------|\n'];
+    var release_notes_evo = ['# Evolution of the project\n', '| EVO | Date | Contributor |', '| -------- | ----- | ------------ |'];
+    var release_notes_bug = ['# Bugs fixed\n', '| BUGFIX | Date | Contributor |', '|:--------|:-----|:------------|'];
     // parse commit messages
     for(var msg of commit_messages){
         // split message into parts
         var parts = msg.split('|');
         // if msg is empty, skip
         if(parts[0].length < 1) continue;
+        var date = new Date(parts[1]);
+        var date_str = date.getDate() + '/' + (date.getMonth()+1) + '/' + date.getFullYear();
         // determine release notes
-        if(msg.includes('evo')){
-            release_notes_evo.push('| ' + parts[0] + ' | ' + parts[1] + ' | ' + parts[2] + ' |\n');
-        } else if(msg.includes('bug')){
-            release_notes_bug.push('| ' + parts[0] + ' | ' + parts[1] + ' | ' + parts[2] + ' |\n');
+        // if contains evo (ignore upper case)
+        if(parts[0].toLowerCase().indexOf('evo') > -1){
+            release_notes_evo.push('| ' + parts[0] + ' | ' + date_str + ' | ' + parts[2] + ' |');
+        } else if(parts[0].toLowerCase().indexOf('bug') > -1){
+            release_notes_bug.push('| ' + parts[0] + ' | ' + date_str + ' | ' + parts[2] + ' |');
+        } else {
+            continue;
         }
         // determine contributors
         if(!release_notes_contributors.includes(parts[2])){
@@ -35,10 +40,10 @@ function gen(){
     release_notes.push(release_notes_header);
     release_notes.push(release_notes_evo.join('\n'));
     release_notes.push(release_notes_bug.join('\n'));
-    release_notes.push(release_notes_contributors.join(' \n'));
+    release_notes.push(release_notes_contributors.join('  \n'));
     release_notes.push(release_notes_footer);
     // write release notes
-    fs.writeFileSync('./CHABGELOG.md', release_notes.join('\n'));
+    fs.writeFileSync('./CHANGELOG.md', release_notes.join('\n'));
     // print release notes
     console.log(release_notes.join('\n'));
 }
