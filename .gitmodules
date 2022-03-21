@@ -1,6 +1,0 @@
-[submodule "Color-converter-GUI"]
-	path = Color-converter-GUI
-	url = https://github.com/bizouarn/Color-converter-GUI.git
-[submodule "Portfolio"]
-	path = Portfolio
-	url = https://github.com/bizouarn/Portfolio.git
