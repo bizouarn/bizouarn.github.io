@@ -15,9 +15,3 @@ You can see my project hosted in github on [https://bizouarn.github.io/](https:/
 - telegram : [@bizouarn](https://t.me/bizouarn)
 
 ⚡ Fun fact: Let the sun in. ☀ the earth says : hello ! 👋
-
-<!------------------------
-(\_/)
-(°_°)
-/ > Aymeric Bizouarn 2022 ©
---------------------------!>
