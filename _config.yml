@@ -1,0 +1,8 @@
+# Site settings
+title: Aymeric Bizouarn
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://bizouarn.github.io" # the base hostname & protocol for your site
+github_username:  bizouarn
+
+# Build settings
+markdown: kramdown
