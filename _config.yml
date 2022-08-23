@@ -6,3 +6,6 @@ github_username:  bizouarn
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-gist
