@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 
   <ul class="post-list">
-	{% for post in site.gist %}
+	{% for post in site.data.gist %}
 	  <li>
         <span class="post-meta">{{ post.updated_at | date: "%b %-d, %Y" }}</span>
 
