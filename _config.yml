@@ -7,5 +7,10 @@ github_username:  bizouarn
 # Build settings
 markdown: kramdown
 
+jekyll_get_json:
+  - data: gist
+    json: 'https://api.github.com/users/bizouarn/gists'
+
 plugins:
   - jekyll-gist
+  - jekyll-get-json
