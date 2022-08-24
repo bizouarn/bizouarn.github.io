@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /about/
+---
+
 # Hi there 👋
 ## I'm Aymeric BIZOUARN
 

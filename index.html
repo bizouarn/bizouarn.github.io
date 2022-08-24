@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <ul class="post-list">
+	  {% for post in site.data.gist %}
+	    <li>
+        <span class="post-meta">{{ post.updated_at | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.html_url }}">{{ post.html_url }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
