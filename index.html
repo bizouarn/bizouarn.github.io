@@ -10,7 +10,7 @@ layout: default
         <span class="post-meta">{{ post.updated_at | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.url }}</a>
+          <a class="post-link" href="{{ post.html_url }}">{{ post.html_url }}</a>
         </h2>
       </li>
     {% endfor %}
