@@ -1,16 +1,10 @@
 # Site settings
 title: Bizouarn
+email: aymeric@bizouarn.fr
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://git.bizouarn.com" # the base hostname & protocol for your site
 github_username:  bizouarn
+twitter_username: aymericbizouarn
 
 # Build settings
 markdown: kramdown
-
-jekyll_get_json:
-  - data: gist
-    json: 'https://api.github.com/users/bizouarn/gists'
-
-plugins:
-  - jekyll-gist
-  - jekyll-get-json

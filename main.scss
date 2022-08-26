@@ -50,3 +50,17 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+table {
+    border: 1px solid #e8e8e8;
+	background: #eef;
+    width: 100%;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+table th, 
+table td {
+    padding: 6px 13px;
+    border: 1px solid #30363d63;
+}

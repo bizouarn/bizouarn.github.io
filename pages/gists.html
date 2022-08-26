@@ -1,5 +1,7 @@
 ---
 layout: default
+permalink: /pages/gists/
+title: Gist
 ---
 
 <div class="home">
@@ -11,15 +13,6 @@ layout: default
           <a class="post-link" href="{{site.baseurl}}/pages/gist.html?gist={{post.id}}">{{post.files | first | first}}</a>
         </h2>
         <p style="margin: -15px 0px 5px 0px;">{{ post.description }}</p>
-      </li>
-    {% endfor %}
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
       </li>
     {% endfor %}
   </ul>

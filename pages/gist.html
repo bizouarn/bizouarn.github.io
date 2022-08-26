@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="home">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/showdown-table@1.0.1/dist/showdown-table.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@latest/build/highlight.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@latest/build/styles/default.min.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/9.1.6/mermaid.min.js"></script>
+    <link rel="stylesheet" href="https://github.githubassets.com/assets/gist-embed-1ed66f8b5380.css">
+    <script>
+        var js = document.createElement("script");
+        js.type = "text/javascript";
+        var params = new URLSearchParams(document.location.search);
+
+        var src = "https://api.github.com/gists/"+params.get("gist");
+        $.get(src,function(data){
+            var converter = new showdown.Converter({extensions: ['table']});
+            var file = (data.files[Object.keys(data.files)]);
+            var html = file.content;
+            if(file.filename.split(".").slice(-1)!="md") var html = "```"+file.filename.split(".").slice(-1)+"\n"+html+"\n```"
+            var html = converter.makeHtml(html);
+            html.replace("","");
+            $("#md").append(html);
+            mermaid.init();
+            hljs.highlightAll();
+        })
+    </script>
+    <div id="md"></div>
+</div>
