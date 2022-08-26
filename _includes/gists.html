@@ -1,0 +1,9 @@
+{% for post in site.data.gist limit:10 %}
+<li style="border-bottom: 1px solid lightgray;">
+<span class="post-meta">{{ post.created_at | date: "%b %-d, %Y" }}</span>
+<h2>
+  <a class="post-link" href="{{site.baseurl}}/pages/gist?gist={{post.id}}">{{post.files | first | first}}</a>
+</h2>
+<p style="margin: -15px 0px 5px 0px;">{{ post.description }}</p>
+</li>
+{% endfor %}
