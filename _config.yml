@@ -5,6 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://git.bizouarn.com" # the base hostname & protocol for your site
 github_username:  bizouarn
 twitter_username: aymericbizouarn
+footer_msg: Vous avez le même patronyme que moi, n'hésitez pas à me contacter si vous voulez une redirection en .bizouarn.fr ou .bizouarn.com.
 
 # Build settings
 markdown: kramdown
