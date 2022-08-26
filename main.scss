@@ -51,6 +51,12 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
+body {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
 table {
     border: 1px solid #e8e8e8;
 	background: #eef;
