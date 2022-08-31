@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /pages/gist/
 ---
 
 <div class="home">
@@ -19,7 +20,8 @@ layout: default
             var converter = new showdown.Converter({extensions: ['table']});
             var file = (data.files[Object.keys(data.files)]);
             var html = file.content;
-            if(file.filename.split(".").slice(-1)!="md") var html = "```"+file.filename.split(".").slice(-1)+"\n"+html+"\n```"
+            if(file.filename.split(".").slice(-1)!="md") 
+                var html = "# "+ file.filename +"\n```"+file.filename.split(".").slice(-1)+"\n"+html+"\n```"
             var html = converter.makeHtml(html);
             html.replace("","");
             $("#md").append(html);
