@@ -20,4 +20,4 @@ You can see my project hosted in github on [https://bizouarn.github.io/](https:/
 - Mail : [aymeric.bizouarn@hotmail.fr](mailto://aymeric.bizouarn@hotmail.fr)
 - telegram : [@bizouarn](https://t.me/bizouarn)
 
-⚡ Fun fact: Let the sun in. ☀ the earth says : hello ! 👋
+⚡ Fun fact: Good Morning Starshine, ☀ the earth says : hello ! 👋
