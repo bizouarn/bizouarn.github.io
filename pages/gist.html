@@ -21,7 +21,7 @@ permalink: /pages/gist/
             var file = (data.files[Object.keys(data.files)]);
             var html = file.content;
             if(file.filename.split(".").slice(-1)!="md") 
-                var html = "# "+ file.filename +"\n```"+file.filename.split(".").slice(-1)+"\n"+html+"\n```"
+                var html = "# "+ file.filename + "\n"+ data.description +"\n```"+file.filename.split(".").slice(-1)+"\n"+html+"\n```"
             var html = converter.makeHtml(html);
             html.replace("","");
             $("#md").append(html);
