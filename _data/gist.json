@@ -13,13 +13,13 @@
         "filename": "getCurrentServicePath.cs",
         "type": "text/plain",
         "language": "C#",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/a4b860fa99d8cc6b84d0c6b202e21287/raw/cf05e47f0caddbef564e8e08f5b9c3fdb5c2d096/getCurrentServicePath.cs",
-        "size": 100
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/a4b860fa99d8cc6b84d0c6b202e21287/raw/715a4fbe6e7980a4f335e1cc2378f9f703190894/getCurrentServicePath.cs",
+        "size": 82
       }
     },
     "public": true,
     "created_at": "2022-10-07T12:23:08Z",
-    "updated_at": "2022-10-07T12:23:08Z",
+    "updated_at": "2022-10-07T14:39:25Z",
     "description": "Récupère de chemin du service courant.",
     "comments": 0,
     "user": null,
