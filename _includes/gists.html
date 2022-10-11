@@ -1,4 +1,4 @@
-{% for post in site.data.gist limit:10 %}
+{% for post in site.data.gist %}
 <li style="border-bottom: 1px solid lightgray;">
 <span class="post-meta">{{ post.created_at | date: "%b %-d, %Y" }}</span>
 <h2>
