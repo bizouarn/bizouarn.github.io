@@ -1,6 +1,6 @@
 <div class="repo-grid">
-{% for post in site.data.repo limit:10 %}
-{% if post.archived == false %}
+{% for post in site.data.repo %}
+{% if post.archived == true %}
   <div class="repo-box">
     <div style="width: 100%;">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true">
