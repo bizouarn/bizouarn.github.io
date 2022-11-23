@@ -6,10 +6,10 @@ title: Project
 <div class="home">
 	<h1>🗃️ My public projects</h1>
 	<ul class="post-list">
-		{% include repos.html %}
+		{% include repos.html archive=false %}
 	</ul>
 	<h2>🕸 Archive public</h2>
 	<ul class="post-list">
-		{% include repos_archive.html %}
+		{% include repos.html archive=true %}
 	</ul>
 </div>
