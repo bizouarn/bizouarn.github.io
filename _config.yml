@@ -1,8 +1,8 @@
 # Site settings
 title: Bizouarn
 email: aymeric@bizouarn.fr
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://git.bizouarn.com" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://git.bizouarn.com"
 github_username:  bizouarn
 twitter_username: aymericbizouarn
 gitlab_username: bizouarn

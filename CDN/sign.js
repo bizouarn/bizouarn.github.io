@@ -5,4 +5,4 @@ var signarture = "\
 / > Aymeric Bizouarn "+new Date().getFullYear()+" ©\n\
 --------------------------\n\
 "
-console.log(signarture);
+console.log(signarture)
