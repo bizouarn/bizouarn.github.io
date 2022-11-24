@@ -3,9 +3,9 @@ layout: page
 permalink: /about/
 title: About me
 ---
-
 # Hi there 👋
-## I'm Aymeric BIZOUARN
+## I'm Aymeric BIZOUARN 🇫🇷
+Full stack developer at HERAKLES ERP Vannes
 
 ### 🔭 My project :  
 - [Planning IUT](https://github.com/bizouarn/Planning-IUT.git)
@@ -17,5 +17,5 @@ title: About me
 You can see my project hosted in github on [https://bizouarn.github.io/](https://bizouarn.github.io/)
 
 ### 📫 How to reach me :
-- Mail : [aymeric.bizouarn@hotmail.fr](mailto://aymeric.bizouarn@hotmail.fr)
+- Mail : [aymeric@bizouarn.fr](mailto://aymeric@bizouarn.fr)
 - telegram : [@bizouarn](https://t.me/bizouarn)
