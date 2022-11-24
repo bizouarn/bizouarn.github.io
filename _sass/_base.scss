@@ -78,11 +78,9 @@ h1, h2, h3, h4, h5, h6 {
 a {
 	color: $brand-color;
 	text-decoration: none;
-
 	&:visited {
 		color: darken($brand-color, 15%);
 	}
-
 	&:hover {
 		color: $text-color;
 		text-decoration: underline;
@@ -142,7 +140,6 @@ pre {
  * Clearfix
  */
 %clearfix {
-
 	&:after {
 		content: "";
 		display: table;
@@ -154,13 +151,11 @@ pre {
  * Icons
  */
 .icon {
-
 	> svg {
 		display: inline-block;
 		width: 16px;
 		height: 16px;
 		vertical-align: middle;
-
 		path {
 			fill: $grey-color;
 		}
@@ -175,10 +170,11 @@ table {
 	width: 100%;
 	border-spacing: 0;
 	border-collapse: collapse;
-}
-
-table th, 
-table td {
-	padding: 6px 13px;
-	border: 1px solid #30363d63;
+	th, td {
+		padding: 6px 13px;
+		border: 1px solid #30363d63;
+	}
+	p{
+		margin: 0;
+	}
 }
