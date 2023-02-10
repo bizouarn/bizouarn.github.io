@@ -10,7 +10,6 @@ Full stack developer at HERAKLES ERP Vannes
 ### 🔭 My project :  
 - [Planning IUT](https://github.com/bizouarn/Planning-IUT.git)
 - [Color converter](https://bizouarn.github.io/Color-converter-GUI/)
-- [Quoridor game in java](https://github.com/bizouarn/Quoridor) with [@PxRazhor](https://github.com/PxRazhor) 
 - [Status bot](https://github.com/bizouarn/Status-bot.git)
 ... and more
 
