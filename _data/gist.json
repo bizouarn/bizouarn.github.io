@@ -1,5 +1,52 @@
 [
   {
+    "url": "https://api.github.com/gists/e29179909994762b243a09fa51f86002",
+    "forks_url": "https://api.github.com/gists/e29179909994762b243a09fa51f86002/forks",
+    "commits_url": "https://api.github.com/gists/e29179909994762b243a09fa51f86002/commits",
+    "id": "e29179909994762b243a09fa51f86002",
+    "node_id": "G_kwDOARh42NoAIGUyOTE3OTkwOTk5NDc2MmIyNDNhMDlmYTUxZjg2MDAy",
+    "git_pull_url": "https://gist.github.com/e29179909994762b243a09fa51f86002.git",
+    "git_push_url": "https://gist.github.com/e29179909994762b243a09fa51f86002.git",
+    "html_url": "https://gist.github.com/e29179909994762b243a09fa51f86002",
+    "files": {
+      "MarkupExtension.cs": {
+        "filename": "MarkupExtension.cs",
+        "type": "text/plain",
+        "language": "C#",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/e29179909994762b243a09fa51f86002/raw/4cbc297a42dbeca5c66b569ce3637810493de30e/MarkupExtension.cs",
+        "size": 3795
+      }
+    },
+    "public": true,
+    "created_at": "2023-02-28T11:38:54Z",
+    "updated_at": "2023-02-28T13:16:13Z",
+    "description": "Exemple de MarkupExtension WPF avec rafraîchissement",
+    "comments": 0,
+    "user": null,
+    "comments_url": "https://api.github.com/gists/e29179909994762b243a09fa51f86002/comments",
+    "owner": {
+      "login": "bizouarn",
+      "id": 18381016,
+      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bizouarn",
+      "html_url": "https://github.com/bizouarn",
+      "followers_url": "https://api.github.com/users/bizouarn/followers",
+      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
+      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
+      "repos_url": "https://api.github.com/users/bizouarn/repos",
+      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
     "url": "https://api.github.com/gists/1c7e73a7d649344c9145fb3ff93e7ad9",
     "forks_url": "https://api.github.com/gists/1c7e73a7d649344c9145fb3ff93e7ad9/forks",
     "commits_url": "https://api.github.com/gists/1c7e73a7d649344c9145fb3ff93e7ad9/commits",
@@ -13,13 +60,13 @@
         "filename": "PowerShellExecutionPolicy.ps1",
         "type": "application/x-msdos-program",
         "language": "PowerShell",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/1c7e73a7d649344c9145fb3ff93e7ad9/raw/4f2b0e71c0715d8e143ed7c295433d5fea795963/PowerShellExecutionPolicy.ps1",
-        "size": 346
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/1c7e73a7d649344c9145fb3ff93e7ad9/raw/0ad7b93ee80f14044c8f44806b4e6d52be3765f2/PowerShellExecutionPolicy.ps1",
+        "size": 347
       }
     },
     "public": true,
     "created_at": "2023-02-23T11:43:43Z",
-    "updated_at": "2023-02-23T12:03:21Z",
+    "updated_at": "2023-02-23T14:18:00Z",
     "description": "Gestion des droits d'exécution des scripts powershell (temporairement)",
     "comments": 0,
     "user": null,
@@ -295,14 +342,14 @@
         "filename": "PACK-Android.sh",
         "type": "application/x-sh",
         "language": "Shell",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/45ef7314f47b762e6f9754ce036fa50a/raw/60133e54ff4807b16f48010b998a7df5121bd0f7/PACK-Android.sh",
-        "size": 221
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/45ef7314f47b762e6f9754ce036fa50a/raw/c0e128dffd69f3f467da503f7a0ab77a2d399882/PACK-Android.sh",
+        "size": 283
       }
     },
     "public": true,
     "created_at": "2022-05-20T09:08:56Z",
-    "updated_at": "2022-06-02T13:32:48Z",
-    "description": "Debug cordova app",
+    "updated_at": "2023-02-28T11:34:59Z",
+    "description": "Debug cordova app in chrome",
     "comments": 0,
     "user": null,
     "comments_url": "https://api.github.com/gists/45ef7314f47b762e6f9754ce036fa50a/comments",
