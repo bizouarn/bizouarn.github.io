@@ -98,8 +98,8 @@ function genTag(tag){
 	console.log(release_notes.join('\n'))
 }
 
-if(process.argv.length < 1){
-	gen()
-} else if(process.argv[2] != undefined){
+if(process.argv.length > 1 && process.argv[2] != undefined){
 	genTag(process.argv[2])
+} else {
+	gen();
 }
