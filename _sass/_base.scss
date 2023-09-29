@@ -108,6 +108,7 @@ blockquote {
  */
 pre {
 	overflow-x: auto;
+	max-width: calc(100vw - 30px);
 	> code:not(.mermaid) {
 		border: 0;
 		padding: 1px 5px;
