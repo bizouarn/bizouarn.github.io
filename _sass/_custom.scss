@@ -1,0 +1,18 @@
+
+#logo:hover{
+    animation: 500ms linear 1ms 1 logo_anim;
+    animation-fill-mode: backwards;
+}
+
+@keyframes logo_anim { from { transform: rotate3d(0,0,0,0); } to { transform: rotate3d(0, 1, 0, 180deg) }  }
+
+#logo{
+	width: 32px;
+	height: 32px;
+	background-size: 32px 32px;
+	margin-top: 12px;
+	background-image: url("/assets/images/logo.png");
+	@media (prefers-color-scheme: dark) {
+		background-image: url("/assets/images/dark_logo.png");
+	}
+}

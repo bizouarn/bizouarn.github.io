@@ -11,13 +11,38 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+/* Light mode */
+:root {
+    --text-color:       #111;
+    --background-color: #fdfdfd;
+    --brand-color: #2a7ae2;
+    --brand-color-dark: #1c67ca;
+    --grey-color: #828282;
+    --grey-color-light: #b5b5b5;
+    --grey-color-dark: #636363;
+}
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text-color:  	#f8f8f2;
+        --background-color:  	#282a36;
+        --brand-color: #50fa7b;
+        --brand-color-dark:  	#ff79c6;
+        --grey-color: #6272a4;
+        --grey-color-light: #798dc9;
+        --grey-color-dark: #54628c;
+    }
+}
+
+$background-color: var(--background-color);
+$text-color:       var(--text-color);
+$brand-color:      var(--brand-color);
+$brand-color-dark: var(--brand-color-dark);
+
+$grey-color:       var(--grey-color);
+$grey-color-light: var(--grey-color-light);
+$grey-color-dark:  var(--grey-color-dark);
 
 // Width of the content area
 $content-width:    900px;
@@ -40,9 +65,10 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+    "base",
+    "layout",
+    "syntax-highlighting",
+    "custom"
 ;
 
 body {
@@ -50,10 +76,3 @@ body {
     display: grid;
     grid-template-rows: auto 1fr auto;
 }
-
-#logo:hover{
-    animation: 500ms linear 1ms 1 logo_anim;
-    animation-fill-mode: backwards;
-}
-
-@keyframes logo_anim { from { transform: rotate3d(0,0,0,0); } to { transform: rotate3d(0, 1, 0, 180deg) }  }

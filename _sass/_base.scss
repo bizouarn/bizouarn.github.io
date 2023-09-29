@@ -79,7 +79,7 @@ a {
 	color: $brand-color;
 	text-decoration: none;
 	&:visited {
-		color: darken($brand-color, 15%);
+		color: $brand-color-dark;
 	}
 	&:hover {
 		color: $text-color;
@@ -108,11 +108,23 @@ blockquote {
  */
 pre {
 	overflow-x: auto;
-	> code {
+	> code:not(.mermaid) {
 		border: 0;
 		padding: 1px 5px;
 		border-radius: 3px;
 		font-size: 15px;
+		@media (prefers-color-scheme: dark) {
+			border: 1px solid $grey-color;
+		}
+	}
+	> code.mermaid {
+		border: 0;
+		padding: 1px 5px;
+		border-radius: 3px;
+		font-size: 15px;
+		svg {
+			background: $grey-color;
+		}
 	}
 }
 
