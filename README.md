@@ -16,3 +16,13 @@ Développeur full stack chez HERAKLES ERP Vannes
 ### 📫 Comment me contacter :
 - Mail : [aymeric@bizouarn.fr](mailto://aymeric@bizouarn.fr)
 - telegram : [@bizouarn](https://t.me/bizouarn)
+
+<a href="https://www.abuseipdb.com/user/127559" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+	<img src="https://www.abuseipdb.com/contributor/127559.svg" alt="AbuseIPDB Contributor Badge" style="width: 316px;border-radius: 5px;border-top: 5px solid #058403;border-right: 5px solid #111;border-bottom: 5px solid #111;border-left: 5px solid #058403;padding: 5px;background: #35c246 linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(0,0,0,.2) 51%, rgba(0,0,0,0));padding: 5px;">
+</a>
+
+<!------------------------
+(\_/)
+(°_°)
+/ > Aymeric Bizouarn 2023 ©
+--------------------------!>
