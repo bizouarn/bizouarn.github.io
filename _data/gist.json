@@ -1,5 +1,52 @@
 [
   {
+    "url": "https://api.github.com/gists/50d1c4aca79fb31024dea173dc64a99b",
+    "forks_url": "https://api.github.com/gists/50d1c4aca79fb31024dea173dc64a99b/forks",
+    "commits_url": "https://api.github.com/gists/50d1c4aca79fb31024dea173dc64a99b/commits",
+    "id": "50d1c4aca79fb31024dea173dc64a99b",
+    "node_id": "G_kwDOARh42NoAIDUwZDFjNGFjYTc5ZmIzMTAyNGRlYTE3M2RjNjRhOTli",
+    "git_pull_url": "https://gist.github.com/50d1c4aca79fb31024dea173dc64a99b.git",
+    "git_push_url": "https://gist.github.com/50d1c4aca79fb31024dea173dc64a99b.git",
+    "html_url": "https://gist.github.com/bizouarn/50d1c4aca79fb31024dea173dc64a99b",
+    "files": {
+      "operateursLogiques.md": {
+        "filename": "operateursLogiques.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/50d1c4aca79fb31024dea173dc64a99b/raw/9c94738c2ddd295fedf3341dbd8d49f1af0cba45/operateursLogiques.md",
+        "size": 3846
+      }
+    },
+    "public": true,
+    "created_at": "2023-12-13T16:49:31Z",
+    "updated_at": "2023-12-13T17:40:54Z",
+    "description": "Opérateurs Logiques en C#",
+    "comments": 0,
+    "user": null,
+    "comments_url": "https://api.github.com/gists/50d1c4aca79fb31024dea173dc64a99b/comments",
+    "owner": {
+      "login": "bizouarn",
+      "id": 18381016,
+      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bizouarn",
+      "html_url": "https://github.com/bizouarn",
+      "followers_url": "https://api.github.com/users/bizouarn/followers",
+      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
+      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
+      "repos_url": "https://api.github.com/users/bizouarn/repos",
+      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
     "url": "https://api.github.com/gists/78a9c3c4fd0ff4302c69f5331917ed61",
     "forks_url": "https://api.github.com/gists/78a9c3c4fd0ff4302c69f5331917ed61/forks",
     "commits_url": "https://api.github.com/gists/78a9c3c4fd0ff4302c69f5331917ed61/commits",
@@ -342,13 +389,13 @@
         "filename": "GenerateStreamFromString.cs",
         "type": "text/plain",
         "language": "C#",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/c68dab6c47558f92dc8b3ddf4253c1a5/raw/8472f052da524bd2e6ab29cec2b589f3274c8ab1/GenerateStreamFromString.cs",
-        "size": 242
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/c68dab6c47558f92dc8b3ddf4253c1a5/raw/0986112702b6ca8e557cc4c18aad5ba703e9d6af/GenerateStreamFromString.cs",
+        "size": 448
       }
     },
     "public": true,
     "created_at": "2022-09-14T11:50:26Z",
-    "updated_at": "2022-09-23T07:35:12Z",
+    "updated_at": "2023-11-21T20:16:02Z",
     "description": "Method C# for convert String to Stream",
     "comments": 0,
     "user": null,
@@ -436,13 +483,13 @@
         "filename": "GIT.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/365a14dd63e4a32eff6a95a010b39b8b/raw/87dd613cc888e4390680987e99d152569f42ea1b/GIT.md",
-        "size": 3501
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/365a14dd63e4a32eff6a95a010b39b8b/raw/3657bf77da56ce8e84710b233d24fb79a0c035da/GIT.md",
+        "size": 3692
       }
     },
     "public": true,
     "created_at": "2022-08-25T12:43:09Z",
-    "updated_at": "2023-02-23T10:46:08Z",
+    "updated_at": "2023-12-14T13:39:45Z",
     "description": "Utiliser les commandes de base de git",
     "comments": 0,
     "user": null,
