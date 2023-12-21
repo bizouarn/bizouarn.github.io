@@ -1,5 +1,5 @@
 <div class="repo-grid">
-{% for post in site.data.repo limit:10 %}
+{% for post in site.data.repo %}
 {% if post.archived == include.archive and post.fork == include.fork %}
 	<div class="repo-box">
 		<div style="width: 100%;" class="icon">
