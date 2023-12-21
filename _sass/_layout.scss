@@ -260,3 +260,11 @@
 	font-size: 10px;
 	vertical-align: middle;
 }
+.licenses-link {
+	display: inline-block;
+	width: 200px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	vertical-align: bottom;
+}
