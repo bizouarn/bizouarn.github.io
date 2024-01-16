@@ -9,17 +9,17 @@
     "git_push_url": "https://gist.github.com/50d1c4aca79fb31024dea173dc64a99b.git",
     "html_url": "https://gist.github.com/bizouarn/50d1c4aca79fb31024dea173dc64a99b",
     "files": {
-      "operateursLogiques.md": {
-        "filename": "operateursLogiques.md",
+      "OperateursLogiques.md": {
+        "filename": "OperateursLogiques.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/50d1c4aca79fb31024dea173dc64a99b/raw/9c94738c2ddd295fedf3341dbd8d49f1af0cba45/operateursLogiques.md",
-        "size": 3846
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/50d1c4aca79fb31024dea173dc64a99b/raw/df7b2a2a4b0e195edd8e26c23904014097339fb6/OperateursLogiques.md",
+        "size": 3853
       }
     },
     "public": true,
     "created_at": "2023-12-13T16:49:31Z",
-    "updated_at": "2023-12-13T17:40:54Z",
+    "updated_at": "2023-12-22T11:37:34Z",
     "description": "Opérateurs Logiques en C#",
     "comments": 0,
     "user": null,
