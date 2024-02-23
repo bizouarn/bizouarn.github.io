@@ -1,5 +1,52 @@
 [
   {
+    "url": "https://api.github.com/gists/2e237510bb50fb5dc9c8e433548cb6ed",
+    "forks_url": "https://api.github.com/gists/2e237510bb50fb5dc9c8e433548cb6ed/forks",
+    "commits_url": "https://api.github.com/gists/2e237510bb50fb5dc9c8e433548cb6ed/commits",
+    "id": "2e237510bb50fb5dc9c8e433548cb6ed",
+    "node_id": "G_kwDOARh42NoAIDJlMjM3NTEwYmI1MGZiNWRjOWM4ZTQzMzU0OGNiNmVk",
+    "git_pull_url": "https://gist.github.com/2e237510bb50fb5dc9c8e433548cb6ed.git",
+    "git_push_url": "https://gist.github.com/2e237510bb50fb5dc9c8e433548cb6ed.git",
+    "html_url": "https://gist.github.com/bizouarn/2e237510bb50fb5dc9c8e433548cb6ed",
+    "files": {
+      "UnquotedServicePath.md": {
+        "filename": "UnquotedServicePath.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/2e237510bb50fb5dc9c8e433548cb6ed/raw/8652c06e6e9902a2d7a8aa02f4f8a075e118b37d/UnquotedServicePath.md",
+        "size": 5036
+      }
+    },
+    "public": true,
+    "created_at": "2024-02-21T11:14:41Z",
+    "updated_at": "2024-02-21T11:24:55Z",
+    "description": "La faille de sécurité \"Unquoted Service Path\" (Windows)",
+    "comments": 0,
+    "user": null,
+    "comments_url": "https://api.github.com/gists/2e237510bb50fb5dc9c8e433548cb6ed/comments",
+    "owner": {
+      "login": "bizouarn",
+      "id": 18381016,
+      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bizouarn",
+      "html_url": "https://github.com/bizouarn",
+      "followers_url": "https://api.github.com/users/bizouarn/followers",
+      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
+      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
+      "repos_url": "https://api.github.com/users/bizouarn/repos",
+      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
     "url": "https://api.github.com/gists/50d1c4aca79fb31024dea173dc64a99b",
     "forks_url": "https://api.github.com/gists/50d1c4aca79fb31024dea173dc64a99b/forks",
     "commits_url": "https://api.github.com/gists/50d1c4aca79fb31024dea173dc64a99b/commits",
@@ -13,13 +60,13 @@
         "filename": "OperateursLogiques.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/50d1c4aca79fb31024dea173dc64a99b/raw/df7b2a2a4b0e195edd8e26c23904014097339fb6/OperateursLogiques.md",
-        "size": 3853
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/50d1c4aca79fb31024dea173dc64a99b/raw/67c709f8c37a793d8916167ebf09f023c0e920ab/OperateursLogiques.md",
+        "size": 3861
       }
     },
     "public": true,
     "created_at": "2023-12-13T16:49:31Z",
-    "updated_at": "2023-12-22T11:37:34Z",
+    "updated_at": "2024-02-14T08:31:47Z",
     "description": "Opérateurs Logiques en C#",
     "comments": 0,
     "user": null,
