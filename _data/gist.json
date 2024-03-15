@@ -13,13 +13,13 @@
         "filename": "UnquotedServicePath.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/2e237510bb50fb5dc9c8e433548cb6ed/raw/8652c06e6e9902a2d7a8aa02f4f8a075e118b37d/UnquotedServicePath.md",
-        "size": 5036
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/2e237510bb50fb5dc9c8e433548cb6ed/raw/5467c3aad7bbc14536be615f664b435a5bb69a4c/UnquotedServicePath.md",
+        "size": 4891
       }
     },
     "public": true,
     "created_at": "2024-02-21T11:14:41Z",
-    "updated_at": "2024-02-21T11:24:55Z",
+    "updated_at": "2024-03-13T22:28:10Z",
     "description": "La faille de sécurité \"Unquoted Service Path\" (Windows)",
     "comments": 0,
     "user": null,
