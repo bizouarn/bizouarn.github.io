@@ -9,9 +9,9 @@ function generateReleaseNotes(commit_messages, tag = '') {
     const tag_md = tag ? tag.replace(/\*/g, '\\*') : '';
     const release_notes_header = tag ? `# Release Notes : ${tag_md}` : '# Release Notes';
     const release_notes_footer = '';
-    const release_notes_contributors = ['\n# Contributors\n'];
-    const release_notes_evo = ['\n# Evolution of the project\n', '| EVO | Date | Contributor | Hash |', '| -------- | ----- | ------------ | ---- |'];
-    const release_notes_bug = ['\n# Bugs fixed\n', '| BUGFIX | Date | Contributor | Hash |', '|:--------|:-----|:------------| ---- |'];
+    const release_notes_contributors = ['\n## Contributors\n'];
+    const release_notes_evo = ['\n## Evolution of the project\n', '| EVO | Date | Contributor | Hash |', '| -------- | ----- | ------------ | ---- |'];
+    const release_notes_bug = ['\n## Bugs fixed\n', '| BUGFIX | Date | Contributor | Hash |', '|:--------|:-----|:------------| ---- |'];
 
 	// parse commit messages
     for (const msg of commit_messages) {
@@ -22,7 +22,7 @@ function generateReleaseNotes(commit_messages, tag = '') {
         const date_str = `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()}`;
         const lowerMsg = parts[0].toLowerCase();
 		// determine release notes
-        if (lowerMsg.includes('bug') || lowerMsg.includes('fix') || lowerMsg.includes('correct')) {
+        if (lowerMsg.includes('bug') || lowerMsg.includes('fix') || lowerMsg.includes('correct') || lowerMsg.includes('corrige')) {
             release_notes_bug.push(`| ${parts[0]} | ${date_str} | ${parts[2]} | ${parts[3]} |`);
         } else if (lowerMsg.includes('evo') || lowerMsg.includes('add') || lowerMsg.includes('ajout')) {
             release_notes_evo.push(`| ${parts[0]} | ${date_str} | ${parts[2]} | ${parts[3]} |`);
