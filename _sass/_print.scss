@@ -6,6 +6,7 @@
 	.page-content, .page-content * {
 		visibility: visible;
 		print-color-adjust: exact;
+		-webkit-print-color-adjust: exact;
 	}
 	head { 
 		display: none; 
