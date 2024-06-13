@@ -1,7 +1,7 @@
 
 #logo:hover{
-    animation: 500ms linear 1ms 1 logo_anim;
-    animation-fill-mode: backwards;
+	animation: 500ms linear 1ms 1 logo_anim;
+	animation-fill-mode: backwards;
 }
 
 @keyframes logo_anim { from { transform: rotate3d(0,0,0,0); } to { transform: rotate3d(0, 1, 0, 180deg) }  }

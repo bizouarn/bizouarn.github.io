@@ -1,0 +1,20 @@
+// Styles spécifiques à l'impression
+@media print {
+	body * {
+		visibility: hidden;
+	}
+	.page-content, .page-content * {
+		visibility: visible;
+		print-color-adjust: exact;
+	}
+	head { 
+		display: none; 
+	}
+	.page-content {
+		position: absolute;
+		left: 0;
+		top: 0;
+		width: 100%; // S'assure que la largeur s'étend sur la page entière
+		margin: 0;	// Supprime les marges pour l'impression
+	}
+}
