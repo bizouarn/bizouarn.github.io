@@ -4,7 +4,6 @@ permalink: /pages/gist/
 ---
 <div class="home">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/showdown-table@1.0.1/dist/showdown-table.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/powershell.min.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/base16/dracula.min.css"/>
@@ -15,7 +14,7 @@ permalink: /pages/gist/
 		var params = new URLSearchParams(document.location.search);
 		var src = "https://api.github.com/gists/"+params.get("gist");
 		$.get(src,function(data){
-			var converter = new showdown.Converter({extensions: ['table']});
+			var converter = new showdown.Converter({ tables: true, emoji: true, ghCompatibleHeaderId: true, tasklists: true});
 			var file = (data.files[Object.keys(data.files)]);
 			var html = file.content;
 			document.title = file.filename.split(".")[0];
