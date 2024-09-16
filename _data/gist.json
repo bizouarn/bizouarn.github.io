@@ -1,5 +1,52 @@
 [
   {
+    "url": "https://api.github.com/gists/b99ed62eb488410832616821192281bc",
+    "forks_url": "https://api.github.com/gists/b99ed62eb488410832616821192281bc/forks",
+    "commits_url": "https://api.github.com/gists/b99ed62eb488410832616821192281bc/commits",
+    "id": "b99ed62eb488410832616821192281bc",
+    "node_id": "G_kwDOARh42NoAIGI5OWVkNjJlYjQ4ODQxMDgzMjYxNjgyMTE5MjI4MWJj",
+    "git_pull_url": "https://gist.github.com/b99ed62eb488410832616821192281bc.git",
+    "git_push_url": "https://gist.github.com/b99ed62eb488410832616821192281bc.git",
+    "html_url": "https://gist.github.com/bizouarn/b99ed62eb488410832616821192281bc",
+    "files": {
+      "AddWgetToGitBash.ps1": {
+        "filename": "AddWgetToGitBash.ps1",
+        "type": "application/x-msdos-program",
+        "language": "PowerShell",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/b99ed62eb488410832616821192281bc/raw/34f31e9c5403e7e8a33090e945b148927b435c43/AddWgetToGitBash.ps1",
+        "size": 1073
+      }
+    },
+    "public": true,
+    "created_at": "2024-09-16T13:28:57Z",
+    "updated_at": "2024-09-16T13:33:48Z",
+    "description": "Ajouter wget à git-bash",
+    "comments": 0,
+    "user": null,
+    "comments_url": "https://api.github.com/gists/b99ed62eb488410832616821192281bc/comments",
+    "owner": {
+      "login": "bizouarn",
+      "id": 18381016,
+      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bizouarn",
+      "html_url": "https://github.com/bizouarn",
+      "followers_url": "https://api.github.com/users/bizouarn/followers",
+      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
+      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
+      "repos_url": "https://api.github.com/users/bizouarn/repos",
+      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
     "url": "https://api.github.com/gists/6068be051f7f0e73d1beae908684e61c",
     "forks_url": "https://api.github.com/gists/6068be051f7f0e73d1beae908684e61c/forks",
     "commits_url": "https://api.github.com/gists/6068be051f7f0e73d1beae908684e61c/commits",
@@ -13,13 +60,13 @@
         "filename": "DebugPort.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/6068be051f7f0e73d1beae908684e61c/raw/9878e10a64fe8be9ab8c863763abefbf71cf3a5c/DebugPort.md",
-        "size": 3287
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/6068be051f7f0e73d1beae908684e61c/raw/871fb4f478cf181da0c0138a02d37339b829f78f/DebugPort.md",
+        "size": 3323
       }
     },
     "public": true,
     "created_at": "2024-09-04T20:42:52Z",
-    "updated_at": "2024-09-04T20:44:11Z",
+    "updated_at": "2024-09-12T08:10:48Z",
     "description": "Guide Pratique pour Déboguer un Port chez un Client avec PowerShell",
     "comments": 0,
     "user": null,
