@@ -5,7 +5,7 @@ title: A propos
 ---
 # Bonjour 👋
 ## Je suis Aymeric BIZOUARN 🇫🇷
-Développeur full stack chez HERAKLES ERP Vannes
+Développeur full stack chez [HERAKLES](https://herakles.com/) ERP Vannes
 
 ### 🔭 Mes projets :  
 - [Planning IUT](https://github.com/bizouarn/Planning-IUT.git)
