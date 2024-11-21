@@ -248,6 +248,11 @@
 	border-style: solid;
 	border-color: $grey-color-light;
 }
+
+.repo-box div{
+	overflow: auto;
+}
+
 .repo-grid{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
@@ -256,6 +261,7 @@
 	}
 }
 .repo-type{
+	position: absolute;
 	border: solid 2px $grey-color-light;
 	border-radius: 15px;
 	padding: 2px 5px;
