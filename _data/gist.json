@@ -1,5 +1,53 @@
 [
   {
+    "url": "https://api.github.com/gists/7e160efb40e8df852d4daf84c3514898",
+    "forks_url": "https://api.github.com/gists/7e160efb40e8df852d4daf84c3514898/forks",
+    "commits_url": "https://api.github.com/gists/7e160efb40e8df852d4daf84c3514898/commits",
+    "id": "7e160efb40e8df852d4daf84c3514898",
+    "node_id": "G_kwDOARh42NoAIDdlMTYwZWZiNDBlOGRmODUyZDRkYWY4NGMzNTE0ODk4",
+    "git_pull_url": "https://gist.github.com/7e160efb40e8df852d4daf84c3514898.git",
+    "git_push_url": "https://gist.github.com/7e160efb40e8df852d4daf84c3514898.git",
+    "html_url": "https://gist.github.com/bizouarn/7e160efb40e8df852d4daf84c3514898",
+    "files": {
+      "HResult.md": {
+        "filename": "HResult.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/7e160efb40e8df852d4daf84c3514898/raw/d3278c76de4dfda76de5813310d4f9df8784ac4a/HResult.md",
+        "size": 4646
+      }
+    },
+    "public": true,
+    "created_at": "2024-11-21T09:03:58Z",
+    "updated_at": "2024-11-21T09:11:57Z",
+    "description": "Qu'est-ce que HResult ? (en c#)",
+    "comments": 0,
+    "user": null,
+    "comments_url": "https://api.github.com/gists/7e160efb40e8df852d4daf84c3514898/comments",
+    "owner": {
+      "login": "bizouarn",
+      "id": 18381016,
+      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bizouarn",
+      "html_url": "https://github.com/bizouarn",
+      "followers_url": "https://api.github.com/users/bizouarn/followers",
+      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
+      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
+      "repos_url": "https://api.github.com/users/bizouarn/repos",
+      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
     "url": "https://api.github.com/gists/57ea932e51a7a246959fdc6558970a77",
     "forks_url": "https://api.github.com/gists/57ea932e51a7a246959fdc6558970a77/forks",
     "commits_url": "https://api.github.com/gists/57ea932e51a7a246959fdc6558970a77/commits",
@@ -42,6 +90,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -89,6 +138,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -136,6 +186,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -183,6 +234,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -230,6 +282,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -277,6 +330,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -324,6 +378,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -371,6 +426,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -418,6 +474,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -465,6 +522,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -512,6 +570,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -559,6 +618,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -606,6 +666,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -653,6 +714,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -677,8 +739,8 @@
     },
     "public": true,
     "created_at": "2022-10-07T12:23:08Z",
-    "updated_at": "2022-11-24T08:18:43Z",
-    "description": "Récupère de chemin du service courant.",
+    "updated_at": "2024-11-13T21:57:07Z",
+    "description": "Récupère le chemin du service courant.",
     "comments": 0,
     "user": null,
     "comments_url": "https://api.github.com/gists/a4b860fa99d8cc6b84d0c6b202e21287/comments",
@@ -700,6 +762,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -747,6 +810,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -794,6 +858,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -841,6 +906,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -859,13 +925,13 @@
         "filename": "AstucesBindingWPF.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/b6d4ad561ea959c77f46091bc9941d3a/raw/798e6634d0fbe889f2c64190fb7baaa5935ef4c3/AstucesBindingWPF.md",
-        "size": 4699
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/b6d4ad561ea959c77f46091bc9941d3a/raw/61d9fe71d1a998c742dfdf23674ff23028de339c/AstucesBindingWPF.md",
+        "size": 4757
       }
     },
     "public": true,
     "created_at": "2022-06-03T09:32:29Z",
-    "updated_at": "2022-12-14T21:55:21Z",
+    "updated_at": "2024-11-13T22:00:12Z",
     "description": "Notes pour le binding WPF",
     "comments": 0,
     "user": null,
@@ -888,6 +954,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -935,6 +1002,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -982,6 +1050,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -1006,8 +1075,8 @@
     },
     "public": true,
     "created_at": "2022-03-22T14:06:22Z",
-    "updated_at": "2023-09-29T18:05:40Z",
-    "description": "",
+    "updated_at": "2024-11-13T21:53:08Z",
+    "description": "Comment nommer ses branches et ses messages de commit ?",
     "comments": 0,
     "user": null,
     "comments_url": "https://api.github.com/gists/48e6d3661cf2cdb90732fbac91ff7f56/comments",
@@ -1029,6 +1098,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -1076,6 +1146,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
@@ -1123,6 +1194,7 @@
       "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
       "received_events_url": "https://api.github.com/users/bizouarn/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "truncated": false
