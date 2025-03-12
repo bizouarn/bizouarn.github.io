@@ -9,17 +9,17 @@
     "git_push_url": "https://gist.github.com/cdbe70eb3744b5b37ab32d188410cea6.git",
     "html_url": "https://gist.github.com/bizouarn/cdbe70eb3744b5b37ab32d188410cea6",
     "files": {
-      "mauvaise-pratique-ienumerable.md": {
-        "filename": "mauvaise-pratique-ienumerable.md",
+      "MauvaisePratiqueIenumerable.md": {
+        "filename": "MauvaisePratiqueIenumerable.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/cdbe70eb3744b5b37ab32d188410cea6/raw/14176d4f92d839d2b31a9d875fdfe052f8844290/mauvaise-pratique-ienumerable.md",
-        "size": 4082
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/cdbe70eb3744b5b37ab32d188410cea6/raw/eaafd0dac8a1ae3cd7a9d1927fa32e7f374d0d9f/MauvaisePratiqueIenumerable.md",
+        "size": 4079
       }
     },
     "public": true,
     "created_at": "2025-03-03T13:47:01Z",
-    "updated_at": "2025-03-03T13:58:04Z",
+    "updated_at": "2025-03-04T07:03:26Z",
     "description": "Pourquoi éviter de stocker des IEnumerable<T> en propriété d’objet en C# ?",
     "comments": 0,
     "user": null,
