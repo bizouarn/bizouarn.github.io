@@ -15,7 +15,7 @@ function generateReleaseNotes(commit_messages, tag = '') {
 
 	// parse commit messages
     for (const msg of commit_messages) {
-        const parts = msg.split('|');
+        const parts = msg.split('¶');
 		// if msg is empty, skip
         if (parts[0].length < 1) continue;
         const date = new Date(parts[1]);
@@ -23,9 +23,9 @@ function generateReleaseNotes(commit_messages, tag = '') {
         const lowerMsg = parts[0].toLowerCase();
 		// determine release notes
         if (lowerMsg.includes('bug') || lowerMsg.includes('fix') || lowerMsg.includes('correct') || lowerMsg.includes('corrige')) {
-            release_notes_bug.push(`| ${parts[0]} | ${date_str} | ${parts[2]} | ${parts[3]} |`);
+            release_notes_bug.push(`| ${parts[0].replaceAll('|', '\\|')} | ${date_str} | ${parts[2]} | ${parts[3]} |`);
         } else if (lowerMsg.includes('evo') || lowerMsg.includes('add') || lowerMsg.includes('ajout')) {
-            release_notes_evo.push(`| ${parts[0]} | ${date_str} | ${parts[2]} | ${parts[3]} |`);
+            release_notes_evo.push(`| ${parts[0].replaceAll('|', '\\|')} | ${date_str} | ${parts[2]} | ${parts[3]} |`);
         } else {
             continue;
         }
@@ -49,13 +49,13 @@ function generateReleaseNotes(commit_messages, tag = '') {
 
 function gen() {
 	// get commit messages
-    const commit_messages = child_process.execSync('git log --pretty="%s|%ad|%an|%h"').toString().split('\n');
+    const commit_messages = child_process.execSync('git log --pretty="%s¶%ad¶%an¶%h"').toString().split('\n');
     generateReleaseNotes(commit_messages);
 }
 
 function genTag(tag) {
 	// get commit messages
-    const commit_messages = child_process.execSync(`git log --pretty="%s|%ad|%an|%h" ${tag}`).toString().split('\n');
+    const commit_messages = child_process.execSync(`git log --pretty="%s¶%ad¶%an¶%h" ${tag}`).toString().split('\n');
     generateReleaseNotes(commit_messages, tag);
 }
 
