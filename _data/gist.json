@@ -1,5 +1,54 @@
 [
   {
+    "url": "https://api.github.com/gists/22c69a12c787908ebcf8ed5b39a024d5",
+    "forks_url": "https://api.github.com/gists/22c69a12c787908ebcf8ed5b39a024d5/forks",
+    "commits_url": "https://api.github.com/gists/22c69a12c787908ebcf8ed5b39a024d5/commits",
+    "id": "22c69a12c787908ebcf8ed5b39a024d5",
+    "node_id": "G_kwDOARh42NoAIDIyYzY5YTEyYzc4NzkwOGViY2Y4ZWQ1YjM5YTAyNGQ1",
+    "git_pull_url": "https://gist.github.com/22c69a12c787908ebcf8ed5b39a024d5.git",
+    "git_push_url": "https://gist.github.com/22c69a12c787908ebcf8ed5b39a024d5.git",
+    "html_url": "https://gist.github.com/bizouarn/22c69a12c787908ebcf8ed5b39a024d5",
+    "files": {
+      "ButinTokenWindows.ps1": {
+        "filename": "ButinTokenWindows.ps1",
+        "type": "application/x-msdos-program",
+        "language": "PowerShell",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/22c69a12c787908ebcf8ed5b39a024d5/raw/1b228ded496f8710b4f90e1c813b681b4ed91615/ButinTokenWindows.ps1",
+        "size": 493
+      }
+    },
+    "public": true,
+    "created_at": "2025-06-20T19:34:39Z",
+    "updated_at": "2025-07-03T21:30:38Z",
+    "description": "Récupère un access_token en clair depuis le Credential Manager Windows",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/22c69a12c787908ebcf8ed5b39a024d5/comments",
+    "owner": {
+      "login": "bizouarn",
+      "id": 18381016,
+      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bizouarn",
+      "html_url": "https://github.com/bizouarn",
+      "followers_url": "https://api.github.com/users/bizouarn/followers",
+      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
+      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
+      "repos_url": "https://api.github.com/users/bizouarn/repos",
+      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
     "url": "https://api.github.com/gists/e9298a8e4c67d8ddd147e569aba616b4",
     "forks_url": "https://api.github.com/gists/e9298a8e4c67d8ddd147e569aba616b4/forks",
     "commits_url": "https://api.github.com/gists/e9298a8e4c67d8ddd147e569aba616b4/commits",
@@ -356,13 +405,13 @@
         "filename": "MauvaisePratiqueIEnumerable.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/cdbe70eb3744b5b37ab32d188410cea6/raw/eaafd0dac8a1ae3cd7a9d1927fa32e7f374d0d9f/MauvaisePratiqueIEnumerable.md",
-        "size": 4079
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/cdbe70eb3744b5b37ab32d188410cea6/raw/858ce70631fa7d3e035b74ecbe35e25fca210586/MauvaisePratiqueIEnumerable.md",
+        "size": 4693
       }
     },
     "public": true,
     "created_at": "2025-03-03T13:47:01Z",
-    "updated_at": "2025-03-20T18:03:27Z",
+    "updated_at": "2025-07-03T21:32:19Z",
     "description": "Pourquoi éviter de stocker des IEnumerable<T> en propriété d’objet en C# ?",
     "comments": 0,
     "user": null,
@@ -895,13 +944,13 @@
         "filename": "SOLID.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/78a9c3c4fd0ff4302c69f5331917ed61/raw/a91b286cbdd8c83b2b1edb1431af16915ec5fcbc/SOLID.md",
-        "size": 9391
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/78a9c3c4fd0ff4302c69f5331917ed61/raw/24044d9c749e093cdc28d8e945dff7ba384a0a69/SOLID.md",
+        "size": 9550
       }
     },
     "public": true,
     "created_at": "2023-09-29T16:34:33Z",
-    "updated_at": "2023-09-29T17:16:09Z",
+    "updated_at": "2025-07-03T21:48:56Z",
     "description": "Les Principes de la méthode SOLID",
     "comments": 0,
     "user": null,
