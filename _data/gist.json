@@ -9,8 +9,8 @@
     "git_push_url": "https://gist.github.com/22c69a12c787908ebcf8ed5b39a024d5.git",
     "html_url": "https://gist.github.com/bizouarn/22c69a12c787908ebcf8ed5b39a024d5",
     "files": {
-      "ButinTokenWindows.ps1": {
-        "filename": "ButinTokenWindows.ps1",
+      "ReadCredentialManagerToken.ps1": {
+        "filename": "ReadCredentialManagerToken.ps1",
         "type": "application/x-msdos-program",
         "language": "PowerShell",
         "raw_url": "https://gist.githubusercontent.com/bizouarn/22c69a12c787908ebcf8ed5b39a024d5/raw/1b228ded496f8710b4f90e1c813b681b4ed91615/ButinTokenWindows.ps1",
