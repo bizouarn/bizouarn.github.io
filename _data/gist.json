@@ -1,5 +1,54 @@
 [
   {
+    "url": "https://api.github.com/gists/95353ee493c0debdc227d922155cb18f",
+    "forks_url": "https://api.github.com/gists/95353ee493c0debdc227d922155cb18f/forks",
+    "commits_url": "https://api.github.com/gists/95353ee493c0debdc227d922155cb18f/commits",
+    "id": "95353ee493c0debdc227d922155cb18f",
+    "node_id": "G_kwDOARh42NoAIDk1MzUzZWU0OTNjMGRlYmRjMjI3ZDkyMjE1NWNiMThm",
+    "git_pull_url": "https://gist.github.com/95353ee493c0debdc227d922155cb18f.git",
+    "git_push_url": "https://gist.github.com/95353ee493c0debdc227d922155cb18f.git",
+    "html_url": "https://gist.github.com/bizouarn/95353ee493c0debdc227d922155cb18f",
+    "files": {
+      "ToStringPropre.md": {
+        "filename": "ToStringPropre.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/95353ee493c0debdc227d922155cb18f/raw/af09c3647d602578db8c1199a9a0b39d905e3960/ToStringPropre.md",
+        "size": 5681
+      }
+    },
+    "public": true,
+    "created_at": "2025-07-16T13:47:48Z",
+    "updated_at": "2025-07-16T15:02:01Z",
+    "description": "Redéfinir ToString() proprement en .net",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/95353ee493c0debdc227d922155cb18f/comments",
+    "owner": {
+      "login": "bizouarn",
+      "id": 18381016,
+      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bizouarn",
+      "html_url": "https://github.com/bizouarn",
+      "followers_url": "https://api.github.com/users/bizouarn/followers",
+      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
+      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
+      "repos_url": "https://api.github.com/users/bizouarn/repos",
+      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "truncated": false
+  },
+  {
     "url": "https://api.github.com/gists/22c69a12c787908ebcf8ed5b39a024d5",
     "forks_url": "https://api.github.com/gists/22c69a12c787908ebcf8ed5b39a024d5/forks",
     "commits_url": "https://api.github.com/gists/22c69a12c787908ebcf8ed5b39a024d5/commits",
@@ -13,13 +62,13 @@
         "filename": "ReadCredentialManagerToken.ps1",
         "type": "application/x-msdos-program",
         "language": "PowerShell",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/22c69a12c787908ebcf8ed5b39a024d5/raw/1b228ded496f8710b4f90e1c813b681b4ed91615/ButinTokenWindows.ps1",
-        "size": 493
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/22c69a12c787908ebcf8ed5b39a024d5/raw/3aea02e853b2bf9d2d1651fa8f5d7d908aab3298/ReadCredentialManagerToken.ps1",
+        "size": 602
       }
     },
     "public": true,
     "created_at": "2025-06-20T19:34:39Z",
-    "updated_at": "2025-07-03T21:30:38Z",
+    "updated_at": "2025-07-15T06:41:13Z",
     "description": "Récupère un access_token en clair depuis le Credential Manager Windows",
     "comments": 0,
     "user": null,
@@ -454,13 +503,13 @@
         "filename": "InterdictionChiffrementContreProductif.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/80e10093485e520afb66925bcc257b13/raw/649ddb503ed54ef6aa3170674387416a69361147/InterdictionChiffrementContreProductif.md",
-        "size": 2599
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/80e10093485e520afb66925bcc257b13/raw/055805a8771f3f4d1cb5f5ca0c0717908f779376/InterdictionChiffrementContreProductif.md",
+        "size": 2592
       }
     },
     "public": true,
     "created_at": "2025-02-27T21:16:43Z",
-    "updated_at": "2025-02-27T21:44:41Z",
+    "updated_at": "2025-07-16T08:08:05Z",
     "description": "Pourquoi interdire le chiffrement des messageries est une absurdité",
     "comments": 0,
     "user": null,
