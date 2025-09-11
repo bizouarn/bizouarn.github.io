@@ -31,8 +31,8 @@ layout: null
         <title>{{ post.files | first | first | xml_escape }}</title>
         <description>{{ post.description | xml_escape }}</description>
         <pubDate>{{ post.created_at | date_to_rfc822 }}</pubDate>
-        <link>{{site.url}}/pages/gist?gist={{post.id}}</link>
-        <guid isPermaLink="true">{{site.url}}/pages/gist?gist={{post.id}}</guid>
+        <link>{{site.url}}/gist/{{post.id}}</link>
+        <guid isPermaLink="true">{{site.url}}/gist/{{post.id}}</guid>
       </item>
     {% endfor %}
   </channel>
