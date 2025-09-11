@@ -3,10 +3,22 @@ title: Bizouarn
 email: aymeric@bizouarn.fr
 baseurl: ""
 url: "https://bizouarn.com"
-github_username:  bizouarn
+github_username: bizouarn
 twitter_username: aymericbizouarn
 gitlab_username: bizouarn
 footer_msg: Vous avez le même patronyme que moi, n'hésitez pas à me contacter si vous voulez une redirection en .bizouarn.fr ou .bizouarn.com.
 
+page_gen-dirs: true
+
+page_gen:
+  - data: 'gist'
+    template: 'gist'
+    name: 'id'
+    dir: 'gist'
+    
+
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-datapage-generator
