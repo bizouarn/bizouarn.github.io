@@ -12,7 +12,6 @@ hide: true
 	<script>
 		var js = document.createElement("script");
 		js.type = "text/javascript";
-		var params = new URLSearchParams(document.location.search);
 		var src = "https://api.github.com/gists/{{page.id}}";
 		$.get(src,function(data){
 			var converter = new showdown.Converter({ tables: true, emoji: true, ghCompatibleHeaderId: true, tasklists: true});
