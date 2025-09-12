@@ -17,7 +17,6 @@ hide: true
 			var converter = new showdown.Converter({ tables: true, emoji: true, ghCompatibleHeaderId: true, tasklists: true});
 			var file = (data.files[Object.keys(data.files)]);
 			var html = file.content;
-			document.title = file.filename.split(".")[0];
 			if(file.filename.split(".").slice(-1)!="md" || html.indexOf("# ") != 0)
 				var html = file.filename.split(".").slice(-1)!="md"
 					? "# "+ file.filename + "\n" + data.description +"\n```"+file.filename.split(".").slice(-1)+"\n"+html+"\n```"
