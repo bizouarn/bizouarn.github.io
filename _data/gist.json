@@ -13,13 +13,13 @@
         "filename": "ToString.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/95353ee493c0debdc227d922155cb18f/raw/1bb92b151638ff5c989da9509b3ec045d1a3accd/ToString.md",
-        "size": 5792
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/95353ee493c0debdc227d922155cb18f/raw/fa804973b65aa45ddd007ee3c57e1d3eea017f7d/ToString.md",
+        "size": 5723
       }
     },
     "public": true,
     "created_at": "2025-07-16T13:47:48Z",
-    "updated_at": "2025-07-24T15:10:58Z",
+    "updated_at": "2025-09-10T07:54:52Z",
     "description": "Redéfinir ToString() proprement en .net",
     "comments": 0,
     "user": null,
