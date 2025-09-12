@@ -12,15 +12,14 @@ hide: true
 	<script>
 		var js = document.createElement("script");
 		js.type = "text/javascript";
-		var src = "https://api.github.com/gists/{{page.id}}";
-		$.get(src,function(data){
+		var src = "{{page.raw_url}}";
+		$.get(src,function(html){
 			var converter = new showdown.Converter({ tables: true, emoji: true, ghCompatibleHeaderId: true, tasklists: true});
-			var file = (data.files[Object.keys(data.files)]);
-			var html = file.content;
-			if(file.filename.split(".").slice(-1)!="md" || html.indexOf("# ") != 0)
-				var html = file.filename.split(".").slice(-1)!="md"
-					? "# "+ file.filename + "\n" + data.description +"\n```"+file.filename.split(".").slice(-1)+"\n"+html+"\n```"
-					: "# "+ file.filename + "  \n" + html
+			var filename = "{{page.filename}}";
+			if(filename.split(".").slice(-1)!="md" || html.indexOf("# ") != 0)
+				var html = filename.split(".").slice(-1)!="md"
+					? "# "+ filename + "\n{{page.excerpt}}\n```" + filename.split(".").slice(-1) + "\n" + html + "\n```"
+					: "# "+ filename + "  \n" + html
 			var html = converter.makeHtml(html);
 			html.replace("","");
 			$("#md").append(html);
