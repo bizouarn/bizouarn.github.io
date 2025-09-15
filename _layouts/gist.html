@@ -20,10 +20,12 @@ hide: true
 					: "# "+ filename + "  \n" + html
 			var html = converter.makeHtml(html);
 			html.replace("","");
-			$("#md").append(html);
+			$("#md").html(html);
 			mermaid.init();
 			hljs.highlightAll();
 		})
 	</script>
-	<div id="md"></div>
+	<div id="md">
+		{{page.raw_content | markdownify}}
+	</div>
 </div>
