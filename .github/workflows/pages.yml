@@ -32,7 +32,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
-        uses: bizouarn/jekyll-build-pages@v1.0.0
+        uses: bizouarn/jekyll-build-pages@v1.1.0
         with:
           source: ./
           destination: ./_site
