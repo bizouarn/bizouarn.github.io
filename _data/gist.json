@@ -13,13 +13,13 @@
         "filename": "ToString.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/95353ee493c0debdc227d922155cb18f/raw/fa804973b65aa45ddd007ee3c57e1d3eea017f7d/ToString.md",
-        "size": 5723
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/95353ee493c0debdc227d922155cb18f/raw/4f3840f558b9d76d0ad3e91b41c0c17bbbca930c/ToString.md",
+        "size": 5901
       }
     },
     "public": true,
     "created_at": "2025-07-16T13:47:48Z",
-    "updated_at": "2025-09-10T07:54:52Z",
+    "updated_at": "2025-09-16T14:56:28Z",
     "description": "Redéfinir ToString() proprement en .net",
     "comments": 0,
     "user": null,
@@ -258,13 +258,13 @@
         "filename": "Unsafe.Net.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/7f356d3eadf47c53b754b8049d8acda1/raw/65d4f94cc3d96049d80bf4047cf1549696fe2ebc/Unsafe.Net.md",
-        "size": 4625
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/7f356d3eadf47c53b754b8049d8acda1/raw/eebf8be7d86f82a2e66c2c2ac7f0c80ca9725385/Unsafe.Net.md",
+        "size": 4580
       }
     },
     "public": true,
     "created_at": "2025-03-20T18:39:27Z",
-    "updated_at": "2025-03-31T13:41:44Z",
+    "updated_at": "2025-09-16T10:51:59Z",
     "description": "Pourquoi le code unsafe existe-t-il ?",
     "comments": 0,
     "user": null,
@@ -307,13 +307,13 @@
         "filename": "InversionControle.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/d77eea0fedac3b42742ce0d8dea37e10/raw/23c72dd4f4cb6b6e340c955bcaca5ae9a76d78d8/InversionControle.md",
-        "size": 2858
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/d77eea0fedac3b42742ce0d8dea37e10/raw/4dde9a3befeefcc85fa5a1149d5834995c4b47de/InversionControle.md",
+        "size": 2847
       }
     },
     "public": true,
     "created_at": "2025-03-20T15:53:50Z",
-    "updated_at": "2025-03-20T18:12:57Z",
+    "updated_at": "2025-09-16T15:46:04Z",
     "description": "Inversion de Contrôle c'est quoi ?",
     "comments": 0,
     "user": null,
@@ -356,13 +356,13 @@
         "filename": "InjectionDépendances.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/29b0fa8cd150ad476b4f7d3ccadfabee/raw/1b305f485d57d1dbc69228ebf349db125f7f3616/InjectionD%C3%A9pendances.md",
-        "size": 8380
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/29b0fa8cd150ad476b4f7d3ccadfabee/raw/291fc475ddc0c2a70974e475b4f8eeb340c90fe8/InjectionD%C3%A9pendances.md",
+        "size": 8369
       }
     },
     "public": true,
     "created_at": "2025-03-20T14:57:12Z",
-    "updated_at": "2025-03-24T07:41:09Z",
+    "updated_at": "2025-09-16T15:46:51Z",
     "description": "Pourquoi utiliser l'Injection de Dépendances ?",
     "comments": 0,
     "user": null,
@@ -1434,13 +1434,13 @@
         "filename": "GIT.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/365a14dd63e4a32eff6a95a010b39b8b/raw/3657bf77da56ce8e84710b233d24fb79a0c035da/GIT.md",
-        "size": 3692
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/365a14dd63e4a32eff6a95a010b39b8b/raw/d7c99d1e9596ad79a082fdd7d8819dbb21f45987/GIT.md",
+        "size": 3693
       }
     },
     "public": true,
     "created_at": "2022-08-25T12:43:09Z",
-    "updated_at": "2023-12-14T13:39:45Z",
+    "updated_at": "2025-09-16T15:42:42Z",
     "description": "Utiliser les commandes de base de git",
     "comments": 0,
     "user": null,
@@ -1483,13 +1483,13 @@
         "filename": "AstucesBindingWPF.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/b6d4ad561ea959c77f46091bc9941d3a/raw/61d9fe71d1a998c742dfdf23674ff23028de339c/AstucesBindingWPF.md",
-        "size": 4757
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/b6d4ad561ea959c77f46091bc9941d3a/raw/5eb790a0a22c6875cbacafc730d970c11984c2dd/AstucesBindingWPF.md",
+        "size": 4708
       }
     },
     "public": true,
     "created_at": "2022-06-03T09:32:29Z",
-    "updated_at": "2024-11-13T22:00:12Z",
+    "updated_at": "2025-09-16T15:44:28Z",
     "description": "Notes pour le binding WPF",
     "comments": 0,
     "user": null,

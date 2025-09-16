@@ -1,0 +1,42 @@
+name: Update GitHub Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # tous les jours à minuit
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up environment
+        run: mkdir -p _data
+
+      - name: Fetch GitHub repos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -H "Authorization: token $GITHUB_TOKEN" \
+            'https://api.github.com/users/bizouarn/repos?per_page=100' \
+            -o '_data/repo.json'
+
+      - name: Fetch GitHub gists
+        env:
+         GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
+        run: |
+         curl -H "Authorization: token $GITHUB_TOKEN" \
+            'https://api.github.com/users/bizouarn/gists?per_page=100' \
+            -o '_data/_gist.json'
+         jq '[.[] | select(.public == true)]' _data/_gist.json > _data/gist.json
+         rm _data/_gist.json
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add _data
+          git commit -m "🗃 Update data" || echo "No changes to commit"
+          git push
