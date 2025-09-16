@@ -3,27 +3,29 @@ layout: default
 hide: true
 ---
 <div class="home">
+	<div id="md">
+		{{page.raw_content | markdownify}}
+	</div>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/powershell.min.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/styles/base16/dracula.min.css"/>
 	<script>
 		document.addEventListener("DOMContentLoaded", function() {
-			// Highlight.js
 			hljs.highlightAll();
-
-			// Sélection de tous les code Mermaid
+		});
+	</script>
+	{%- if page.raw_content contains "mermaid" -%}
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.11.0/mermaid.min.js"></script>
+	<script>
+		document.addEventListener("DOMContentLoaded", function() {
 			const mermaidCodes = document.querySelectorAll("code.language-mermaid");
 
 			mermaidCodes.forEach(code => {
 				code.classList.add("mermaid"); // Ajoute la classe mermaid
 			});
-
 			// Initialisation Mermaid
 			mermaid.initialize({ startOnLoad: true });
 		});
 	</script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/languages/powershell.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.11.0/mermaid.min.js"></script>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/styles/base16/dracula.min.css"/>
-	<div id="md">
-		{{page.raw_content | markdownify}}
-	</div>
+	{%- endif -%}
 </div>
