@@ -13,7 +13,6 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     <copyright>Copyright © {{ 'now' | date: '%Y' }} Bizouarn</copyright>
     <ttl>1440</ttl>
-
     {% for post in site.posts limit:20 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
@@ -29,7 +28,6 @@ layout: null
         {% endfor %}
       </item>
     {% endfor %}
-
     {% for post in site.data.gist limit:20 %}
       <item>
         <title>{{ post.files | first | first | xml_escape }}</title>
