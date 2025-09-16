@@ -9,15 +9,19 @@ hide: true
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/base16/dracula.min.css"/>
 	<script>
-		$(document).ready(function(){
+		document.addEventListener("DOMContentLoaded", function() {
+			// Highlight.js
 			hljs.highlightAll();
-			mermaid.init();
-			$('code.language-mermaid').each(function() {
-				const code = $(this).text()
-				const $div = $('<div class="mermaid"></div>').text(code)
-				$(this).parent('pre').replaceWith($div)
-			})
-			mermaid.init();
+
+			// Sélection de tous les code Mermaid
+			const mermaidCodes = document.querySelectorAll("code.language-mermaid");
+
+			mermaidCodes.forEach(code => {
+				code.classList.add("mermaid"); // Ajoute la classe mermaid
+			});
+
+			// Initialisation Mermaid
+			mermaid.initialize({ startOnLoad: true });
 		});
 	</script>
 	<div id="md">
