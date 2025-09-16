@@ -83,8 +83,11 @@ module GistFetcher
     extension = File.extname(filename).delete(".")
 
     # Corrige la detection des tableaux
-    content = content.gsub(/(?<=\|)\n([^\|])/, "\n\n\\1").strip
-
+    if extension != "md"
+      content = content.gsub(/([^\|])\n\|/, "\\1\n\n|")
+                      .gsub(/(?<=\|)\n([^\|])/, "\n\n\\1")
+    end
+    content = content.strip
     case
     when extension != "md"
       # Fichier non-markdown : ajout de wrapper avec syntaxe highlight
