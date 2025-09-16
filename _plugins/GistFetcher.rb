@@ -81,7 +81,10 @@ module GistFetcher
   # Formate le contenu selon le type de fichier
   def self.format_content(content, filename, excerpt)
     extension = File.extname(filename).delete(".")
-    
+
+    # Corrige la detection des tableaux
+    content = content.gsub(/(?<=\|)\n([^\|])/, "\n\n\\1").strip
+
     case
     when extension != "md"
       # Fichier non-markdown : ajout de wrapper avec syntaxe highlight

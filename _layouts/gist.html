@@ -3,27 +3,22 @@ layout: default
 hide: true
 ---
 <div class="home">
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/powershell.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.9.0/mermaid.min.js"></script>
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/base16/dracula.min.css"/>
 	<script>
-		var src = "{{page.raw_url}}";
-		$.get(src,function(html){
-			var converter = new showdown.Converter({ tables: true, emoji: true, ghCompatibleHeaderId: true, tasklists: true});
-			var filename = "{{page.filename}}";
-			if(filename.split(".").slice(-1)!="md" || html.indexOf("# ") != 0)
-				var html = filename.split(".").slice(-1)!="md"
-					? "# "+ filename + "\n{{page.excerpt}}\n```" + filename.split(".").slice(-1) + "\n" + html + "\n```"
-					: "# "+ filename + "  \n" + html
-			var html = converter.makeHtml(html);
-			html.replace("","");
-			$("#md").html(html);
-			mermaid.init();
+		$(document).ready(function(){
 			hljs.highlightAll();
-		})
+			mermaid.init();
+			$('code.language-mermaid').each(function() {
+				const code = $(this).text()
+				const $div = $('<div class="mermaid"></div>').text(code)
+				$(this).parent('pre').replaceWith($div)
+			})
+			mermaid.init();
+		});
 	</script>
 	<div id="md">
 		{{page.raw_content | markdownify}}
