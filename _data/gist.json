@@ -1483,13 +1483,13 @@
         "filename": "AstucesBindingWPF.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/b6d4ad561ea959c77f46091bc9941d3a/raw/5eb790a0a22c6875cbacafc730d970c11984c2dd/AstucesBindingWPF.md",
-        "size": 4708
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/b6d4ad561ea959c77f46091bc9941d3a/raw/d98b5092427cc9b2c27a61b1944e022cd37b6ee5/AstucesBindingWPF.md",
+        "size": 4689
       }
     },
     "public": true,
     "created_at": "2022-06-03T09:32:29Z",
-    "updated_at": "2025-09-16T15:44:28Z",
+    "updated_at": "2025-09-16T17:10:18Z",
     "description": "Notes pour le binding WPF",
     "comments": 0,
     "user": null,
