@@ -22,9 +22,9 @@ function generateReleaseNotes(commit_messages, tag = '') {
         const date_str = `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()}`;
         const lowerMsg = parts[0].toLowerCase();
 		// determine release notes
-        if (lowerMsg.includes('bug') || lowerMsg.includes('fix') || lowerMsg.includes('correct') || lowerMsg.includes('corrige')) {
+        if (lowerMsg.includes('🐛') || lowerMsg.includes('bug') || lowerMsg.includes('fix') || lowerMsg.includes('correct') || lowerMsg.includes('corrige')) {
             release_notes_bug.push(`| ${parts[0].replaceAll('|', '\\|')} | ${date_str} | ${parts[2]} | ${parts[3]} |`);
-        } else if (lowerMsg.includes('evo') || lowerMsg.includes('add') || lowerMsg.includes('ajout') || lowerMsg.includes('suppr')) {
+        } else if (lowerMsg.includes('✨') || lowerMsg.includes('evo') || lowerMsg.includes('add') || lowerMsg.includes('ajout') || lowerMsg.includes('suppr') || lowerMsg.includes('remove')) {
             release_notes_evo.push(`| ${parts[0].replaceAll('|', '\\|')} | ${date_str} | ${parts[2]} | ${parts[3]} |`);
         } else {
             continue;
