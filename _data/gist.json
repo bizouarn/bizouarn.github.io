@@ -852,8 +852,8 @@
     },
     "public": true,
     "created_at": "2024-06-20T10:20:54Z",
-    "updated_at": "2024-06-20T10:20:54Z",
-    "description": "",
+    "updated_at": "2025-09-16T19:25:48Z",
+    "description": "Script PowerShell qui sauvegarde toutes les GPO et les liste dans un CSV.",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
@@ -895,13 +895,13 @@
         "filename": "UnquotedServicePath.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/2e237510bb50fb5dc9c8e433548cb6ed/raw/5467c3aad7bbc14536be615f664b435a5bb69a4c/UnquotedServicePath.md",
-        "size": 4891
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/2e237510bb50fb5dc9c8e433548cb6ed/raw/6c030214638093924c39050fa91668466eea7239/UnquotedServicePath.md",
+        "size": 4955
       }
     },
     "public": true,
     "created_at": "2024-02-21T11:14:41Z",
-    "updated_at": "2024-03-13T22:28:10Z",
+    "updated_at": "2025-09-16T20:46:35Z",
     "description": "La faille de sécurité \"Unquoted Service Path\" (Windows)",
     "comments": 0,
     "user": null,
@@ -944,13 +944,13 @@
         "filename": "OperateursLogiques.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/50d1c4aca79fb31024dea173dc64a99b/raw/67c709f8c37a793d8916167ebf09f023c0e920ab/OperateursLogiques.md",
-        "size": 3861
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/50d1c4aca79fb31024dea173dc64a99b/raw/3d6cef295c15df8ce604db447adcbf7c5b5205dc/OperateursLogiques.md",
+        "size": 3901
       }
     },
     "public": true,
     "created_at": "2023-12-13T16:49:31Z",
-    "updated_at": "2024-02-14T08:31:47Z",
+    "updated_at": "2025-09-16T17:57:23Z",
     "description": "Opérateurs Logiques en C#",
     "comments": 0,
     "user": null,
