@@ -9,8 +9,17 @@ hide: true
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/styles/base16/dracula.min.css"/>
 	<script>
+		function resetAndHighlight(codeBlock) {
+			if (codeBlock.classList.contains('language-mermaid')) return;
+			const langClass = Array.from(codeBlock.classList).find(c => c.startsWith('language-')) || '';
+			const codeText = codeBlock.textContent;
+			codeBlock.className = langClass;
+			codeBlock.textContent = codeText;
+			hljs.highlightElement(codeBlock);
+		}
 		document.addEventListener("DOMContentLoaded", function() {
-			hljs.highlightAll();
+			const codeBlocks = document.querySelectorAll('pre code');
+			codeBlocks.forEach(resetAndHighlight);
 		});
 	</script>
 	{%- if page.raw_content contains "```ps" -%}
@@ -19,14 +28,9 @@ hide: true
 	{%- if page.raw_content contains "mermaid" -%}
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.11.0/mermaid.min.js"></script>
 	<script>
-		document.addEventListener("DOMContentLoaded", function() {
-			const mermaidCodes = document.querySelectorAll("code.language-mermaid");
-
-			mermaidCodes.forEach(code => {
-				code.classList.add("mermaid"); // Ajoute la classe mermaid
-			});
-			// Initialisation Mermaid
-			mermaid.initialize({ startOnLoad: true });
+		const mermaidCodes = document.querySelectorAll("code.language-mermaid");
+		mermaidCodes.forEach(code => {
+			code.classList.add("mermaid");
 		});
 	</script>
 	{%- endif -%}
