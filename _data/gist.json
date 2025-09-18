@@ -1434,13 +1434,13 @@
         "filename": "GIT.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/365a14dd63e4a32eff6a95a010b39b8b/raw/d7c99d1e9596ad79a082fdd7d8819dbb21f45987/GIT.md",
-        "size": 3693
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/365a14dd63e4a32eff6a95a010b39b8b/raw/b072b6437f4c2c6f192489094e58bb6f991d43f9/GIT.md",
+        "size": 3694
       }
     },
     "public": true,
     "created_at": "2022-08-25T12:43:09Z",
-    "updated_at": "2025-09-16T15:42:42Z",
+    "updated_at": "2025-09-17T09:41:48Z",
     "description": "Utiliser les commandes de base de git",
     "comments": 0,
     "user": null,
