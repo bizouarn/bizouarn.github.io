@@ -22,7 +22,7 @@ jobs:
           curl -H "Authorization: token $GITHUB_TOKEN" \
             'https://api.github.com/users/bizouarn/repos?per_page=100' \
             -o '_data/_repo.json'
-          jq 'map(del(.size, .updated_at, .pushed_at))' _data/_repo.json > _data/repo.json
+          jq 'map(del(.size, .updated_at, .pushed_at, .permissions, .owner))' _data/_repo.json > _data/repo.json
           rm _data/_repo.json
 
       - name: Fetch GitHub gists
@@ -32,7 +32,7 @@ jobs:
          curl -H "Authorization: token $GITHUB_TOKEN" \
             'https://api.github.com/users/bizouarn/gists?per_page=100' \
             -o '_data/_gist.json'
-         jq '[.[] | select(.public == true)]' _data/_gist.json > _data/gist.json
+         jq '[.[] | select(.public == true) | del(.owner)]' _data/_gist.json > _data/gist.json
          rm _data/_gist.json
 
       - name: Commit & push

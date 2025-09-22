@@ -5,27 +5,6 @@
     "name": "bizouarn",
     "full_name": "bizouarn/bizouarn",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/bizouarn",
     "description": "README.md posted on my public profile. ",
     "fork": false,
@@ -95,14 +74,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 311365872,
@@ -110,27 +82,6 @@
     "name": "bizouarn.github.io",
     "full_name": "bizouarn/bizouarn.github.io",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/bizouarn.github.io",
     "description": "Bienvenue sur mon site de notes publiques et ressources sur le développement logiciel avec tutoriels et contenus techniques sur les bonnes pratiques en programmation.",
     "fork": false,
@@ -200,14 +151,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 457971191,
@@ -215,27 +159,6 @@
     "name": "CartEau",
     "full_name": "bizouarn/CartEau",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/CartEau",
     "description": "Carte pour visualiser les données de l'api https://hubeau.eaufrance.fr/api/",
     "fork": false,
@@ -313,14 +236,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 807981572,
@@ -328,27 +244,6 @@
     "name": "ci",
     "full_name": "bizouarn/ci",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/ci",
     "description": "Templates CI/CD et images Docker",
     "fork": false,
@@ -424,14 +319,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 387924595,
@@ -439,27 +327,6 @@
     "name": "Color-converter-GUI",
     "full_name": "bizouarn/Color-converter-GUI",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/Color-converter-GUI",
     "description": "Online color converter ",
     "fork": false,
@@ -537,14 +404,7 @@
     "forks": 1,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 545681008,
@@ -552,27 +412,6 @@
     "name": "CSS-Animator-GUI",
     "full_name": "bizouarn/CSS-Animator-GUI",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/CSS-Animator-GUI",
     "description": "Simple HTML CSS GUI to test animations or CSS transitions",
     "fork": false,
@@ -648,14 +487,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 918317369,
@@ -663,27 +495,6 @@
     "name": "GranitDb",
     "full_name": "bizouarn/GranitDb",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/GranitDb",
     "description": "GranitDb offers a reliable solution for managing your database documentation.",
     "fork": false,
@@ -753,14 +564,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 685005651,
@@ -768,27 +572,6 @@
     "name": "haxe-material-ui",
     "full_name": "bizouarn/haxe-material-ui",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/haxe-material-ui",
     "description": "Haxe externs and tools for material-ui",
     "fork": true,
@@ -864,14 +647,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "master"
   },
   {
     "id": 692113626,
@@ -879,27 +655,6 @@
     "name": "haxe-react-beautiful-dnd",
     "full_name": "bizouarn/haxe-react-beautiful-dnd",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/haxe-react-beautiful-dnd",
     "description": "Haxe externs for react-beautiful-dnd",
     "fork": false,
@@ -975,14 +730,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 493553350,
@@ -990,27 +738,6 @@
     "name": "haxe-recharts",
     "full_name": "bizouarn/haxe-recharts",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/haxe-recharts",
     "description": null,
     "fork": true,
@@ -1080,14 +807,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "master"
   },
   {
     "id": 1054746956,
@@ -1095,27 +815,6 @@
     "name": "jekyll-build-pages",
     "full_name": "bizouarn/jekyll-build-pages",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/jekyll-build-pages",
     "description": "A simple GitHub Action for producing Jekyll build artifacts compatible with GitHub Pages.",
     "fork": true,
@@ -1191,14 +890,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "custom",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "custom"
   },
   {
     "id": 676504108,
@@ -1206,27 +898,6 @@
     "name": "leaflethx",
     "full_name": "bizouarn/leaflethx",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/leaflethx",
     "description": "Haxe externs for LeafletJS 1.9.4",
     "fork": false,
@@ -1302,14 +973,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 870366804,
@@ -1317,27 +981,6 @@
     "name": "mon-ip",
     "full_name": "bizouarn/mon-ip",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/mon-ip",
     "description": "Minimal web page displaying user's public IP address",
     "fork": false,
@@ -1407,14 +1050,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 745178865,
@@ -1422,27 +1058,6 @@
     "name": "NetExtremBench",
     "full_name": "bizouarn/NetExtremBench",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/NetExtremBench",
     "description": null,
     "fork": false,
@@ -1512,14 +1127,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 818304344,
@@ -1527,27 +1135,6 @@
     "name": "ObservableCollections",
     "full_name": "bizouarn/ObservableCollections",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/ObservableCollections",
     "description": "High performance observable collections and synchronized views, for WPF, Blazor, Unity.",
     "fork": true,
@@ -1623,14 +1210,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "master"
   },
   {
     "id": 731354354,
@@ -1638,27 +1218,6 @@
     "name": "PgpCore",
     "full_name": "bizouarn/PgpCore",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/PgpCore",
     "description": ".NET Core class library for using PGP",
     "fork": true,
@@ -1734,14 +1293,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "master"
   },
   {
     "id": 529244044,
@@ -1749,27 +1301,6 @@
     "name": "ping-map",
     "full_name": "bizouarn/ping-map",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/ping-map",
     "description": "Map measure the availability of IPV4 addresses",
     "fork": false,
@@ -1845,14 +1376,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 166304079,
@@ -1860,27 +1384,6 @@
     "name": "Planning-IUT",
     "full_name": "bizouarn/Planning-IUT",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/Planning-IUT",
     "description": null,
     "fork": false,
@@ -1950,14 +1453,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "master"
   },
   {
     "id": 567671981,
@@ -1965,27 +1461,6 @@
     "name": "PlanningSup",
     "full_name": "bizouarn/PlanningSup",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/PlanningSup",
     "description": "Planning universitaire réalisé en Nuxt.js",
     "fork": true,
@@ -2061,14 +1536,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 700850156,
@@ -2076,27 +1544,6 @@
     "name": "Prism",
     "full_name": "bizouarn/Prism",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/Prism",
     "description": "Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Xamarin Forms, and Uno / Win UI Applications..",
     "fork": true,
@@ -2172,14 +1619,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "master"
   },
   {
     "id": 494454524,
@@ -2187,27 +1627,6 @@
     "name": "prism_dialog_exemple",
     "full_name": "bizouarn/prism_dialog_exemple",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/prism_dialog_exemple",
     "description": "Example using dialog (Framework prism .net) ",
     "fork": false,
@@ -2277,14 +1696,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 191718382,
@@ -2292,27 +1704,6 @@
     "name": "Quoridor",
     "full_name": "bizouarn/Quoridor",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/Quoridor",
     "description": null,
     "fork": false,
@@ -2382,14 +1773,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "master"
   },
   {
     "id": 687672801,
@@ -2397,27 +1781,6 @@
     "name": "recogito-react-pdf",
     "full_name": "bizouarn/recogito-react-pdf",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/recogito-react-pdf",
     "description": "A React component for annotating PDF, powered by PDF.js and RecogitoJS",
     "fork": true,
@@ -2493,14 +1856,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "POC/pdf-anotation",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "POC/pdf-anotation"
   },
   {
     "id": 766959089,
@@ -2508,27 +1864,6 @@
     "name": "simple-dir",
     "full_name": "bizouarn/simple-dir",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/simple-dir",
     "description": "PHP File Directory Listing Script",
     "fork": false,
@@ -2600,14 +1935,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 944568312,
@@ -2615,27 +1943,6 @@
     "name": "snoopwpf",
     "full_name": "bizouarn/snoopwpf",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/snoopwpf",
     "description": "Snoop - The WPF Spy Utility",
     "fork": true,
@@ -2711,14 +2018,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "develop",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "develop"
   },
   {
     "id": 456699198,
@@ -2726,27 +2026,6 @@
     "name": "Status-bot",
     "full_name": "bizouarn/Status-bot",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/Status-bot",
     "description": "Bot for auto update status on Github and Gitlab",
     "fork": false,
@@ -2816,14 +2095,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 555549856,
@@ -2831,27 +2103,6 @@
     "name": "VIA-QMK-LED-Control",
     "full_name": "bizouarn/VIA-QMK-LED-Control",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/VIA-QMK-LED-Control",
     "description": "Piece of code to make the led of my keyboard The-Key-V2 blink orange when I debug in VS.",
     "fork": false,
@@ -2921,14 +2172,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 988451450,
@@ -2936,27 +2180,6 @@
     "name": "wix",
     "full_name": "bizouarn/wix",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/wix",
     "description": "WiX Toolset Code",
     "fork": true,
@@ -3032,14 +2255,7 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "main",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "main"
   },
   {
     "id": 978145826,
@@ -3047,27 +2263,6 @@
     "name": "wixsharp",
     "full_name": "bizouarn/wixsharp",
     "private": false,
-    "owner": {
-      "login": "bizouarn",
-      "id": 18381016,
-      "node_id": "MDQ6VXNlcjE4MzgxMDE2",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18381016?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/bizouarn",
-      "html_url": "https://github.com/bizouarn",
-      "followers_url": "https://api.github.com/users/bizouarn/followers",
-      "following_url": "https://api.github.com/users/bizouarn/following{/other_user}",
-      "gists_url": "https://api.github.com/users/bizouarn/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/bizouarn/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/bizouarn/subscriptions",
-      "organizations_url": "https://api.github.com/users/bizouarn/orgs",
-      "repos_url": "https://api.github.com/users/bizouarn/repos",
-      "events_url": "https://api.github.com/users/bizouarn/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/bizouarn/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
     "html_url": "https://github.com/bizouarn/wixsharp",
     "description": "Framework for building a complete MSI or WiX source code by using script files written with C# syntax.",
     "fork": true,
@@ -3143,13 +2338,6 @@
     "forks": 0,
     "open_issues": 0,
     "watchers": 0,
-    "default_branch": "master",
-    "permissions": {
-      "admin": false,
-      "maintain": false,
-      "push": false,
-      "triage": false,
-      "pull": false
-    }
+    "default_branch": "master"
   }
 ]
