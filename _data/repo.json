@@ -712,7 +712,7 @@
     "has_discussions": false,
     "forks_count": 0,
     "mirror_url": null,
-    "archived": false,
+    "archived": true,
     "disabled": false,
     "open_issues_count": 0,
     "license": {
