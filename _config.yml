@@ -7,6 +7,7 @@ github_username: bizouarn
 twitter_username: aymericbizouarn
 gitlab_username: bizouarn
 footer_msg: Vous avez le même patronyme que moi, n'hésitez pas à me contacter si vous voulez une redirection en .bizouarn.fr ou .bizouarn.com.
+description: Blog d’Aymeric Bizouarn, autour du développement, de l’architecture logicielle et des techniques de programmation.
 
 page_gen-dirs: true
 
