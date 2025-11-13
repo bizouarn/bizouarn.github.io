@@ -1,5 +1,89 @@
 [
   {
+    "url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb",
+    "forks_url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb/forks",
+    "commits_url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb/commits",
+    "id": "f5bf096b9e54de0e871c1004c10290bb",
+    "node_id": "G_kwDOARh42NoAIGY1YmYwOTZiOWU1NGRlMGU4NzFjMTAwNGMxMDI5MGJi",
+    "git_pull_url": "https://gist.github.com/f5bf096b9e54de0e871c1004c10290bb.git",
+    "git_push_url": "https://gist.github.com/f5bf096b9e54de0e871c1004c10290bb.git",
+    "html_url": "https://gist.github.com/bizouarn/f5bf096b9e54de0e871c1004c10290bb",
+    "files": {
+      "Ghostscript32.cs": {
+        "filename": "Ghostscript32.cs",
+        "type": "text/plain",
+        "language": "C#",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/f5bf096b9e54de0e871c1004c10290bb/raw/ff932aa1345e4058f519322f1aaf326e66d820b5/Ghostscript32.cs",
+        "size": 4975
+      }
+    },
+    "public": true,
+    "created_at": "2025-12-11T17:35:21Z",
+    "updated_at": "2026-01-12T08:50:54Z",
+    "description": "Classe C# pour encapsuler l'API Ghostscript 32-bit (via P/Invoke).",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/a7cd52c112fe3c1c2c71d5e26e57c2a0",
+    "forks_url": "https://api.github.com/gists/a7cd52c112fe3c1c2c71d5e26e57c2a0/forks",
+    "commits_url": "https://api.github.com/gists/a7cd52c112fe3c1c2c71d5e26e57c2a0/commits",
+    "id": "a7cd52c112fe3c1c2c71d5e26e57c2a0",
+    "node_id": "G_kwDOARh42NoAIGE3Y2Q1MmMxMTJmZTNjMWMyYzcxZDVlMjZlNTdjMmEw",
+    "git_pull_url": "https://gist.github.com/a7cd52c112fe3c1c2c71d5e26e57c2a0.git",
+    "git_push_url": "https://gist.github.com/a7cd52c112fe3c1c2c71d5e26e57c2a0.git",
+    "html_url": "https://gist.github.com/bizouarn/a7cd52c112fe3c1c2c71d5e26e57c2a0",
+    "files": {
+      "MVVM.md": {
+        "filename": "MVVM.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/a7cd52c112fe3c1c2c71d5e26e57c2a0/raw/e5d4cebbc000df55ad5193481be0abdcabe6f1b2/MVVM.md",
+        "size": 11725
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-26T21:56:10Z",
+    "updated_at": "2025-11-27T00:05:47Z",
+    "description": "Comment MVVM rend-il votre application WPF testable et maintenable ?",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/a7cd52c112fe3c1c2c71d5e26e57c2a0/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/6a59ccfddd3f5e886ae63274a6b47a69",
+    "forks_url": "https://api.github.com/gists/6a59ccfddd3f5e886ae63274a6b47a69/forks",
+    "commits_url": "https://api.github.com/gists/6a59ccfddd3f5e886ae63274a6b47a69/commits",
+    "id": "6a59ccfddd3f5e886ae63274a6b47a69",
+    "node_id": "G_kwDOARh42NoAIDZhNTljY2ZkZGQzZjVlODg2YWU2MzI3NGE2YjQ3YTY5",
+    "git_pull_url": "https://gist.github.com/6a59ccfddd3f5e886ae63274a6b47a69.git",
+    "git_push_url": "https://gist.github.com/6a59ccfddd3f5e886ae63274a6b47a69.git",
+    "html_url": "https://gist.github.com/bizouarn/6a59ccfddd3f5e886ae63274a6b47a69",
+    "files": {
+      "CodeSyntaxe.md": {
+        "filename": "CodeSyntaxe.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/6a59ccfddd3f5e886ae63274a6b47a69/raw/60f965060c2e9299545d7b87c42fba3ddae8fffd/CodeSyntaxe.md",
+        "size": 6213
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-19T23:40:34Z",
+    "updated_at": "2025-11-24T11:29:20Z",
+    "description": "L'Architecture invisible de la syntaxe dans notre code",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/6a59ccfddd3f5e886ae63274a6b47a69/comments",
+    "truncated": false
+  },
+  {
     "url": "https://api.github.com/gists/ff32bbb8e1acfd0e1ea980a5a3b30000",
     "forks_url": "https://api.github.com/gists/ff32bbb8e1acfd0e1ea980a5a3b30000/forks",
     "commits_url": "https://api.github.com/gists/ff32bbb8e1acfd0e1ea980a5a3b30000/commits",
@@ -265,13 +349,13 @@
         "filename": "InjectionDépendances.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/29b0fa8cd150ad476b4f7d3ccadfabee/raw/291fc475ddc0c2a70974e475b4f8eeb340c90fe8/InjectionD%C3%A9pendances.md",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/29b0fa8cd150ad476b4f7d3ccadfabee/raw/37bddd9274e696a2a4e9d4133269e215005702c5/InjectionD%C3%A9pendances.md",
         "size": 8369
       }
     },
     "public": true,
     "created_at": "2025-03-20T14:57:12Z",
-    "updated_at": "2025-09-16T15:46:51Z",
+    "updated_at": "2025-11-26T23:18:36Z",
     "description": "Pourquoi utiliser l'Injection de Dépendances ?",
     "comments": 0,
     "user": null,
@@ -349,13 +433,13 @@
         "filename": "InterdictionChiffrementContreProductif.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/80e10093485e520afb66925bcc257b13/raw/055805a8771f3f4d1cb5f5ca0c0717908f779376/InterdictionChiffrementContreProductif.md",
-        "size": 2592
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/80e10093485e520afb66925bcc257b13/raw/443e77a3ad4adaaeb5814b9de8f0378943ed943e/InterdictionChiffrementContreProductif.md",
+        "size": 2594
       }
     },
     "public": true,
     "created_at": "2025-02-27T21:16:43Z",
-    "updated_at": "2025-07-16T08:08:05Z",
+    "updated_at": "2025-11-26T19:45:01Z",
     "description": "Pourquoi interdire le chiffrement des messageries est une absurdité",
     "comments": 0,
     "user": null,
@@ -377,13 +461,13 @@
         "filename": "HResult.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/7e160efb40e8df852d4daf84c3514898/raw/79c7c937cbc1e2eb94484ab02495129b2996381d/HResult.md",
-        "size": 4637
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/7e160efb40e8df852d4daf84c3514898/raw/894e2363ad6c61e32b261523711b073b4503f29c/HResult.md",
+        "size": 4638
       }
     },
     "public": true,
     "created_at": "2024-11-21T09:03:58Z",
-    "updated_at": "2025-03-20T18:15:40Z",
+    "updated_at": "2026-01-25T19:00:55Z",
     "description": "Qu'est-ce que HResult ? (en c#)",
     "comments": 0,
     "user": null,
