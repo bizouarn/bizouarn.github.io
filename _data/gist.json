@@ -1,5 +1,33 @@
 [
   {
+    "url": "https://api.github.com/gists/6a59ccfddd3f5e886ae63274a6b47a69",
+    "forks_url": "https://api.github.com/gists/6a59ccfddd3f5e886ae63274a6b47a69/forks",
+    "commits_url": "https://api.github.com/gists/6a59ccfddd3f5e886ae63274a6b47a69/commits",
+    "id": "6a59ccfddd3f5e886ae63274a6b47a69",
+    "node_id": "G_kwDOARh42NoAIDZhNTljY2ZkZGQzZjVlODg2YWU2MzI3NGE2YjQ3YTY5",
+    "git_pull_url": "https://gist.github.com/6a59ccfddd3f5e886ae63274a6b47a69.git",
+    "git_push_url": "https://gist.github.com/6a59ccfddd3f5e886ae63274a6b47a69.git",
+    "html_url": "https://gist.github.com/bizouarn/6a59ccfddd3f5e886ae63274a6b47a69",
+    "files": {
+      "CodeSemantique.md": {
+        "filename": "CodeSemantique.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/6a59ccfddd3f5e886ae63274a6b47a69/raw/ecf3e1bef3089dd5a53a2bc0bb4af816fa234c4c/CodeSemantique.md",
+        "size": 6112
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-19T23:40:34Z",
+    "updated_at": "2025-11-20T00:17:23Z",
+    "description": "L'Architecture invisible de la Sémantique dans notre code",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/6a59ccfddd3f5e886ae63274a6b47a69/comments",
+    "truncated": false
+  },
+  {
     "url": "https://api.github.com/gists/d68fe2ada7d141d2418afcc22d293664",
     "forks_url": "https://api.github.com/gists/d68fe2ada7d141d2418afcc22d293664/forks",
     "commits_url": "https://api.github.com/gists/d68fe2ada7d141d2418afcc22d293664/commits",
