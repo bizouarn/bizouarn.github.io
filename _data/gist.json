@@ -9,18 +9,18 @@
     "git_push_url": "https://gist.github.com/6a59ccfddd3f5e886ae63274a6b47a69.git",
     "html_url": "https://gist.github.com/bizouarn/6a59ccfddd3f5e886ae63274a6b47a69",
     "files": {
-      "CodeSemantique.md": {
-        "filename": "CodeSemantique.md",
+      "CodeSyntaxe.md": {
+        "filename": "CodeSyntaxe.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/6a59ccfddd3f5e886ae63274a6b47a69/raw/ecf3e1bef3089dd5a53a2bc0bb4af816fa234c4c/CodeSemantique.md",
-        "size": 6112
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/6a59ccfddd3f5e886ae63274a6b47a69/raw/2b728b75d84002417abd677b3db87ee2f89344de/CodeSyntaxe.md",
+        "size": 6214
       }
     },
     "public": true,
     "created_at": "2025-11-19T23:40:34Z",
-    "updated_at": "2025-11-20T00:17:23Z",
-    "description": "L'Architecture invisible de la Sémantique dans notre code",
+    "updated_at": "2025-11-20T00:45:08Z",
+    "description": "L'Architecture invisible de la syntaxe dans notre code",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
