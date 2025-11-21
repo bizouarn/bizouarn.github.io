@@ -13,13 +13,13 @@
         "filename": "CodeSyntaxe.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/6a59ccfddd3f5e886ae63274a6b47a69/raw/2b728b75d84002417abd677b3db87ee2f89344de/CodeSyntaxe.md",
-        "size": 6214
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/6a59ccfddd3f5e886ae63274a6b47a69/raw/e2dc4984ef1349cb69d7e6eb76e96569401f61f3/CodeSyntaxe.md",
+        "size": 6218
       }
     },
     "public": true,
     "created_at": "2025-11-19T23:40:34Z",
-    "updated_at": "2025-11-20T00:45:08Z",
+    "updated_at": "2025-11-20T07:08:15Z",
     "description": "L'Architecture invisible de la syntaxe dans notre code",
     "comments": 0,
     "user": null,
