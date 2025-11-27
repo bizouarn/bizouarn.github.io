@@ -13,46 +13,18 @@
         "filename": "MVVM.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/a7cd52c112fe3c1c2c71d5e26e57c2a0/raw/55e5ad4a8b6598983fffd7d9513000eeb782a894/MVVM.md",
-        "size": 10930
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/a7cd52c112fe3c1c2c71d5e26e57c2a0/raw/e5d4cebbc000df55ad5193481be0abdcabe6f1b2/MVVM.md",
+        "size": 11725
       }
     },
     "public": true,
     "created_at": "2025-11-26T21:56:10Z",
-    "updated_at": "2025-11-26T23:29:57Z",
+    "updated_at": "2025-11-27T00:05:47Z",
     "description": "Comment MVVM rend-il votre application WPF testable et maintenable ?",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
     "comments_url": "https://api.github.com/gists/a7cd52c112fe3c1c2c71d5e26e57c2a0/comments",
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/cc48257636aa5a651dd3a1840de9da28",
-    "forks_url": "https://api.github.com/gists/cc48257636aa5a651dd3a1840de9da28/forks",
-    "commits_url": "https://api.github.com/gists/cc48257636aa5a651dd3a1840de9da28/commits",
-    "id": "cc48257636aa5a651dd3a1840de9da28",
-    "node_id": "G_kwDOARh42NoAIGNjNDgyNTc2MzZhYTVhNjUxZGQzYTE4NDBkZTlkYTI4",
-    "git_pull_url": "https://gist.github.com/cc48257636aa5a651dd3a1840de9da28.git",
-    "git_push_url": "https://gist.github.com/cc48257636aa5a651dd3a1840de9da28.git",
-    "html_url": "https://gist.github.com/bizouarn/cc48257636aa5a651dd3a1840de9da28",
-    "files": {
-      "CertifcationDeVerite.md": {
-        "filename": "CertifcationDeVerite.md",
-        "type": "text/markdown",
-        "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/cc48257636aa5a651dd3a1840de9da28/raw/317c560dba2001f0ff82f3eb513335562d327890/CertifcationDeVerite.md",
-        "size": 5693
-      }
-    },
-    "public": true,
-    "created_at": "2025-11-26T19:44:38Z",
-    "updated_at": "2025-11-26T21:02:57Z",
-    "description": "Le Sceau de Vérité Absolue peut il vraiment définir ce qui est vrai",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/cc48257636aa5a651dd3a1840de9da28/comments",
     "truncated": false
   },
   {
