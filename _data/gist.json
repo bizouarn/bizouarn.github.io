@@ -1,5 +1,33 @@
 [
   {
+    "url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb",
+    "forks_url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb/forks",
+    "commits_url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb/commits",
+    "id": "f5bf096b9e54de0e871c1004c10290bb",
+    "node_id": "G_kwDOARh42NoAIGY1YmYwOTZiOWU1NGRlMGU4NzFjMTAwNGMxMDI5MGJi",
+    "git_pull_url": "https://gist.github.com/f5bf096b9e54de0e871c1004c10290bb.git",
+    "git_push_url": "https://gist.github.com/f5bf096b9e54de0e871c1004c10290bb.git",
+    "html_url": "https://gist.github.com/bizouarn/f5bf096b9e54de0e871c1004c10290bb",
+    "files": {
+      "Ghostscript32.cs": {
+        "filename": "Ghostscript32.cs",
+        "type": "text/plain",
+        "language": "C#",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/f5bf096b9e54de0e871c1004c10290bb/raw/6ba8cc3b84be7d8a6a4ad0850795303af9621e5f/Ghostscript32.cs",
+        "size": 5057
+      }
+    },
+    "public": true,
+    "created_at": "2025-12-11T17:35:21Z",
+    "updated_at": "2025-12-11T19:48:05Z",
+    "description": "Classe C# pour encapsuler l'API Ghostscript 32-bit (via P/Invoke).",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb/comments",
+    "truncated": false
+  },
+  {
     "url": "https://api.github.com/gists/a7cd52c112fe3c1c2c71d5e26e57c2a0",
     "forks_url": "https://api.github.com/gists/a7cd52c112fe3c1c2c71d5e26e57c2a0/forks",
     "commits_url": "https://api.github.com/gists/a7cd52c112fe3c1c2c71d5e26e57c2a0/commits",
