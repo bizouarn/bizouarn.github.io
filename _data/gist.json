@@ -13,13 +13,13 @@
         "filename": "Ghostscript32.cs",
         "type": "text/plain",
         "language": "C#",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/f5bf096b9e54de0e871c1004c10290bb/raw/0e534943c083e64631342aa88085607a16948763/Ghostscript32.cs",
-        "size": 5065
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/f5bf096b9e54de0e871c1004c10290bb/raw/ff932aa1345e4058f519322f1aaf326e66d820b5/Ghostscript32.cs",
+        "size": 4975
       }
     },
     "public": true,
     "created_at": "2025-12-11T17:35:21Z",
-    "updated_at": "2025-12-17T08:04:46Z",
+    "updated_at": "2026-01-12T08:50:54Z",
     "description": "Classe C# pour encapsuler l'API Ghostscript 32-bit (via P/Invoke).",
     "comments": 0,
     "user": null,
