@@ -235,37 +235,3 @@
 	}
 }
 
-/**
- * Repo list style
- */
-.repo-box{
-	border-radius: 15px;
-	padding: 15px;
-	margin: 5px;
-	display: grid;
-	grid-template-rows: 23px 60px 20px;
-	border-width: 0.5px 1px 2px 1px;
-	border-style: solid;
-	border-color: $grey-color-light;
-}
-
-.repo-box div{
-	overflow: auto;
-}
-
-.repo-grid{
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	@include media-query($on-laptop) {
-		grid-template-columns: 1fr;
-	}
-}
-
-.licenses-link {
-	display: inline-block;
-	width: 200px;
-	overflow: hidden;
-	text-overflow: ellipsis;
-	white-space: nowrap;
-	vertical-align: bottom;
-}
