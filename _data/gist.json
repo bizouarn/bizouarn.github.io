@@ -1,5 +1,33 @@
 [
   {
+    "url": "https://api.github.com/gists/c721f9616cf2a77d6a7659b99b7cebd5",
+    "forks_url": "https://api.github.com/gists/c721f9616cf2a77d6a7659b99b7cebd5/forks",
+    "commits_url": "https://api.github.com/gists/c721f9616cf2a77d6a7659b99b7cebd5/commits",
+    "id": "c721f9616cf2a77d6a7659b99b7cebd5",
+    "node_id": "G_kwDOARh42NoAIGM3MjFmOTYxNmNmMmE3N2Q2YTc2NTliOTliN2NlYmQ1",
+    "git_pull_url": "https://gist.github.com/c721f9616cf2a77d6a7659b99b7cebd5.git",
+    "git_push_url": "https://gist.github.com/c721f9616cf2a77d6a7659b99b7cebd5.git",
+    "html_url": "https://gist.github.com/bizouarn/c721f9616cf2a77d6a7659b99b7cebd5",
+    "files": {
+      "DuckDBSiren.md": {
+        "filename": "DuckDBSiren.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/c721f9616cf2a77d6a7659b99b7cebd5/raw/6900aabf7a6620f20441f6034329e73d03536a81/DuckDBSiren.md",
+        "size": 4577
+      }
+    },
+    "public": true,
+    "created_at": "2026-02-27T15:31:18Z",
+    "updated_at": "2026-03-01T19:07:14Z",
+    "description": "Interroger le fichier SIREN complet en 7 secondes chrono",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/c721f9616cf2a77d6a7659b99b7cebd5/comments",
+    "truncated": false
+  },
+  {
     "url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb",
     "forks_url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb/forks",
     "commits_url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb/commits",
@@ -13,13 +41,13 @@
         "filename": "Ghostscript32.cs",
         "type": "text/plain",
         "language": "C#",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/f5bf096b9e54de0e871c1004c10290bb/raw/ff932aa1345e4058f519322f1aaf326e66d820b5/Ghostscript32.cs",
-        "size": 4975
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/f5bf096b9e54de0e871c1004c10290bb/raw/be6200220cdf6960e90e54e1e5c36a9890d84c59/Ghostscript32.cs",
+        "size": 4982
       }
     },
     "public": true,
     "created_at": "2025-12-11T17:35:21Z",
-    "updated_at": "2026-01-12T08:50:54Z",
+    "updated_at": "2026-02-09T14:25:13Z",
     "description": "Classe C# pour encapsuler l'API Ghostscript 32-bit (via P/Invoke).",
     "comments": 0,
     "user": null,
