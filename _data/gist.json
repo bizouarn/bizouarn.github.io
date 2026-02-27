@@ -1,5 +1,33 @@
 [
   {
+    "url": "https://api.github.com/gists/c721f9616cf2a77d6a7659b99b7cebd5",
+    "forks_url": "https://api.github.com/gists/c721f9616cf2a77d6a7659b99b7cebd5/forks",
+    "commits_url": "https://api.github.com/gists/c721f9616cf2a77d6a7659b99b7cebd5/commits",
+    "id": "c721f9616cf2a77d6a7659b99b7cebd5",
+    "node_id": "G_kwDOARh42NoAIGM3MjFmOTYxNmNmMmE3N2Q2YTc2NTliOTliN2NlYmQ1",
+    "git_pull_url": "https://gist.github.com/c721f9616cf2a77d6a7659b99b7cebd5.git",
+    "git_push_url": "https://gist.github.com/c721f9616cf2a77d6a7659b99b7cebd5.git",
+    "html_url": "https://gist.github.com/bizouarn/c721f9616cf2a77d6a7659b99b7cebd5",
+    "files": {
+      "DuckDBSiren.md": {
+        "filename": "DuckDBSiren.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/c721f9616cf2a77d6a7659b99b7cebd5/raw/0630ba799b7cd4de1bfb2693efef4f0ebcd95e48/DuckDBSiren.md",
+        "size": 4766
+      }
+    },
+    "public": true,
+    "created_at": "2026-02-27T15:31:18Z",
+    "updated_at": "2026-02-27T15:48:31Z",
+    "description": "Interroger le fichier SIREN complet en 7 secondes chrono",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/c721f9616cf2a77d6a7659b99b7cebd5/comments",
+    "truncated": false
+  },
+  {
     "url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb",
     "forks_url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb/forks",
     "commits_url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb/commits",
