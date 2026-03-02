@@ -13,13 +13,13 @@
         "filename": "DuckDBSiren.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/c721f9616cf2a77d6a7659b99b7cebd5/raw/0a8baf476166babd162bfcc47f831a407ae7653e/DuckDBSiren.md",
-        "size": 4693
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/c721f9616cf2a77d6a7659b99b7cebd5/raw/6900aabf7a6620f20441f6034329e73d03536a81/DuckDBSiren.md",
+        "size": 4577
       }
     },
     "public": true,
     "created_at": "2026-02-27T15:31:18Z",
-    "updated_at": "2026-02-27T16:03:02Z",
+    "updated_at": "2026-03-01T19:07:14Z",
     "description": "Interroger le fichier SIREN complet en 7 secondes chrono",
     "comments": 0,
     "user": null,
