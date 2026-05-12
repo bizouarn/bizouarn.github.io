@@ -19,8 +19,8 @@
     },
     "public": true,
     "created_at": "2026-05-11T10:05:02Z",
-    "updated_at": "2026-05-11T10:46:01Z",
-    "description": "",
+    "updated_at": "2026-05-12T16:35:07Z",
+    "description": "Comment utiliser BulkOptions dans Dapper Plus ?",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
@@ -1089,34 +1089,6 @@
     "user": null,
     "comments_enabled": true,
     "comments_url": "https://api.github.com/gists/45ef7314f47b762e6f9754ce036fa50a/comments",
-    "truncated": false
-  },
-  {
-    "url": "https://api.github.com/gists/52fd2d83df70dc86773acea476176127",
-    "forks_url": "https://api.github.com/gists/52fd2d83df70dc86773acea476176127/forks",
-    "commits_url": "https://api.github.com/gists/52fd2d83df70dc86773acea476176127/commits",
-    "id": "52fd2d83df70dc86773acea476176127",
-    "node_id": "G_kwDOARh42NoAIDUyZmQyZDgzZGY3MGRjODY3NzNhY2VhNDc2MTc2MTI3",
-    "git_pull_url": "https://gist.github.com/52fd2d83df70dc86773acea476176127.git",
-    "git_push_url": "https://gist.github.com/52fd2d83df70dc86773acea476176127.git",
-    "html_url": "https://gist.github.com/bizouarn/52fd2d83df70dc86773acea476176127",
-    "files": {
-      "Nuget.md": {
-        "filename": "Nuget.md",
-        "type": "text/markdown",
-        "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/52fd2d83df70dc86773acea476176127/raw/db4a1c00a1f59bec8133a4321ab1ff2b91363507/Nuget.md",
-        "size": 1132
-      }
-    },
-    "public": true,
-    "created_at": "2022-03-22T14:29:01Z",
-    "updated_at": "2022-08-24T20:29:41Z",
-    "description": "Création d'un package Nuget et l'envoyer sur un serveur nuget",
-    "comments": 0,
-    "user": null,
-    "comments_enabled": true,
-    "comments_url": "https://api.github.com/gists/52fd2d83df70dc86773acea476176127/comments",
     "truncated": false
   }
 ]
