@@ -27,14 +27,16 @@ jobs:
 
       - name: Fetch GitHub gists
         env:
-         GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
         run: |
-         curl -H "Authorization: token $GITHUB_TOKEN" \
-            'https://api.github.com/users/bizouarn/gists?per_page=100' \
-            -o '_data/_gist.json'
-         jq '[.[] | select(.public == true) | del(.owner)]' _data/_gist.json > _data/gist.json
-         rm _data/_gist.json
-
+          curl -H "Authorization: token $GITHUB_TOKEN" \
+               'https://api.github.com/users/bizouarn/gists?per_page=100&page=1' \
+               -o '_data/gist1.json' && \
+          curl -H "Authorization: token $GITHUB_TOKEN" \
+               'https://api.github.com/users/bizouarn/gists?per_page=100&page=2' \
+               -o '_data/gist2.json' && \
+          jq -s 'add | [.[] | select(.public == true) | del(.owner)]' _data/gist1.json _data/gist2.json > _data/gist.json && \
+          rm _data/gist1.json _data/gist2.json
       - name: Commit & push
         run: |
           git config user.name "github-actions"
