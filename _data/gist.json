@@ -1,5 +1,33 @@
 [
   {
+    "url": "https://api.github.com/gists/5f5a5dffb63e5bd08abe00861dd3dba2",
+    "forks_url": "https://api.github.com/gists/5f5a5dffb63e5bd08abe00861dd3dba2/forks",
+    "commits_url": "https://api.github.com/gists/5f5a5dffb63e5bd08abe00861dd3dba2/commits",
+    "id": "5f5a5dffb63e5bd08abe00861dd3dba2",
+    "node_id": "G_kwDOARh42NoAIDVmNWE1ZGZmYjYzZTViZDA4YWJlMDA4NjFkZDNkYmEy",
+    "git_pull_url": "https://gist.github.com/5f5a5dffb63e5bd08abe00861dd3dba2.git",
+    "git_push_url": "https://gist.github.com/5f5a5dffb63e5bd08abe00861dd3dba2.git",
+    "html_url": "https://gist.github.com/bizouarn/5f5a5dffb63e5bd08abe00861dd3dba2",
+    "files": {
+      "StaticWebArchitecture.md": {
+        "filename": "StaticWebArchitecture.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/5f5a5dffb63e5bd08abe00861dd3dba2/raw/f50e5e4f81e63838e6938079d1b761211fff1a7d/StaticWebArchitecture.md",
+        "size": 5764
+      }
+    },
+    "public": true,
+    "created_at": "2026-06-08T09:54:52Z",
+    "updated_at": "2026-06-08T10:02:01Z",
+    "description": "Architecture technique de mon blog personnel",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/5f5a5dffb63e5bd08abe00861dd3dba2/comments",
+    "truncated": false
+  },
+  {
     "url": "https://api.github.com/gists/2ba022b4f8590183aebf39ca0810f866",
     "forks_url": "https://api.github.com/gists/2ba022b4f8590183aebf39ca0810f866/forks",
     "commits_url": "https://api.github.com/gists/2ba022b4f8590183aebf39ca0810f866/commits",
