@@ -1,5 +1,61 @@
 [
   {
+    "url": "https://api.github.com/gists/aa123e1a72cab0b66a0ba436352b3704",
+    "forks_url": "https://api.github.com/gists/aa123e1a72cab0b66a0ba436352b3704/forks",
+    "commits_url": "https://api.github.com/gists/aa123e1a72cab0b66a0ba436352b3704/commits",
+    "id": "aa123e1a72cab0b66a0ba436352b3704",
+    "node_id": "G_kwDOARh42NoAIGFhMTIzZTFhNzJjYWIwYjY2YTBiYTQzNjM1MmIzNzA0",
+    "git_pull_url": "https://gist.github.com/aa123e1a72cab0b66a0ba436352b3704.git",
+    "git_push_url": "https://gist.github.com/aa123e1a72cab0b66a0ba436352b3704.git",
+    "html_url": "https://gist.github.com/bizouarn/aa123e1a72cab0b66a0ba436352b3704",
+    "files": {
+      "Polyfill.md": {
+        "filename": "Polyfill.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/aa123e1a72cab0b66a0ba436352b3704/raw/672174fa8cac270edebb2ef1f080cd346b02b48d/Polyfill.md",
+        "size": 5476
+      }
+    },
+    "public": true,
+    "created_at": "2026-06-11T15:03:45Z",
+    "updated_at": "2026-06-12T13:56:44Z",
+    "description": "L'Art du \"Hot Swap\" Architectural",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/aa123e1a72cab0b66a0ba436352b3704/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/5f5a5dffb63e5bd08abe00861dd3dba2",
+    "forks_url": "https://api.github.com/gists/5f5a5dffb63e5bd08abe00861dd3dba2/forks",
+    "commits_url": "https://api.github.com/gists/5f5a5dffb63e5bd08abe00861dd3dba2/commits",
+    "id": "5f5a5dffb63e5bd08abe00861dd3dba2",
+    "node_id": "G_kwDOARh42NoAIDVmNWE1ZGZmYjYzZTViZDA4YWJlMDA4NjFkZDNkYmEy",
+    "git_pull_url": "https://gist.github.com/5f5a5dffb63e5bd08abe00861dd3dba2.git",
+    "git_push_url": "https://gist.github.com/5f5a5dffb63e5bd08abe00861dd3dba2.git",
+    "html_url": "https://gist.github.com/bizouarn/5f5a5dffb63e5bd08abe00861dd3dba2",
+    "files": {
+      "StaticWebArchitecture.md": {
+        "filename": "StaticWebArchitecture.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/5f5a5dffb63e5bd08abe00861dd3dba2/raw/6e68483f9f8daf670411062250be70e43c6412ed/StaticWebArchitecture.md",
+        "size": 5761
+      }
+    },
+    "public": true,
+    "created_at": "2026-06-08T09:54:52Z",
+    "updated_at": "2026-06-10T09:44:35Z",
+    "description": "Architecture technique de mon blog personnel",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/5f5a5dffb63e5bd08abe00861dd3dba2/comments",
+    "truncated": false
+  },
+  {
     "url": "https://api.github.com/gists/2ba022b4f8590183aebf39ca0810f866",
     "forks_url": "https://api.github.com/gists/2ba022b4f8590183aebf39ca0810f866/forks",
     "commits_url": "https://api.github.com/gists/2ba022b4f8590183aebf39ca0810f866/commits",
@@ -97,13 +153,13 @@
         "filename": "MVVM.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/a7cd52c112fe3c1c2c71d5e26e57c2a0/raw/31e4409570c28ebfa4c071f6ec3ce906db9cdf33/MVVM.md",
-        "size": 11726
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/a7cd52c112fe3c1c2c71d5e26e57c2a0/raw/c53e813de8924111753918552cc893826c267572/MVVM.md",
+        "size": 11733
       }
     },
     "public": true,
     "created_at": "2025-11-26T21:56:10Z",
-    "updated_at": "2026-05-11T22:03:06Z",
+    "updated_at": "2026-06-11T14:39:30Z",
     "description": "Comment MVVM rend-il votre application WPF testable et maintenable ?",
     "comments": 0,
     "user": null,
@@ -881,13 +937,13 @@
         "filename": "MarkupExtension.cs",
         "type": "text/plain",
         "language": "C#",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/e29179909994762b243a09fa51f86002/raw/4cbc297a42dbeca5c66b569ce3637810493de30e/MarkupExtension.cs",
-        "size": 3795
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/e29179909994762b243a09fa51f86002/raw/7e6472d809d076083bdd9bc34146dc3485251a54/MarkupExtension.cs",
+        "size": 3796
       }
     },
     "public": true,
     "created_at": "2023-02-28T11:38:54Z",
-    "updated_at": "2023-02-28T13:16:13Z",
+    "updated_at": "2026-06-11T14:40:16Z",
     "description": "Exemple de MarkupExtension WPF avec rafraîchissement",
     "comments": 0,
     "user": null,
@@ -1049,13 +1105,13 @@
         "filename": "AstucesBindingWPF.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/b6d4ad561ea959c77f46091bc9941d3a/raw/d98b5092427cc9b2c27a61b1944e022cd37b6ee5/AstucesBindingWPF.md",
-        "size": 4689
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/b6d4ad561ea959c77f46091bc9941d3a/raw/23859a26581095e61a58abfbdaf60e4dea8bcbde/AstucesBindingWPF.md",
+        "size": 4674
       }
     },
     "public": true,
     "created_at": "2022-06-03T09:32:29Z",
-    "updated_at": "2025-09-16T17:10:18Z",
+    "updated_at": "2026-06-11T14:41:04Z",
     "description": "Notes pour le binding WPF",
     "comments": 0,
     "user": null,
