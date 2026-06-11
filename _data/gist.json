@@ -13,13 +13,13 @@
         "filename": "StaticWebArchitecture.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/5f5a5dffb63e5bd08abe00861dd3dba2/raw/f9f3d25e6e76ef0244a288dcc4844bc626a856ae/StaticWebArchitecture.md",
-        "size": 5778
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/5f5a5dffb63e5bd08abe00861dd3dba2/raw/6e68483f9f8daf670411062250be70e43c6412ed/StaticWebArchitecture.md",
+        "size": 5761
       }
     },
     "public": true,
     "created_at": "2026-06-08T09:54:52Z",
-    "updated_at": "2026-06-09T12:37:54Z",
+    "updated_at": "2026-06-10T09:44:35Z",
     "description": "Architecture technique de mon blog personnel",
     "comments": 0,
     "user": null,
