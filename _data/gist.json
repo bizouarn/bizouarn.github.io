@@ -13,14 +13,14 @@
         "filename": "Polyfill.md",
         "type": "text/markdown",
         "language": "Markdown",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/aa123e1a72cab0b66a0ba436352b3704/raw/672174fa8cac270edebb2ef1f080cd346b02b48d/Polyfill.md",
-        "size": 5476
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/aa123e1a72cab0b66a0ba436352b3704/raw/8126331328e99767010c2fafd41f30819174624d/Polyfill.md",
+        "size": 6232
       }
     },
     "public": true,
     "created_at": "2026-06-11T15:03:45Z",
-    "updated_at": "2026-06-12T13:56:44Z",
-    "description": "L'Art du \"Hot Swap\" Architectural",
+    "updated_at": "2026-06-23T09:23:23Z",
+    "description": "Émuler le futur pour survivre au présent",
     "comments": 0,
     "user": null,
     "comments_enabled": true,
