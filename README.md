@@ -5,7 +5,7 @@ title: A propos
 ---
 # Bonjour 👋
 ## Je suis Aymeric BIZOUARN 🇫🇷
-Développeur full stack chez [HERAKLES](https://herakles.com/) ERP à Vannes.
+Développeur full stack à Vannes spécialiser dans le développement logiciel ERP.
 
 Je travaille sur une solution ERP développée en interne, où j'interviens sur l’ensemble de la stack : frontend, backend, base de données, automatisation et déploiement.
 Avec plusieurs années d’expérience en développement logiciel, je me suis spécialisé dans l’intégration continue (CI/CD), les architectures cloud SaaS ☁️ et l’intégration d’outils de dataviz 📈, avec une vraie sensibilité à la performance et à la qualité du code.
