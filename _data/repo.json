@@ -130,8 +130,8 @@
     "clone_url": "https://github.com/bizouarn/bizouarn.github.io.git",
     "svn_url": "https://github.com/bizouarn/bizouarn.github.io",
     "homepage": "https://bizouarn.com/",
-    "stargazers_count": 0,
-    "watchers_count": 0,
+    "stargazers_count": 1,
+    "watchers_count": 1,
     "language": "SCSS",
     "has_issues": true,
     "has_projects": true,
@@ -154,7 +154,7 @@
     "visibility": "public",
     "forks": 0,
     "open_issues": 0,
-    "watchers": 0,
+    "watchers": 1,
     "default_branch": "main"
   },
   {
