@@ -1,0 +1,1318 @@
+[
+  {
+    "url": "https://api.github.com/gists/6652f7e4b0d073a504aae4685bd29373",
+    "forks_url": "https://api.github.com/gists/6652f7e4b0d073a504aae4685bd29373/forks",
+    "commits_url": "https://api.github.com/gists/6652f7e4b0d073a504aae4685bd29373/commits",
+    "id": "6652f7e4b0d073a504aae4685bd29373",
+    "node_id": "G_kwDOARh42NoAIDY2NTJmN2U0YjBkMDczYTUwNGFhZTQ2ODViZDI5Mzcz",
+    "git_pull_url": "https://gist.github.com/6652f7e4b0d073a504aae4685bd29373.git",
+    "git_push_url": "https://gist.github.com/6652f7e4b0d073a504aae4685bd29373.git",
+    "html_url": "https://gist.github.com/bizouarn/6652f7e4b0d073a504aae4685bd29373",
+    "files": {
+      "UnlockBitLocker.md": {
+        "filename": "UnlockBitLocker.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/6652f7e4b0d073a504aae4685bd29373/raw/39a131ba51e09e353e72df979b61f3ff34b9ec57/UnlockBitLocker.md",
+        "size": 2478
+      }
+    },
+    "public": true,
+    "created_at": "2026-11-17T19:54:58Z",
+    "updated_at": "2026-11-17T19:54:59Z",
+    "description": "",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/6652f7e4b0d073a504aae4685bd29373/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/a6892a024506913230aaa54306130781",
+    "forks_url": "https://api.github.com/gists/a6892a024506913230aaa54306130781/forks",
+    "commits_url": "https://api.github.com/gists/a6892a024506913230aaa54306130781/commits",
+    "id": "a6892a024506913230aaa54306130781",
+    "node_id": "G_kwDOARh42NoAIGE2ODkyYTAyNDUwNjkxMzIzMGFhYTU0MzA2MTMwNzgx",
+    "git_pull_url": "https://gist.github.com/a6892a024506913230aaa54306130781.git",
+    "git_push_url": "https://gist.github.com/a6892a024506913230aaa54306130781.git",
+    "html_url": "https://gist.github.com/bizouarn/a6892a024506913230aaa54306130781",
+    "files": {
+      "SuiviUsageClaudeWindows.md": {
+        "filename": "SuiviUsageClaudeWindows.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/a6892a024506913230aaa54306130781/raw/cec6554dde0e8c93c68d1c320355a4a90805e034/SuiviUsageClaudeWindows.md",
+        "size": 7035
+      }
+    },
+    "public": true,
+    "created_at": "2026-11-13T14:33:05Z",
+    "updated_at": "2026-11-13T14:35:52Z",
+    "description": "Comment visualiser l'utilisation du code Claude en temps réel sous windows",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/a6892a024506913230aaa54306130781/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/9bd08a1bc5b57588faeb7b1e4d2aea46",
+    "forks_url": "https://api.github.com/gists/9bd08a1bc5b57588faeb7b1e4d2aea46/forks",
+    "commits_url": "https://api.github.com/gists/9bd08a1bc5b57588faeb7b1e4d2aea46/commits",
+    "id": "9bd08a1bc5b57588faeb7b1e4d2aea46",
+    "node_id": "G_kwDOARh42NoAIDliZDA4YTFiYzViNTc1ODhmYWViN2IxZTRkMmFlYTQ2",
+    "git_pull_url": "https://gist.github.com/9bd08a1bc5b57588faeb7b1e4d2aea46.git",
+    "git_push_url": "https://gist.github.com/9bd08a1bc5b57588faeb7b1e4d2aea46.git",
+    "html_url": "https://gist.github.com/bizouarn/9bd08a1bc5b57588faeb7b1e4d2aea46",
+    "files": {
+      "TransactionScope.md": {
+        "filename": "TransactionScope.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/9bd08a1bc5b57588faeb7b1e4d2aea46/raw/317c83a1d9a75e4eb4c5d659d0689c7cab4d9c41/TransactionScope.md",
+        "size": 6682
+      }
+    },
+    "public": true,
+    "created_at": "2026-09-15T12:28:53Z",
+    "updated_at": "2026-09-30T06:21:21Z",
+    "description": "TransactionScope en .NET",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/9bd08a1bc5b57588faeb7b1e4d2aea46/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/aa123e1a72cab0b66a0ba436352b3704",
+    "forks_url": "https://api.github.com/gists/aa123e1a72cab0b66a0ba436352b3704/forks",
+    "commits_url": "https://api.github.com/gists/aa123e1a72cab0b66a0ba436352b3704/commits",
+    "id": "aa123e1a72cab0b66a0ba436352b3704",
+    "node_id": "G_kwDOARh42NoAIGFhMTIzZTFhNzJjYWIwYjY2YTBiYTQzNjM1MmIzNzA0",
+    "git_pull_url": "https://gist.github.com/aa123e1a72cab0b66a0ba436352b3704.git",
+    "git_push_url": "https://gist.github.com/aa123e1a72cab0b66a0ba436352b3704.git",
+    "html_url": "https://gist.github.com/bizouarn/aa123e1a72cab0b66a0ba436352b3704",
+    "files": {
+      "Polyfill.md": {
+        "filename": "Polyfill.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/aa123e1a72cab0b66a0ba436352b3704/raw/35aaab1a19ffb5c19baf69d46ae2159d0d8ced9b/Polyfill.md",
+        "size": 7995
+      }
+    },
+    "public": true,
+    "created_at": "2026-06-11T15:03:45Z",
+    "updated_at": "2026-09-09T10:27:38Z",
+    "description": "Émuler le futur pour survivre au présent",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/aa123e1a72cab0b66a0ba436352b3704/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/5f5a5dffb63e5bd08abe00861dd3dba2",
+    "forks_url": "https://api.github.com/gists/5f5a5dffb63e5bd08abe00861dd3dba2/forks",
+    "commits_url": "https://api.github.com/gists/5f5a5dffb63e5bd08abe00861dd3dba2/commits",
+    "id": "5f5a5dffb63e5bd08abe00861dd3dba2",
+    "node_id": "G_kwDOARh42NoAIDVmNWE1ZGZmYjYzZTViZDA4YWJlMDA4NjFkZDNkYmEy",
+    "git_pull_url": "https://gist.github.com/5f5a5dffb63e5bd08abe00861dd3dba2.git",
+    "git_push_url": "https://gist.github.com/5f5a5dffb63e5bd08abe00861dd3dba2.git",
+    "html_url": "https://gist.github.com/bizouarn/5f5a5dffb63e5bd08abe00861dd3dba2",
+    "files": {
+      "StaticWebArchitecture.md": {
+        "filename": "StaticWebArchitecture.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/5f5a5dffb63e5bd08abe00861dd3dba2/raw/6e68483f9f8daf670411062250be70e43c6412ed/StaticWebArchitecture.md",
+        "size": 5761
+      }
+    },
+    "public": true,
+    "created_at": "2026-06-08T09:54:52Z",
+    "updated_at": "2026-06-10T09:44:35Z",
+    "description": "Architecture technique de mon blog personnel",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/5f5a5dffb63e5bd08abe00861dd3dba2/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/2ba022b4f8590183aebf39ca0810f866",
+    "forks_url": "https://api.github.com/gists/2ba022b4f8590183aebf39ca0810f866/forks",
+    "commits_url": "https://api.github.com/gists/2ba022b4f8590183aebf39ca0810f866/commits",
+    "id": "2ba022b4f8590183aebf39ca0810f866",
+    "node_id": "G_kwDOARh42NoAIDJiYTAyMmI0Zjg1OTAxODNhZWJmMzljYTA4MTBmODY2",
+    "git_pull_url": "https://gist.github.com/2ba022b4f8590183aebf39ca0810f866.git",
+    "git_push_url": "https://gist.github.com/2ba022b4f8590183aebf39ca0810f866.git",
+    "html_url": "https://gist.github.com/bizouarn/2ba022b4f8590183aebf39ca0810f866",
+    "files": {
+      "DapperBulkOptions.md": {
+        "filename": "DapperBulkOptions.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/2ba022b4f8590183aebf39ca0810f866/raw/ace2017fad982143dc6fd16e8b9d8db920f5099a/DapperBulkOptions.md",
+        "size": 7424
+      }
+    },
+    "public": true,
+    "created_at": "2026-05-11T10:05:02Z",
+    "updated_at": "2026-05-12T16:35:07Z",
+    "description": "Comment utiliser BulkOptions dans Dapper Plus ?",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/2ba022b4f8590183aebf39ca0810f866/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/c721f9616cf2a77d6a7659b99b7cebd5",
+    "forks_url": "https://api.github.com/gists/c721f9616cf2a77d6a7659b99b7cebd5/forks",
+    "commits_url": "https://api.github.com/gists/c721f9616cf2a77d6a7659b99b7cebd5/commits",
+    "id": "c721f9616cf2a77d6a7659b99b7cebd5",
+    "node_id": "G_kwDOARh42NoAIGM3MjFmOTYxNmNmMmE3N2Q2YTc2NTliOTliN2NlYmQ1",
+    "git_pull_url": "https://gist.github.com/c721f9616cf2a77d6a7659b99b7cebd5.git",
+    "git_push_url": "https://gist.github.com/c721f9616cf2a77d6a7659b99b7cebd5.git",
+    "html_url": "https://gist.github.com/bizouarn/c721f9616cf2a77d6a7659b99b7cebd5",
+    "files": {
+      "DuckDBSiren.md": {
+        "filename": "DuckDBSiren.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/c721f9616cf2a77d6a7659b99b7cebd5/raw/6900aabf7a6620f20441f6034329e73d03536a81/DuckDBSiren.md",
+        "size": 4577
+      }
+    },
+    "public": true,
+    "created_at": "2026-02-27T15:31:18Z",
+    "updated_at": "2026-07-24T13:16:13Z",
+    "description": "Interroger le fichier SIREN complet en 7 secondes chrono",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/c721f9616cf2a77d6a7659b99b7cebd5/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb",
+    "forks_url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb/forks",
+    "commits_url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb/commits",
+    "id": "f5bf096b9e54de0e871c1004c10290bb",
+    "node_id": "G_kwDOARh42NoAIGY1YmYwOTZiOWU1NGRlMGU4NzFjMTAwNGMxMDI5MGJi",
+    "git_pull_url": "https://gist.github.com/f5bf096b9e54de0e871c1004c10290bb.git",
+    "git_push_url": "https://gist.github.com/f5bf096b9e54de0e871c1004c10290bb.git",
+    "html_url": "https://gist.github.com/bizouarn/f5bf096b9e54de0e871c1004c10290bb",
+    "files": {
+      "Ghostscript32.cs": {
+        "filename": "Ghostscript32.cs",
+        "type": "text/plain",
+        "language": "C#",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/f5bf096b9e54de0e871c1004c10290bb/raw/be6200220cdf6960e90e54e1e5c36a9890d84c59/Ghostscript32.cs",
+        "size": 4982
+      }
+    },
+    "public": true,
+    "created_at": "2025-12-11T17:35:21Z",
+    "updated_at": "2026-02-09T14:25:13Z",
+    "description": "Classe C# pour encapsuler l'API Ghostscript 32-bit (via P/Invoke).",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/f5bf096b9e54de0e871c1004c10290bb/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/a7cd52c112fe3c1c2c71d5e26e57c2a0",
+    "forks_url": "https://api.github.com/gists/a7cd52c112fe3c1c2c71d5e26e57c2a0/forks",
+    "commits_url": "https://api.github.com/gists/a7cd52c112fe3c1c2c71d5e26e57c2a0/commits",
+    "id": "a7cd52c112fe3c1c2c71d5e26e57c2a0",
+    "node_id": "G_kwDOARh42NoAIGE3Y2Q1MmMxMTJmZTNjMWMyYzcxZDVlMjZlNTdjMmEw",
+    "git_pull_url": "https://gist.github.com/a7cd52c112fe3c1c2c71d5e26e57c2a0.git",
+    "git_push_url": "https://gist.github.com/a7cd52c112fe3c1c2c71d5e26e57c2a0.git",
+    "html_url": "https://gist.github.com/bizouarn/a7cd52c112fe3c1c2c71d5e26e57c2a0",
+    "files": {
+      "MVVM.md": {
+        "filename": "MVVM.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/a7cd52c112fe3c1c2c71d5e26e57c2a0/raw/c53e813de8924111753918552cc893826c267572/MVVM.md",
+        "size": 11733
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-26T21:56:10Z",
+    "updated_at": "2026-06-11T14:39:30Z",
+    "description": "Comment MVVM rend-il votre application WPF testable et maintenable ?",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/a7cd52c112fe3c1c2c71d5e26e57c2a0/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/6a59ccfddd3f5e886ae63274a6b47a69",
+    "forks_url": "https://api.github.com/gists/6a59ccfddd3f5e886ae63274a6b47a69/forks",
+    "commits_url": "https://api.github.com/gists/6a59ccfddd3f5e886ae63274a6b47a69/commits",
+    "id": "6a59ccfddd3f5e886ae63274a6b47a69",
+    "node_id": "G_kwDOARh42NoAIDZhNTljY2ZkZGQzZjVlODg2YWU2MzI3NGE2YjQ3YTY5",
+    "git_pull_url": "https://gist.github.com/6a59ccfddd3f5e886ae63274a6b47a69.git",
+    "git_push_url": "https://gist.github.com/6a59ccfddd3f5e886ae63274a6b47a69.git",
+    "html_url": "https://gist.github.com/bizouarn/6a59ccfddd3f5e886ae63274a6b47a69",
+    "files": {
+      "CodeSyntaxe.md": {
+        "filename": "CodeSyntaxe.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/6a59ccfddd3f5e886ae63274a6b47a69/raw/60f965060c2e9299545d7b87c42fba3ddae8fffd/CodeSyntaxe.md",
+        "size": 6213
+      }
+    },
+    "public": true,
+    "created_at": "2025-11-19T23:40:34Z",
+    "updated_at": "2025-11-24T11:29:20Z",
+    "description": "L'Architecture invisible de la syntaxe dans notre code",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/6a59ccfddd3f5e886ae63274a6b47a69/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/ff32bbb8e1acfd0e1ea980a5a3b30000",
+    "forks_url": "https://api.github.com/gists/ff32bbb8e1acfd0e1ea980a5a3b30000/forks",
+    "commits_url": "https://api.github.com/gists/ff32bbb8e1acfd0e1ea980a5a3b30000/commits",
+    "id": "ff32bbb8e1acfd0e1ea980a5a3b30000",
+    "node_id": "G_kwDOARh42NoAIGZmMzJiYmI4ZTFhY2ZkMGUxZWE5ODBhNWEzYjMwMDAw",
+    "git_pull_url": "https://gist.github.com/ff32bbb8e1acfd0e1ea980a5a3b30000.git",
+    "git_push_url": "https://gist.github.com/ff32bbb8e1acfd0e1ea980a5a3b30000.git",
+    "html_url": "https://gist.github.com/bizouarn/ff32bbb8e1acfd0e1ea980a5a3b30000",
+    "files": {
+      "ConfigureAwait.md": {
+        "filename": "ConfigureAwait.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/ff32bbb8e1acfd0e1ea980a5a3b30000/raw/d0fbb70f5e853d99bf9e9d2ceee73ebf09b7d377/ConfigureAwait.md",
+        "size": 7689
+      }
+    },
+    "public": true,
+    "created_at": "2025-10-20T10:11:11Z",
+    "updated_at": "2025-10-20T15:09:29Z",
+    "description": "ConfigureAwait(false) en .NET : à quoi ça sert ?",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/ff32bbb8e1acfd0e1ea980a5a3b30000/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/e7d51eeab4dd7de2fab75e51df009ca8",
+    "forks_url": "https://api.github.com/gists/e7d51eeab4dd7de2fab75e51df009ca8/forks",
+    "commits_url": "https://api.github.com/gists/e7d51eeab4dd7de2fab75e51df009ca8/commits",
+    "id": "e7d51eeab4dd7de2fab75e51df009ca8",
+    "node_id": "G_kwDOARh42NoAIGU3ZDUxZWVhYjRkZDdkZTJmYWI3NWU1MWRmMDA5Y2E4",
+    "git_pull_url": "https://gist.github.com/e7d51eeab4dd7de2fab75e51df009ca8.git",
+    "git_push_url": "https://gist.github.com/e7d51eeab4dd7de2fab75e51df009ca8.git",
+    "html_url": "https://gist.github.com/bizouarn/e7d51eeab4dd7de2fab75e51df009ca8",
+    "files": {
+      "ClassCollection.md": {
+        "filename": "ClassCollection.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/e7d51eeab4dd7de2fab75e51df009ca8/raw/07dbd799120b0b287c075c59f57903bf87455d97/ClassCollection.md",
+        "size": 7156
+      }
+    },
+    "public": true,
+    "created_at": "2025-10-16T06:27:13Z",
+    "updated_at": "2025-10-21T07:22:48Z",
+    "description": "Pourquoi une collection typée peut mériter sa propre classe ?",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/e7d51eeab4dd7de2fab75e51df009ca8/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/95353ee493c0debdc227d922155cb18f",
+    "forks_url": "https://api.github.com/gists/95353ee493c0debdc227d922155cb18f/forks",
+    "commits_url": "https://api.github.com/gists/95353ee493c0debdc227d922155cb18f/commits",
+    "id": "95353ee493c0debdc227d922155cb18f",
+    "node_id": "G_kwDOARh42NoAIDk1MzUzZWU0OTNjMGRlYmRjMjI3ZDkyMjE1NWNiMThm",
+    "git_pull_url": "https://gist.github.com/95353ee493c0debdc227d922155cb18f.git",
+    "git_push_url": "https://gist.github.com/95353ee493c0debdc227d922155cb18f.git",
+    "html_url": "https://gist.github.com/bizouarn/95353ee493c0debdc227d922155cb18f",
+    "files": {
+      "ToString.md": {
+        "filename": "ToString.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/95353ee493c0debdc227d922155cb18f/raw/4f3840f558b9d76d0ad3e91b41c0c17bbbca930c/ToString.md",
+        "size": 5901
+      }
+    },
+    "public": true,
+    "created_at": "2025-07-16T13:47:48Z",
+    "updated_at": "2025-09-16T14:56:28Z",
+    "description": "Redéfinir ToString() proprement en .net",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/95353ee493c0debdc227d922155cb18f/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/22c69a12c787908ebcf8ed5b39a024d5",
+    "forks_url": "https://api.github.com/gists/22c69a12c787908ebcf8ed5b39a024d5/forks",
+    "commits_url": "https://api.github.com/gists/22c69a12c787908ebcf8ed5b39a024d5/commits",
+    "id": "22c69a12c787908ebcf8ed5b39a024d5",
+    "node_id": "G_kwDOARh42NoAIDIyYzY5YTEyYzc4NzkwOGViY2Y4ZWQ1YjM5YTAyNGQ1",
+    "git_pull_url": "https://gist.github.com/22c69a12c787908ebcf8ed5b39a024d5.git",
+    "git_push_url": "https://gist.github.com/22c69a12c787908ebcf8ed5b39a024d5.git",
+    "html_url": "https://gist.github.com/bizouarn/22c69a12c787908ebcf8ed5b39a024d5",
+    "files": {
+      "ReadCredentialManagerToken.ps1": {
+        "filename": "ReadCredentialManagerToken.ps1",
+        "type": "application/x-msdos-program",
+        "language": "PowerShell",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/22c69a12c787908ebcf8ed5b39a024d5/raw/3aea02e853b2bf9d2d1651fa8f5d7d908aab3298/ReadCredentialManagerToken.ps1",
+        "size": 602
+      }
+    },
+    "public": true,
+    "created_at": "2025-06-20T19:34:39Z",
+    "updated_at": "2025-07-15T06:41:13Z",
+    "description": "Récupère un access_token en clair depuis le Credential Manager Windows",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/22c69a12c787908ebcf8ed5b39a024d5/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/e9298a8e4c67d8ddd147e569aba616b4",
+    "forks_url": "https://api.github.com/gists/e9298a8e4c67d8ddd147e569aba616b4/forks",
+    "commits_url": "https://api.github.com/gists/e9298a8e4c67d8ddd147e569aba616b4/commits",
+    "id": "e9298a8e4c67d8ddd147e569aba616b4",
+    "node_id": "G_kwDOARh42NoAIGU5Mjk4YThlNGM2N2Q4ZGRkMTQ3ZTU2OWFiYTYxNmI0",
+    "git_pull_url": "https://gist.github.com/e9298a8e4c67d8ddd147e569aba616b4.git",
+    "git_push_url": "https://gist.github.com/e9298a8e4c67d8ddd147e569aba616b4.git",
+    "html_url": "https://gist.github.com/bizouarn/e9298a8e4c67d8ddd147e569aba616b4",
+    "files": {
+      "CompressVMDK.md": {
+        "filename": "CompressVMDK.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/e9298a8e4c67d8ddd147e569aba616b4/raw/5bdd92adcf3f801f7121d31ce888f839dbc85ef9/CompressVMDK.md",
+        "size": 1195
+      }
+    },
+    "public": true,
+    "created_at": "2025-05-15T13:08:45Z",
+    "updated_at": "2025-05-15T13:08:46Z",
+    "description": "Compression de disque virtuel VMware",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/e9298a8e4c67d8ddd147e569aba616b4/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/ea48240d618a9fd76a1a9486775618e6",
+    "forks_url": "https://api.github.com/gists/ea48240d618a9fd76a1a9486775618e6/forks",
+    "commits_url": "https://api.github.com/gists/ea48240d618a9fd76a1a9486775618e6/commits",
+    "id": "ea48240d618a9fd76a1a9486775618e6",
+    "node_id": "G_kwDOARh42NoAIGVhNDgyNDBkNjE4YTlmZDc2YTFhOTQ4Njc3NTYxOGU2",
+    "git_pull_url": "https://gist.github.com/ea48240d618a9fd76a1a9486775618e6.git",
+    "git_push_url": "https://gist.github.com/ea48240d618a9fd76a1a9486775618e6.git",
+    "html_url": "https://gist.github.com/bizouarn/ea48240d618a9fd76a1a9486775618e6",
+    "files": {
+      "DotnetOpenSourceEvolution.md": {
+        "filename": "DotnetOpenSourceEvolution.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/ea48240d618a9fd76a1a9486775618e6/raw/d0f56f711a1c7f0bdbe18b09513efae41f9b9e03/DotnetOpenSourceEvolution.md",
+        "size": 8541
+      }
+    },
+    "public": true,
+    "created_at": "2025-04-07T22:45:24Z",
+    "updated_at": "2025-04-08T06:16:37Z",
+    "description": "L'Ére du \"Tout Gratuit\" Touche-t-elle à sa Fin dans l'Open Source .NET ? L'Ombre de l'IA Plane...",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/ea48240d618a9fd76a1a9486775618e6/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/57ba9f6f0626441870c7d5d6a5773d93",
+    "forks_url": "https://api.github.com/gists/57ba9f6f0626441870c7d5d6a5773d93/forks",
+    "commits_url": "https://api.github.com/gists/57ba9f6f0626441870c7d5d6a5773d93/commits",
+    "id": "57ba9f6f0626441870c7d5d6a5773d93",
+    "node_id": "G_kwDOARh42NoAIDU3YmE5ZjZmMDYyNjQ0MTg3MGM3ZDVkNmE1NzczZDkz",
+    "git_pull_url": "https://gist.github.com/57ba9f6f0626441870c7d5d6a5773d93.git",
+    "git_push_url": "https://gist.github.com/57ba9f6f0626441870c7d5d6a5773d93.git",
+    "html_url": "https://gist.github.com/bizouarn/57ba9f6f0626441870c7d5d6a5773d93",
+    "files": {
+      "OverPass.md": {
+        "filename": "OverPass.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/57ba9f6f0626441870c7d5d6a5773d93/raw/d6bb2e258eb4d516cb221fc748945ac54e69b491/OverPass.md",
+        "size": 5332
+      }
+    },
+    "public": true,
+    "created_at": "2025-04-03T19:54:51Z",
+    "updated_at": "2025-04-08T05:59:31Z",
+    "description": "Synthèse sur le langage de requête Overpass QL",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/57ba9f6f0626441870c7d5d6a5773d93/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/7f356d3eadf47c53b754b8049d8acda1",
+    "forks_url": "https://api.github.com/gists/7f356d3eadf47c53b754b8049d8acda1/forks",
+    "commits_url": "https://api.github.com/gists/7f356d3eadf47c53b754b8049d8acda1/commits",
+    "id": "7f356d3eadf47c53b754b8049d8acda1",
+    "node_id": "G_kwDOARh42NoAIDdmMzU2ZDNlYWRmNDdjNTNiNzU0YjgwNDlkOGFjZGEx",
+    "git_pull_url": "https://gist.github.com/7f356d3eadf47c53b754b8049d8acda1.git",
+    "git_push_url": "https://gist.github.com/7f356d3eadf47c53b754b8049d8acda1.git",
+    "html_url": "https://gist.github.com/bizouarn/7f356d3eadf47c53b754b8049d8acda1",
+    "files": {
+      "Unsafe.Net.md": {
+        "filename": "Unsafe.Net.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/7f356d3eadf47c53b754b8049d8acda1/raw/eebf8be7d86f82a2e66c2c2ac7f0c80ca9725385/Unsafe.Net.md",
+        "size": 4580
+      }
+    },
+    "public": true,
+    "created_at": "2025-03-20T18:39:27Z",
+    "updated_at": "2025-09-16T10:51:59Z",
+    "description": "Pourquoi le code unsafe existe-t-il ?",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/7f356d3eadf47c53b754b8049d8acda1/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/d77eea0fedac3b42742ce0d8dea37e10",
+    "forks_url": "https://api.github.com/gists/d77eea0fedac3b42742ce0d8dea37e10/forks",
+    "commits_url": "https://api.github.com/gists/d77eea0fedac3b42742ce0d8dea37e10/commits",
+    "id": "d77eea0fedac3b42742ce0d8dea37e10",
+    "node_id": "G_kwDOARh42NoAIGQ3N2VlYTBmZWRhYzNiNDI3NDJjZTBkOGRlYTM3ZTEw",
+    "git_pull_url": "https://gist.github.com/d77eea0fedac3b42742ce0d8dea37e10.git",
+    "git_push_url": "https://gist.github.com/d77eea0fedac3b42742ce0d8dea37e10.git",
+    "html_url": "https://gist.github.com/bizouarn/d77eea0fedac3b42742ce0d8dea37e10",
+    "files": {
+      "InversionControle.md": {
+        "filename": "InversionControle.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/d77eea0fedac3b42742ce0d8dea37e10/raw/4dde9a3befeefcc85fa5a1149d5834995c4b47de/InversionControle.md",
+        "size": 2847
+      }
+    },
+    "public": true,
+    "created_at": "2025-03-20T15:53:50Z",
+    "updated_at": "2025-09-16T15:46:04Z",
+    "description": "Inversion de Contrôle c'est quoi ?",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/d77eea0fedac3b42742ce0d8dea37e10/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/29b0fa8cd150ad476b4f7d3ccadfabee",
+    "forks_url": "https://api.github.com/gists/29b0fa8cd150ad476b4f7d3ccadfabee/forks",
+    "commits_url": "https://api.github.com/gists/29b0fa8cd150ad476b4f7d3ccadfabee/commits",
+    "id": "29b0fa8cd150ad476b4f7d3ccadfabee",
+    "node_id": "G_kwDOARh42NoAIDI5YjBmYThjZDE1MGFkNDc2YjRmN2QzY2NhZGZhYmVl",
+    "git_pull_url": "https://gist.github.com/29b0fa8cd150ad476b4f7d3ccadfabee.git",
+    "git_push_url": "https://gist.github.com/29b0fa8cd150ad476b4f7d3ccadfabee.git",
+    "html_url": "https://gist.github.com/bizouarn/29b0fa8cd150ad476b4f7d3ccadfabee",
+    "files": {
+      "InjectionDépendances.md": {
+        "filename": "InjectionDépendances.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/29b0fa8cd150ad476b4f7d3ccadfabee/raw/37bddd9274e696a2a4e9d4133269e215005702c5/InjectionD%C3%A9pendances.md",
+        "size": 8369
+      }
+    },
+    "public": true,
+    "created_at": "2025-03-20T14:57:12Z",
+    "updated_at": "2025-11-26T23:18:36Z",
+    "description": "Pourquoi utiliser l'Injection de Dépendances ?",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/29b0fa8cd150ad476b4f7d3ccadfabee/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/3e59408f9b5f457d3a73b0b83e1c07c6",
+    "forks_url": "https://api.github.com/gists/3e59408f9b5f457d3a73b0b83e1c07c6/forks",
+    "commits_url": "https://api.github.com/gists/3e59408f9b5f457d3a73b0b83e1c07c6/commits",
+    "id": "3e59408f9b5f457d3a73b0b83e1c07c6",
+    "node_id": "G_kwDOARh42NoAIDNlNTk0MDhmOWI1ZjQ1N2QzYTczYjBiODNlMWMwN2M2",
+    "git_pull_url": "https://gist.github.com/3e59408f9b5f457d3a73b0b83e1c07c6.git",
+    "git_push_url": "https://gist.github.com/3e59408f9b5f457d3a73b0b83e1c07c6.git",
+    "html_url": "https://gist.github.com/bizouarn/3e59408f9b5f457d3a73b0b83e1c07c6",
+    "files": {
+      "BenchMarkBrushes.Net.md": {
+        "filename": "BenchMarkBrushes.Net.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/3e59408f9b5f457d3a73b0b83e1c07c6/raw/0cca7fba704b1352a9c1da125f5485d0fdfafa6b/BenchMarkBrushes.Net.md",
+        "size": 2673
+      }
+    },
+    "public": true,
+    "created_at": "2025-03-20T10:37:41Z",
+    "updated_at": "2025-03-20T18:21:10Z",
+    "description": " Benchmark qui compare l'instanciation d'un SolidColorBrush avec l'utilisation de l'instance statique Brushes.Red.",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/3e59408f9b5f457d3a73b0b83e1c07c6/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/cdbe70eb3744b5b37ab32d188410cea6",
+    "forks_url": "https://api.github.com/gists/cdbe70eb3744b5b37ab32d188410cea6/forks",
+    "commits_url": "https://api.github.com/gists/cdbe70eb3744b5b37ab32d188410cea6/commits",
+    "id": "cdbe70eb3744b5b37ab32d188410cea6",
+    "node_id": "G_kwDOARh42NoAIGNkYmU3MGViMzc0NGI1YjM3YWIzMmQxODg0MTBjZWE2",
+    "git_pull_url": "https://gist.github.com/cdbe70eb3744b5b37ab32d188410cea6.git",
+    "git_push_url": "https://gist.github.com/cdbe70eb3744b5b37ab32d188410cea6.git",
+    "html_url": "https://gist.github.com/bizouarn/cdbe70eb3744b5b37ab32d188410cea6",
+    "files": {
+      "MauvaisePratiqueIEnumerable.md": {
+        "filename": "MauvaisePratiqueIEnumerable.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/cdbe70eb3744b5b37ab32d188410cea6/raw/858ce70631fa7d3e035b74ecbe35e25fca210586/MauvaisePratiqueIEnumerable.md",
+        "size": 4693
+      }
+    },
+    "public": true,
+    "created_at": "2025-03-03T13:47:01Z",
+    "updated_at": "2025-07-03T21:32:19Z",
+    "description": "Pourquoi éviter de stocker des IEnumerable<T> en propriété d’objet en C# ?",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/cdbe70eb3744b5b37ab32d188410cea6/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/80e10093485e520afb66925bcc257b13",
+    "forks_url": "https://api.github.com/gists/80e10093485e520afb66925bcc257b13/forks",
+    "commits_url": "https://api.github.com/gists/80e10093485e520afb66925bcc257b13/commits",
+    "id": "80e10093485e520afb66925bcc257b13",
+    "node_id": "G_kwDOARh42NoAIDgwZTEwMDkzNDg1ZTUyMGFmYjY2OTI1YmNjMjU3YjEz",
+    "git_pull_url": "https://gist.github.com/80e10093485e520afb66925bcc257b13.git",
+    "git_push_url": "https://gist.github.com/80e10093485e520afb66925bcc257b13.git",
+    "html_url": "https://gist.github.com/bizouarn/80e10093485e520afb66925bcc257b13",
+    "files": {
+      "InterdictionChiffrementContreProductif.md": {
+        "filename": "InterdictionChiffrementContreProductif.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/80e10093485e520afb66925bcc257b13/raw/443e77a3ad4adaaeb5814b9de8f0378943ed943e/InterdictionChiffrementContreProductif.md",
+        "size": 2594
+      }
+    },
+    "public": true,
+    "created_at": "2025-02-27T21:16:43Z",
+    "updated_at": "2025-11-26T19:45:01Z",
+    "description": "Pourquoi interdire le chiffrement des messageries est une absurdité",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/80e10093485e520afb66925bcc257b13/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/7e160efb40e8df852d4daf84c3514898",
+    "forks_url": "https://api.github.com/gists/7e160efb40e8df852d4daf84c3514898/forks",
+    "commits_url": "https://api.github.com/gists/7e160efb40e8df852d4daf84c3514898/commits",
+    "id": "7e160efb40e8df852d4daf84c3514898",
+    "node_id": "G_kwDOARh42NoAIDdlMTYwZWZiNDBlOGRmODUyZDRkYWY4NGMzNTE0ODk4",
+    "git_pull_url": "https://gist.github.com/7e160efb40e8df852d4daf84c3514898.git",
+    "git_push_url": "https://gist.github.com/7e160efb40e8df852d4daf84c3514898.git",
+    "html_url": "https://gist.github.com/bizouarn/7e160efb40e8df852d4daf84c3514898",
+    "files": {
+      "HResult.md": {
+        "filename": "HResult.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/7e160efb40e8df852d4daf84c3514898/raw/894e2363ad6c61e32b261523711b073b4503f29c/HResult.md",
+        "size": 4638
+      }
+    },
+    "public": true,
+    "created_at": "2024-11-21T09:03:58Z",
+    "updated_at": "2026-01-25T19:00:55Z",
+    "description": "Qu'est-ce que HResult ? (en c#)",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/7e160efb40e8df852d4daf84c3514898/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/57ea932e51a7a246959fdc6558970a77",
+    "forks_url": "https://api.github.com/gists/57ea932e51a7a246959fdc6558970a77/forks",
+    "commits_url": "https://api.github.com/gists/57ea932e51a7a246959fdc6558970a77/commits",
+    "id": "57ea932e51a7a246959fdc6558970a77",
+    "node_id": "G_kwDOARh42NoAIDU3ZWE5MzJlNTFhN2EyNDY5NTlmZGM2NTU4OTcwYTc3",
+    "git_pull_url": "https://gist.github.com/57ea932e51a7a246959fdc6558970a77.git",
+    "git_push_url": "https://gist.github.com/57ea932e51a7a246959fdc6558970a77.git",
+    "html_url": "https://gist.github.com/bizouarn/57ea932e51a7a246959fdc6558970a77",
+    "files": {
+      "cleanup-gitlab-pipelines.sh": {
+        "filename": "cleanup-gitlab-pipelines.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/57ea932e51a7a246959fdc6558970a77/raw/869353e60d692aad743d5c0d46f33f830dc6df37/cleanup-gitlab-pipelines.sh",
+        "size": 1267
+      }
+    },
+    "public": true,
+    "created_at": "2024-10-04T09:34:42Z",
+    "updated_at": "2024-10-09T20:47:21Z",
+    "description": "Script bash pour supprimer tous les pipelines gitlab pour un projet antérieur a une date donnée",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/57ea932e51a7a246959fdc6558970a77/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/ddd5f058ef6656cddd1bcfb2a8dd8906",
+    "forks_url": "https://api.github.com/gists/ddd5f058ef6656cddd1bcfb2a8dd8906/forks",
+    "commits_url": "https://api.github.com/gists/ddd5f058ef6656cddd1bcfb2a8dd8906/commits",
+    "id": "ddd5f058ef6656cddd1bcfb2a8dd8906",
+    "node_id": "G_kwDOARh42NoAIGRkZDVmMDU4ZWY2NjU2Y2RkZDFiY2ZiMmE4ZGQ4OTA2",
+    "git_pull_url": "https://gist.github.com/ddd5f058ef6656cddd1bcfb2a8dd8906.git",
+    "git_push_url": "https://gist.github.com/ddd5f058ef6656cddd1bcfb2a8dd8906.git",
+    "html_url": "https://gist.github.com/bizouarn/ddd5f058ef6656cddd1bcfb2a8dd8906",
+    "files": {
+      "Disable_IE_ESC.ps1": {
+        "filename": "Disable_IE_ESC.ps1",
+        "type": "application/x-msdos-program",
+        "language": "PowerShell",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/ddd5f058ef6656cddd1bcfb2a8dd8906/raw/7fb8cff5f3d114fdd97941e6bd08bf31525cfd6f/Disable_IE_ESC.ps1",
+        "size": 502
+      }
+    },
+    "public": true,
+    "created_at": "2024-10-02T17:10:41Z",
+    "updated_at": "2024-10-02T17:10:41Z",
+    "description": "Script PowerShell qui désactive la configuration de sécurité améliorée d'Internet Explorer (IE ESC) pour les administrateurs et les utilisateurs. ",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/ddd5f058ef6656cddd1bcfb2a8dd8906/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/b99ed62eb488410832616821192281bc",
+    "forks_url": "https://api.github.com/gists/b99ed62eb488410832616821192281bc/forks",
+    "commits_url": "https://api.github.com/gists/b99ed62eb488410832616821192281bc/commits",
+    "id": "b99ed62eb488410832616821192281bc",
+    "node_id": "G_kwDOARh42NoAIGI5OWVkNjJlYjQ4ODQxMDgzMjYxNjgyMTE5MjI4MWJj",
+    "git_pull_url": "https://gist.github.com/b99ed62eb488410832616821192281bc.git",
+    "git_push_url": "https://gist.github.com/b99ed62eb488410832616821192281bc.git",
+    "html_url": "https://gist.github.com/bizouarn/b99ed62eb488410832616821192281bc",
+    "files": {
+      "AddWgetToGitBash.ps1": {
+        "filename": "AddWgetToGitBash.ps1",
+        "type": "application/x-msdos-program",
+        "language": "PowerShell",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/b99ed62eb488410832616821192281bc/raw/c4cc54f0d8d40b616957ff268f7a32dc9f95b351/AddWgetToGitBash.ps1",
+        "size": 1073
+      }
+    },
+    "public": true,
+    "created_at": "2024-09-16T13:28:57Z",
+    "updated_at": "2026-11-03T15:52:57Z",
+    "description": "Ajouter wget à git-bash",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/b99ed62eb488410832616821192281bc/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/6068be051f7f0e73d1beae908684e61c",
+    "forks_url": "https://api.github.com/gists/6068be051f7f0e73d1beae908684e61c/forks",
+    "commits_url": "https://api.github.com/gists/6068be051f7f0e73d1beae908684e61c/commits",
+    "id": "6068be051f7f0e73d1beae908684e61c",
+    "node_id": "G_kwDOARh42NoAIDYwNjhiZTA1MWY3ZjBlNzNkMWJlYWU5MDg2ODRlNjFj",
+    "git_pull_url": "https://gist.github.com/6068be051f7f0e73d1beae908684e61c.git",
+    "git_push_url": "https://gist.github.com/6068be051f7f0e73d1beae908684e61c.git",
+    "html_url": "https://gist.github.com/bizouarn/6068be051f7f0e73d1beae908684e61c",
+    "files": {
+      "DebugPort.md": {
+        "filename": "DebugPort.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/6068be051f7f0e73d1beae908684e61c/raw/871fb4f478cf181da0c0138a02d37339b829f78f/DebugPort.md",
+        "size": 3323
+      }
+    },
+    "public": true,
+    "created_at": "2024-09-04T20:42:52Z",
+    "updated_at": "2024-09-12T08:10:48Z",
+    "description": "Guide Pratique pour Déboguer un Port chez un Client avec PowerShell",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/6068be051f7f0e73d1beae908684e61c/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/2497236e754a9e325e5e7a5968bd0b40",
+    "forks_url": "https://api.github.com/gists/2497236e754a9e325e5e7a5968bd0b40/forks",
+    "commits_url": "https://api.github.com/gists/2497236e754a9e325e5e7a5968bd0b40/commits",
+    "id": "2497236e754a9e325e5e7a5968bd0b40",
+    "node_id": "G_kwDOARh42NoAIDI0OTcyMzZlNzU0YTllMzI1ZTVlN2E1OTY4YmQwYjQw",
+    "git_pull_url": "https://gist.github.com/2497236e754a9e325e5e7a5968bd0b40.git",
+    "git_push_url": "https://gist.github.com/2497236e754a9e325e5e7a5968bd0b40.git",
+    "html_url": "https://gist.github.com/bizouarn/2497236e754a9e325e5e7a5968bd0b40",
+    "files": {
+      "MySqlDumpSegmenter.cs": {
+        "filename": "MySqlDumpSegmenter.cs",
+        "type": "text/plain",
+        "language": "C#",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/2497236e754a9e325e5e7a5968bd0b40/raw/6085992933c2c6ee4362d925b5f624ee53dc6132/MySqlDumpSegmenter.cs",
+        "size": 1012
+      }
+    },
+    "public": true,
+    "created_at": "2024-09-02T12:15:48Z",
+    "updated_at": "2024-09-03T12:00:39Z",
+    "description": "Divise un dump MySQL en fichiers distincts basés sur les commentaires pour en simplifier l'analyse.",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/2497236e754a9e325e5e7a5968bd0b40/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/da31c00605dbe58548f382fc6c0417a2",
+    "forks_url": "https://api.github.com/gists/da31c00605dbe58548f382fc6c0417a2/forks",
+    "commits_url": "https://api.github.com/gists/da31c00605dbe58548f382fc6c0417a2/commits",
+    "id": "da31c00605dbe58548f382fc6c0417a2",
+    "node_id": "G_kwDOARh42NoAIGRhMzFjMDA2MDVkYmU1ODU0OGYzODJmYzZjMDQxN2Ey",
+    "git_pull_url": "https://gist.github.com/da31c00605dbe58548f382fc6c0417a2.git",
+    "git_push_url": "https://gist.github.com/da31c00605dbe58548f382fc6c0417a2.git",
+    "html_url": "https://gist.github.com/bizouarn/da31c00605dbe58548f382fc6c0417a2",
+    "files": {
+      "Save-All-GPO.ps1": {
+        "filename": "Save-All-GPO.ps1",
+        "type": "application/x-msdos-program",
+        "language": "PowerShell",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/da31c00605dbe58548f382fc6c0417a2/raw/4a7190eacb13160045b1e55770ffeda26d69c4d3/Save-All-GPO.ps1",
+        "size": 406
+      }
+    },
+    "public": true,
+    "created_at": "2024-06-20T10:20:54Z",
+    "updated_at": "2025-09-16T19:25:48Z",
+    "description": "Script PowerShell qui sauvegarde toutes les GPO et les liste dans un CSV.",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/da31c00605dbe58548f382fc6c0417a2/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/2e237510bb50fb5dc9c8e433548cb6ed",
+    "forks_url": "https://api.github.com/gists/2e237510bb50fb5dc9c8e433548cb6ed/forks",
+    "commits_url": "https://api.github.com/gists/2e237510bb50fb5dc9c8e433548cb6ed/commits",
+    "id": "2e237510bb50fb5dc9c8e433548cb6ed",
+    "node_id": "G_kwDOARh42NoAIDJlMjM3NTEwYmI1MGZiNWRjOWM4ZTQzMzU0OGNiNmVk",
+    "git_pull_url": "https://gist.github.com/2e237510bb50fb5dc9c8e433548cb6ed.git",
+    "git_push_url": "https://gist.github.com/2e237510bb50fb5dc9c8e433548cb6ed.git",
+    "html_url": "https://gist.github.com/bizouarn/2e237510bb50fb5dc9c8e433548cb6ed",
+    "files": {
+      "UnquotedServicePath.md": {
+        "filename": "UnquotedServicePath.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/2e237510bb50fb5dc9c8e433548cb6ed/raw/6c030214638093924c39050fa91668466eea7239/UnquotedServicePath.md",
+        "size": 4955
+      }
+    },
+    "public": true,
+    "created_at": "2024-02-21T11:14:41Z",
+    "updated_at": "2025-09-16T20:46:35Z",
+    "description": "La faille de sécurité \"Unquoted Service Path\" (Windows)",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/2e237510bb50fb5dc9c8e433548cb6ed/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/50d1c4aca79fb31024dea173dc64a99b",
+    "forks_url": "https://api.github.com/gists/50d1c4aca79fb31024dea173dc64a99b/forks",
+    "commits_url": "https://api.github.com/gists/50d1c4aca79fb31024dea173dc64a99b/commits",
+    "id": "50d1c4aca79fb31024dea173dc64a99b",
+    "node_id": "G_kwDOARh42NoAIDUwZDFjNGFjYTc5ZmIzMTAyNGRlYTE3M2RjNjRhOTli",
+    "git_pull_url": "https://gist.github.com/50d1c4aca79fb31024dea173dc64a99b.git",
+    "git_push_url": "https://gist.github.com/50d1c4aca79fb31024dea173dc64a99b.git",
+    "html_url": "https://gist.github.com/bizouarn/50d1c4aca79fb31024dea173dc64a99b",
+    "files": {
+      "OperateursLogiques.md": {
+        "filename": "OperateursLogiques.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/50d1c4aca79fb31024dea173dc64a99b/raw/3d6cef295c15df8ce604db447adcbf7c5b5205dc/OperateursLogiques.md",
+        "size": 3901
+      }
+    },
+    "public": true,
+    "created_at": "2023-12-13T16:49:31Z",
+    "updated_at": "2025-09-16T17:57:23Z",
+    "description": "Opérateurs Logiques en C#",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/50d1c4aca79fb31024dea173dc64a99b/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/78a9c3c4fd0ff4302c69f5331917ed61",
+    "forks_url": "https://api.github.com/gists/78a9c3c4fd0ff4302c69f5331917ed61/forks",
+    "commits_url": "https://api.github.com/gists/78a9c3c4fd0ff4302c69f5331917ed61/commits",
+    "id": "78a9c3c4fd0ff4302c69f5331917ed61",
+    "node_id": "G_kwDOARh42NoAIDc4YTljM2M0ZmQwZmY0MzAyYzY5ZjUzMzE5MTdlZDYx",
+    "git_pull_url": "https://gist.github.com/78a9c3c4fd0ff4302c69f5331917ed61.git",
+    "git_push_url": "https://gist.github.com/78a9c3c4fd0ff4302c69f5331917ed61.git",
+    "html_url": "https://gist.github.com/bizouarn/78a9c3c4fd0ff4302c69f5331917ed61",
+    "files": {
+      "SOLID.md": {
+        "filename": "SOLID.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/78a9c3c4fd0ff4302c69f5331917ed61/raw/24044d9c749e093cdc28d8e945dff7ba384a0a69/SOLID.md",
+        "size": 9550
+      }
+    },
+    "public": true,
+    "created_at": "2023-09-29T16:34:33Z",
+    "updated_at": "2025-07-03T21:48:56Z",
+    "description": "Les Principes de la méthode SOLID",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/78a9c3c4fd0ff4302c69f5331917ed61/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/601e38dc839b4ddfd308fda7f7dac198",
+    "forks_url": "https://api.github.com/gists/601e38dc839b4ddfd308fda7f7dac198/forks",
+    "commits_url": "https://api.github.com/gists/601e38dc839b4ddfd308fda7f7dac198/commits",
+    "id": "601e38dc839b4ddfd308fda7f7dac198",
+    "node_id": "G_kwDOARh42NoAIDYwMWUzOGRjODM5YjRkZGZkMzA4ZmRhN2Y3ZGFjMTk4",
+    "git_pull_url": "https://gist.github.com/601e38dc839b4ddfd308fda7f7dac198.git",
+    "git_push_url": "https://gist.github.com/601e38dc839b4ddfd308fda7f7dac198.git",
+    "html_url": "https://gist.github.com/bizouarn/601e38dc839b4ddfd308fda7f7dac198",
+    "files": {
+      "funGPT.md": {
+        "filename": "funGPT.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/601e38dc839b4ddfd308fda7f7dac198/raw/59a6922340fd0a4c5694fd910ad1220e402bbc4f/funGPT.md",
+        "size": 6255
+      }
+    },
+    "public": true,
+    "created_at": "2023-09-12T09:48:24Z",
+    "updated_at": "2023-09-22T19:53:54Z",
+    "description": "Comment Rendre un Chat GPT Plus Amusant en Utilisant le Langage Pirate 🏴‍☠️",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/601e38dc839b4ddfd308fda7f7dac198/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/dd1cd753cf550a028f99531f7a517288",
+    "forks_url": "https://api.github.com/gists/dd1cd753cf550a028f99531f7a517288/forks",
+    "commits_url": "https://api.github.com/gists/dd1cd753cf550a028f99531f7a517288/commits",
+    "id": "dd1cd753cf550a028f99531f7a517288",
+    "node_id": "G_kwDOARh42NoAIGRkMWNkNzUzY2Y1NTBhMDI4Zjk5NTMxZjdhNTE3Mjg4",
+    "git_pull_url": "https://gist.github.com/dd1cd753cf550a028f99531f7a517288.git",
+    "git_push_url": "https://gist.github.com/dd1cd753cf550a028f99531f7a517288.git",
+    "html_url": "https://gist.github.com/bizouarn/dd1cd753cf550a028f99531f7a517288",
+    "files": {
+      "RoutageWeb.md": {
+        "filename": "RoutageWeb.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/dd1cd753cf550a028f99531f7a517288/raw/7187caabc9f7616d640eaf715e858a3c9d8e36ff/RoutageWeb.md",
+        "size": 6167
+      }
+    },
+    "public": true,
+    "created_at": "2023-06-15T22:44:10Z",
+    "updated_at": "2023-06-15T22:47:09Z",
+    "description": "Le **routing** (ou routage) est un concept fondamental dans le développement des applications web.",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/dd1cd753cf550a028f99531f7a517288/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/cc2acb3faa2b74faf8836c7728557ede",
+    "forks_url": "https://api.github.com/gists/cc2acb3faa2b74faf8836c7728557ede/forks",
+    "commits_url": "https://api.github.com/gists/cc2acb3faa2b74faf8836c7728557ede/commits",
+    "id": "cc2acb3faa2b74faf8836c7728557ede",
+    "node_id": "G_kwDOARh42NoAIGNjMmFjYjNmYWEyYjc0ZmFmODgzNmM3NzI4NTU3ZWRl",
+    "git_pull_url": "https://gist.github.com/cc2acb3faa2b74faf8836c7728557ede.git",
+    "git_push_url": "https://gist.github.com/cc2acb3faa2b74faf8836c7728557ede.git",
+    "html_url": "https://gist.github.com/bizouarn/cc2acb3faa2b74faf8836c7728557ede",
+    "files": {
+      "SqlBackDoor.php": {
+        "filename": "SqlBackDoor.php",
+        "type": "application/x-httpd-php",
+        "language": "PHP",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/cc2acb3faa2b74faf8836c7728557ede/raw/077dbaece2516889698e192c88c25549537bf56d/SqlBackDoor.php",
+        "size": 1823
+      }
+    },
+    "public": true,
+    "created_at": "2023-03-29T18:40:19Z",
+    "updated_at": "2023-03-29T19:04:14Z",
+    "description": "Backdoor simple en PHP (Utiliser pour exfiltrer des données d'une base de données non accessible depuis l'internet)",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/cc2acb3faa2b74faf8836c7728557ede/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/e29179909994762b243a09fa51f86002",
+    "forks_url": "https://api.github.com/gists/e29179909994762b243a09fa51f86002/forks",
+    "commits_url": "https://api.github.com/gists/e29179909994762b243a09fa51f86002/commits",
+    "id": "e29179909994762b243a09fa51f86002",
+    "node_id": "G_kwDOARh42NoAIGUyOTE3OTkwOTk5NDc2MmIyNDNhMDlmYTUxZjg2MDAy",
+    "git_pull_url": "https://gist.github.com/e29179909994762b243a09fa51f86002.git",
+    "git_push_url": "https://gist.github.com/e29179909994762b243a09fa51f86002.git",
+    "html_url": "https://gist.github.com/bizouarn/e29179909994762b243a09fa51f86002",
+    "files": {
+      "MarkupExtension.cs": {
+        "filename": "MarkupExtension.cs",
+        "type": "text/plain",
+        "language": "C#",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/e29179909994762b243a09fa51f86002/raw/7e6472d809d076083bdd9bc34146dc3485251a54/MarkupExtension.cs",
+        "size": 3796
+      }
+    },
+    "public": true,
+    "created_at": "2023-02-28T11:38:54Z",
+    "updated_at": "2026-06-11T14:40:16Z",
+    "description": "Exemple de MarkupExtension WPF avec rafraîchissement",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/e29179909994762b243a09fa51f86002/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/1c7e73a7d649344c9145fb3ff93e7ad9",
+    "forks_url": "https://api.github.com/gists/1c7e73a7d649344c9145fb3ff93e7ad9/forks",
+    "commits_url": "https://api.github.com/gists/1c7e73a7d649344c9145fb3ff93e7ad9/commits",
+    "id": "1c7e73a7d649344c9145fb3ff93e7ad9",
+    "node_id": "G_kwDOARh42NoAIDFjN2U3M2E3ZDY0OTM0NGM5MTQ1ZmIzZmY5M2U3YWQ5",
+    "git_pull_url": "https://gist.github.com/1c7e73a7d649344c9145fb3ff93e7ad9.git",
+    "git_push_url": "https://gist.github.com/1c7e73a7d649344c9145fb3ff93e7ad9.git",
+    "html_url": "https://gist.github.com/bizouarn/1c7e73a7d649344c9145fb3ff93e7ad9",
+    "files": {
+      "PowerShellExecutionPolicy.ps1": {
+        "filename": "PowerShellExecutionPolicy.ps1",
+        "type": "application/x-msdos-program",
+        "language": "PowerShell",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/1c7e73a7d649344c9145fb3ff93e7ad9/raw/0ad7b93ee80f14044c8f44806b4e6d52be3765f2/PowerShellExecutionPolicy.ps1",
+        "size": 347
+      }
+    },
+    "public": true,
+    "created_at": "2023-02-23T11:43:43Z",
+    "updated_at": "2023-02-23T14:18:00Z",
+    "description": "Gestion des droits d'exécution des scripts powershell (temporairement)",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/1c7e73a7d649344c9145fb3ff93e7ad9/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/a4b860fa99d8cc6b84d0c6b202e21287",
+    "forks_url": "https://api.github.com/gists/a4b860fa99d8cc6b84d0c6b202e21287/forks",
+    "commits_url": "https://api.github.com/gists/a4b860fa99d8cc6b84d0c6b202e21287/commits",
+    "id": "a4b860fa99d8cc6b84d0c6b202e21287",
+    "node_id": "G_kwDOARh42NoAIGE0Yjg2MGZhOTlkOGNjNmI4NGQwYzZiMjAyZTIxMjg3",
+    "git_pull_url": "https://gist.github.com/a4b860fa99d8cc6b84d0c6b202e21287.git",
+    "git_push_url": "https://gist.github.com/a4b860fa99d8cc6b84d0c6b202e21287.git",
+    "html_url": "https://gist.github.com/bizouarn/a4b860fa99d8cc6b84d0c6b202e21287",
+    "files": {
+      "GetCurrentServicePath.cs": {
+        "filename": "GetCurrentServicePath.cs",
+        "type": "text/plain",
+        "language": "C#",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/a4b860fa99d8cc6b84d0c6b202e21287/raw/715a4fbe6e7980a4f335e1cc2378f9f703190894/GetCurrentServicePath.cs",
+        "size": 82
+      }
+    },
+    "public": true,
+    "created_at": "2022-10-07T12:23:08Z",
+    "updated_at": "2024-11-13T21:57:07Z",
+    "description": "Récupère le chemin du service courant.",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/a4b860fa99d8cc6b84d0c6b202e21287/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/c68dab6c47558f92dc8b3ddf4253c1a5",
+    "forks_url": "https://api.github.com/gists/c68dab6c47558f92dc8b3ddf4253c1a5/forks",
+    "commits_url": "https://api.github.com/gists/c68dab6c47558f92dc8b3ddf4253c1a5/commits",
+    "id": "c68dab6c47558f92dc8b3ddf4253c1a5",
+    "node_id": "G_kwDOARh42NoAIGM2OGRhYjZjNDc1NThmOTJkYzhiM2RkZjQyNTNjMWE1",
+    "git_pull_url": "https://gist.github.com/c68dab6c47558f92dc8b3ddf4253c1a5.git",
+    "git_push_url": "https://gist.github.com/c68dab6c47558f92dc8b3ddf4253c1a5.git",
+    "html_url": "https://gist.github.com/bizouarn/c68dab6c47558f92dc8b3ddf4253c1a5",
+    "files": {
+      "GenerateStreamFromString.cs": {
+        "filename": "GenerateStreamFromString.cs",
+        "type": "text/plain",
+        "language": "C#",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/c68dab6c47558f92dc8b3ddf4253c1a5/raw/0986112702b6ca8e557cc4c18aad5ba703e9d6af/GenerateStreamFromString.cs",
+        "size": 448
+      }
+    },
+    "public": true,
+    "created_at": "2022-09-14T11:50:26Z",
+    "updated_at": "2023-11-21T20:16:02Z",
+    "description": "Method C# for convert String to Stream",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/c68dab6c47558f92dc8b3ddf4253c1a5/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/1620c384d41e4e3e7f7ae7c7ece1d9af",
+    "forks_url": "https://api.github.com/gists/1620c384d41e4e3e7f7ae7c7ece1d9af/forks",
+    "commits_url": "https://api.github.com/gists/1620c384d41e4e3e7f7ae7c7ece1d9af/commits",
+    "id": "1620c384d41e4e3e7f7ae7c7ece1d9af",
+    "node_id": "G_kwDOARh42NoAIDE2MjBjMzg0ZDQxZTRlM2U3ZjdhZTdjN2VjZTFkOWFm",
+    "git_pull_url": "https://gist.github.com/1620c384d41e4e3e7f7ae7c7ece1d9af.git",
+    "git_push_url": "https://gist.github.com/1620c384d41e4e3e7f7ae7c7ece1d9af.git",
+    "html_url": "https://gist.github.com/bizouarn/1620c384d41e4e3e7f7ae7c7ece1d9af",
+    "files": {
+      "dox.hxml": {
+        "filename": "dox.hxml",
+        "type": "text/plain",
+        "language": "HXML",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/1620c384d41e4e3e7f7ae7c7ece1d9af/raw/2176628f75f9b33c833efdc169d2408ca01b7b5a/dox.hxml",
+        "size": 290
+      }
+    },
+    "public": true,
+    "created_at": "2022-09-09T10:28:57Z",
+    "updated_at": "2022-09-09T15:03:34Z",
+    "description": "Note for using haxe dox lib",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/1620c384d41e4e3e7f7ae7c7ece1d9af/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/365a14dd63e4a32eff6a95a010b39b8b",
+    "forks_url": "https://api.github.com/gists/365a14dd63e4a32eff6a95a010b39b8b/forks",
+    "commits_url": "https://api.github.com/gists/365a14dd63e4a32eff6a95a010b39b8b/commits",
+    "id": "365a14dd63e4a32eff6a95a010b39b8b",
+    "node_id": "G_kwDOARh42NoAIDM2NWExNGRkNjNlNGEzMmVmZjZhOTVhMDEwYjM5Yjhi",
+    "git_pull_url": "https://gist.github.com/365a14dd63e4a32eff6a95a010b39b8b.git",
+    "git_push_url": "https://gist.github.com/365a14dd63e4a32eff6a95a010b39b8b.git",
+    "html_url": "https://gist.github.com/bizouarn/365a14dd63e4a32eff6a95a010b39b8b",
+    "files": {
+      "GIT.md": {
+        "filename": "GIT.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/365a14dd63e4a32eff6a95a010b39b8b/raw/b072b6437f4c2c6f192489094e58bb6f991d43f9/GIT.md",
+        "size": 3694
+      }
+    },
+    "public": true,
+    "created_at": "2022-08-25T12:43:09Z",
+    "updated_at": "2025-09-17T09:41:48Z",
+    "description": "Utiliser les commandes de base de git",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/365a14dd63e4a32eff6a95a010b39b8b/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/b6d4ad561ea959c77f46091bc9941d3a",
+    "forks_url": "https://api.github.com/gists/b6d4ad561ea959c77f46091bc9941d3a/forks",
+    "commits_url": "https://api.github.com/gists/b6d4ad561ea959c77f46091bc9941d3a/commits",
+    "id": "b6d4ad561ea959c77f46091bc9941d3a",
+    "node_id": "G_kwDOARh42NoAIGI2ZDRhZDU2MWVhOTU5Yzc3ZjQ2MDkxYmM5OTQxZDNh",
+    "git_pull_url": "https://gist.github.com/b6d4ad561ea959c77f46091bc9941d3a.git",
+    "git_push_url": "https://gist.github.com/b6d4ad561ea959c77f46091bc9941d3a.git",
+    "html_url": "https://gist.github.com/bizouarn/b6d4ad561ea959c77f46091bc9941d3a",
+    "files": {
+      "AstucesBindingWPF.md": {
+        "filename": "AstucesBindingWPF.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/b6d4ad561ea959c77f46091bc9941d3a/raw/23859a26581095e61a58abfbdaf60e4dea8bcbde/AstucesBindingWPF.md",
+        "size": 4674
+      }
+    },
+    "public": true,
+    "created_at": "2022-06-03T09:32:29Z",
+    "updated_at": "2026-06-11T14:41:04Z",
+    "description": "Notes pour le binding WPF",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/b6d4ad561ea959c77f46091bc9941d3a/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/45ef7314f47b762e6f9754ce036fa50a",
+    "forks_url": "https://api.github.com/gists/45ef7314f47b762e6f9754ce036fa50a/forks",
+    "commits_url": "https://api.github.com/gists/45ef7314f47b762e6f9754ce036fa50a/commits",
+    "id": "45ef7314f47b762e6f9754ce036fa50a",
+    "node_id": "G_kwDOARh42NoAIDQ1ZWY3MzE0ZjQ3Yjc2MmU2Zjk3NTRjZTAzNmZhNTBh",
+    "git_pull_url": "https://gist.github.com/45ef7314f47b762e6f9754ce036fa50a.git",
+    "git_push_url": "https://gist.github.com/45ef7314f47b762e6f9754ce036fa50a.git",
+    "html_url": "https://gist.github.com/bizouarn/45ef7314f47b762e6f9754ce036fa50a",
+    "files": {
+      "PACK-Android.sh": {
+        "filename": "PACK-Android.sh",
+        "type": "application/x-sh",
+        "language": "Shell",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/45ef7314f47b762e6f9754ce036fa50a/raw/c0e128dffd69f3f467da503f7a0ab77a2d399882/PACK-Android.sh",
+        "size": 283
+      }
+    },
+    "public": true,
+    "created_at": "2022-05-20T09:08:56Z",
+    "updated_at": "2023-02-28T11:34:59Z",
+    "description": "Debug cordova app in chrome",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/45ef7314f47b762e6f9754ce036fa50a/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/52fd2d83df70dc86773acea476176127",
+    "forks_url": "https://api.github.com/gists/52fd2d83df70dc86773acea476176127/forks",
+    "commits_url": "https://api.github.com/gists/52fd2d83df70dc86773acea476176127/commits",
+    "id": "52fd2d83df70dc86773acea476176127",
+    "node_id": "G_kwDOARh42NoAIDUyZmQyZDgzZGY3MGRjODY3NzNhY2VhNDc2MTc2MTI3",
+    "git_pull_url": "https://gist.github.com/52fd2d83df70dc86773acea476176127.git",
+    "git_push_url": "https://gist.github.com/52fd2d83df70dc86773acea476176127.git",
+    "html_url": "https://gist.github.com/bizouarn/52fd2d83df70dc86773acea476176127",
+    "files": {
+      "Nuget.md": {
+        "filename": "Nuget.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/52fd2d83df70dc86773acea476176127/raw/db4a1c00a1f59bec8133a4321ab1ff2b91363507/Nuget.md",
+        "size": 1132
+      }
+    },
+    "public": true,
+    "created_at": "2022-03-22T14:29:01Z",
+    "updated_at": "2022-08-24T20:29:41Z",
+    "description": "Création d'un package Nuget et l'envoyer sur un serveur nuget",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/52fd2d83df70dc86773acea476176127/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/48e6d3661cf2cdb90732fbac91ff7f56",
+    "forks_url": "https://api.github.com/gists/48e6d3661cf2cdb90732fbac91ff7f56/forks",
+    "commits_url": "https://api.github.com/gists/48e6d3661cf2cdb90732fbac91ff7f56/commits",
+    "id": "48e6d3661cf2cdb90732fbac91ff7f56",
+    "node_id": "G_kwDOARh42NoAIDQ4ZTZkMzY2MWNmMmNkYjkwNzMyZmJhYzkxZmY3ZjU2",
+    "git_pull_url": "https://gist.github.com/48e6d3661cf2cdb90732fbac91ff7f56.git",
+    "git_push_url": "https://gist.github.com/48e6d3661cf2cdb90732fbac91ff7f56.git",
+    "html_url": "https://gist.github.com/bizouarn/48e6d3661cf2cdb90732fbac91ff7f56",
+    "files": {
+      "GitCommitMessage.md": {
+        "filename": "GitCommitMessage.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/48e6d3661cf2cdb90732fbac91ff7f56/raw/2e1c9f49a742b2098c6a7ab537c0238c21bd25b8/GitCommitMessage.md",
+        "size": 5819
+      }
+    },
+    "public": true,
+    "created_at": "2022-03-22T14:06:22Z",
+    "updated_at": "2026-05-22T17:01:46Z",
+    "description": "Comment nommer ses branches et ses messages de commit ?",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/48e6d3661cf2cdb90732fbac91ff7f56/comments",
+    "truncated": false
+  },
+  {
+    "url": "https://api.github.com/gists/e2c850f95fda6832567b7172da3d24bb",
+    "forks_url": "https://api.github.com/gists/e2c850f95fda6832567b7172da3d24bb/forks",
+    "commits_url": "https://api.github.com/gists/e2c850f95fda6832567b7172da3d24bb/commits",
+    "id": "e2c850f95fda6832567b7172da3d24bb",
+    "node_id": "G_kwDOARh42NoAIGUyYzg1MGY5NWZkYTY4MzI1NjdiNzE3MmRhM2QyNGJi",
+    "git_pull_url": "https://gist.github.com/e2c850f95fda6832567b7172da3d24bb.git",
+    "git_push_url": "https://gist.github.com/e2c850f95fda6832567b7172da3d24bb.git",
+    "html_url": "https://gist.github.com/bizouarn/e2c850f95fda6832567b7172da3d24bb",
+    "files": {
+      "GitCommitEmoji.md": {
+        "filename": "GitCommitEmoji.md",
+        "type": "text/markdown",
+        "language": "Markdown",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/e2c850f95fda6832567b7172da3d24bb/raw/1c2997deb84afd165d4e15f4da0ea983f23795e2/GitCommitEmoji.md",
+        "size": 4568
+      }
+    },
+    "public": true,
+    "created_at": "2022-03-22T13:48:38Z",
+    "updated_at": "2023-09-29T18:00:28Z",
+    "description": "Liste d'emoji à utiliser dans les messages de validation. 😉",
+    "comments": 0,
+    "user": null,
+    "comments_enabled": true,
+    "comments_url": "https://api.github.com/gists/e2c850f95fda6832567b7172da3d24bb/comments",
+    "truncated": false
+  }
+]

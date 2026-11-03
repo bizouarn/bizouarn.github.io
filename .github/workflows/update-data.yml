@@ -1,0 +1,63 @@
+name: Update GitHub Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # tous les jours à minuit
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v6
+
+      - name: Set up environment
+        run: mkdir -p _data
+
+      - name: Fetch GitHub repos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -H "Authorization: token $GITHUB_TOKEN" \
+            'https://api.github.com/users/bizouarn/repos?per_page=100' \
+            -o '_data/_repo.json'
+          jq 'map(del(.size, .updated_at, .pushed_at, .permissions, .owner))' _data/_repo.json > _data/repo.json
+          rm _data/_repo.json
+
+      - name: Fetch GitHub gists
+        env:
+          GITHUB_TOKEN: ${{ secrets.API_TOKEN }}
+        run: |
+          curl -H "Authorization: token $GITHUB_TOKEN" \
+               'https://api.github.com/users/bizouarn/gists?per_page=100&page=1' \
+               -o '_data/gist1.json' && \
+          curl -H "Authorization: token $GITHUB_TOKEN" \
+               'https://api.github.com/users/bizouarn/gists?per_page=100&page=2' \
+               -o '_data/gist2.json' && \
+          jq -s 'add | [.[] | select(.public == true) | del(.owner)]' _data/gist1.json _data/gist2.json > _data/gist.json && \
+          rm _data/gist1.json _data/gist2.json
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add _data
+
+          # Vérifie s'il y a des modifications en attente dans _data
+          if git diff --staged --quiet; then
+            echo "Aucune modification à commiter."
+            exit 0
+          fi
+
+          # Récupère le message du dernier commit
+          LAST_MSG=$(git log -1 --pretty=%B)
+
+          if [ "$LAST_MSG" = "🗃 Update data" ]; then
+            echo "Amendement du dernier commit..."
+            git commit --amend --no-edit
+            git push --force-with-lease
+          else
+            echo "Création d'un nouveau commit..."
+            git commit -m "🗃 Update data"
+            git push
+          fi

@@ -1,0 +1,15 @@
+---
+layout: default
+permalink: /pages/assets/
+hide: true
+---
+<div style="display: node;">
+    {% for image in site.static_files %}
+        {% if image.path contains '/assets/' %}
+            <a href="{{ image.path }}" alt="">{{ image.path }}</a><br/>
+        {% endif %}
+        {% if image.path contains '/CDN/' %}
+            <a href="{{ image.path }}" alt="">{{ image.path }}</a><br/>
+        {% endif %}
+    {% endfor %}
+</div>

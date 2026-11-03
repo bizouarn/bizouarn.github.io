@@ -1,0 +1,114 @@
+/*------------------------------------*
+  #REPOS
+\*------------------------------------*/
+
+.repo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: $spacing-unit;
+  margin-bottom: $spacing-unit;
+}
+
+.repo-box {
+  border: 1px solid var(--grey-color-light);
+  border-radius: 8px;
+  padding: $spacing-unit / 1.5;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: all 0.2s ease-in-out;
+
+  &:hover {
+    border-color: var(--brand-color);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+  }
+
+  .icon {
+    display: flex;
+    align-items: center;
+    margin-bottom: $spacing-unit / 2;
+
+    svg {
+      fill: var(--text-color);
+      margin-right: 8px;
+      min-width: 16px; // Prevent icon from shrinking
+      vertical-align: middle;
+    }
+
+    a {
+      font-weight: bold;
+      text-decoration: none;
+      color: var(--brand-color);
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  & > div:nth-child(2) { // Description
+    flex-grow: 1;
+    margin-bottom: $spacing-unit / 2;
+    font-size: $small-font-size;
+    color: var(--grey-color);
+    max-height: 70px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* number of lines to show */
+    -webkit-box-orient: vertical;
+  }
+
+  & > div:last-child { // Footer with language, stars, forks, etc.
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    font-size: $small-font-size;
+    color: var(--grey-color);
+    margin-top: $spacing-unit / 2;
+
+    & > span { // Language
+      display: flex;
+      align-items: center;
+      margin-right: $spacing-unit / 2;
+
+      span:first-child { // Language color dot
+        display: inline-block;
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        margin-right: 4px;
+        border: 1px solid var(--grey-color-light);
+      }
+    }
+
+    a.icon { // Stars, forks, homepage icons
+      display: flex;
+      align-items: center;
+      text-decoration: none;
+      color: var(--grey-color);
+      margin-right: $spacing-unit / 2;
+
+      svg {
+        fill: var(--grey-color);
+        margin-right: 4px;
+      }
+
+      &:hover {
+        color: var(--brand-color);
+        svg {
+          fill: var(--brand-color);
+        }
+      }
+    }
+
+    .licenses-link {
+        color: var(--grey-color);
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+            color: var(--brand-color);
+        }
+    }
+  }
+}

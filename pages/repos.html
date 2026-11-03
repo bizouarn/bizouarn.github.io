@@ -1,0 +1,13 @@
+---
+layout: default
+permalink: /pages/repos/
+title: Projets
+---
+<div class="home">
+	<h1>🗃️ Mes projets publics</h1>
+	{% include repos.html archive=false fork=false %}
+	<h2>🔱 Fork</h2>
+	{% include repos.html archive=false fork=true %}
+	<h2>🕸 Archive publique</h2>
+	{% include repos.html archive=true fork=false %}
+</div>
