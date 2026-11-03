@@ -685,13 +685,13 @@
         "filename": "AddWgetToGitBash.ps1",
         "type": "application/x-msdos-program",
         "language": "PowerShell",
-        "raw_url": "https://gist.githubusercontent.com/bizouarn/b99ed62eb488410832616821192281bc/raw/34f31e9c5403e7e8a33090e945b148927b435c43/AddWgetToGitBash.ps1",
+        "raw_url": "https://gist.githubusercontent.com/bizouarn/b99ed62eb488410832616821192281bc/raw/c4cc54f0d8d40b616957ff268f7a32dc9f95b351/AddWgetToGitBash.ps1",
         "size": 1073
       }
     },
     "public": true,
     "created_at": "2024-09-16T13:28:57Z",
-    "updated_at": "2024-09-16T13:33:48Z",
+    "updated_at": "2026-11-03T15:52:57Z",
     "description": "Ajouter wget à git-bash",
     "comments": 0,
     "user": null,
