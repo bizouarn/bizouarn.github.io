@@ -1,0 +1,45 @@
+# Catégories pré-générées par _plugins/GistCategorizer.rb
+# Une catégorie = un mot-clé affiché (label). `keywords` liste ses synonymes (".net" = "c#" = "dotnet"...).
+# Un gist reçoit la catégorie si un synonyme apparaît (sans accents ni casse) :
+#   - dans le nom de fichier / la description : poids x3
+#   - dans le contenu du gist : poids x1
+# `min_score` : score minimal pour être retenu (défaut 3 = au moins un match titre/description).
+- id: dotnet
+  label: ".net"
+  keywords: [".net", "dotnet", "c#", "csharp", "nuget", "async", "await", "linq", "ienumerable", "dapper", "tostring", "hresult"]
+- id: wpf
+  label: "wpf"
+  keywords: ["wpf", "xaml", "markupextension", "brush"]
+- id: mvvm
+  label: "mvvm"
+  keywords: ["mvvm"]
+- id: solid
+  label: "solid"
+  keywords: ["solid", "injection de dependances", "inversion de controle"]
+- id: architecture
+  label: "architecture"
+  keywords: ["architecture", "pattern", "routage", "routing", "collection typee"]
+- id: powershell
+  label: "powershell"
+  keywords: ["powershell", "gpo", "execution policy", "ie esc"]
+- id: windows
+  label: "windows"
+  keywords: ["windows", "credential manager", "service path", "ghostscript"]
+- id: git
+  label: "git"
+  keywords: ["git", "gitlab", "commit", "branche", "pipeline"]
+- id: sql
+  label: "sql"
+  keywords: ["sql", "mysql", "duckdb", "bulk", "dump", "overpass"]
+- id: securite
+  label: "sécurité"
+  keywords: ["securite", "faille", "backdoor", "chiffrement", "exfiltrer", "unquoted"]
+- id: web
+  label: "web"
+  keywords: ["web", "javascript", "php", "polyfill", "http", "cordova", "haxe"]
+- id: bash
+  label: "bash"
+  keywords: ["bash", "shell"]
+- id: ia
+  label: "ia"
+  keywords: ["gpt", "ia", "intelligence artificielle"]

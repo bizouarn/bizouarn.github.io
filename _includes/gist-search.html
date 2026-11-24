@@ -1,0 +1,48 @@
+<div class="gist-search">
+  <input type="search" id="gist-search" placeholder="Rechercher (titre, description, catégorie)…" aria-label="Rechercher" autocomplete="off">
+  <div class="gist-filters" role="group" aria-label="Catégories">
+    <button type="button" class="gist-tag active" data-cat="">Tout</button>
+    {% for c in site.data.gist_category_list %}
+    <button type="button" class="gist-tag" data-cat="{{ c.id }}">{{ c.label }}</button>
+    {% endfor %}
+  </div>
+  <p id="gist-empty" hidden>Aucun résultat.</p>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var input = document.getElementById('gist-search');
+  var items = Array.prototype.slice.call(document.querySelectorAll('.post-list .gist-item'));
+  var buttons = document.querySelectorAll('.gist-filters .gist-tag');
+  var empty = document.getElementById('gist-empty');
+  var cat = '';
+  function norm(s) { return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); }
+  function apply() {
+    var terms = norm(input.value).split(/\s+/).filter(Boolean);
+    var shown = 0;
+    items.forEach(function (li) {
+      var okCat = !cat || (' ' + li.dataset.categories + ' ').indexOf(' ' + cat + ' ') > -1;
+      var okText = terms.every(function (t) { return li.dataset.search.indexOf(t) > -1; });
+      li.hidden = !(okCat && okText);
+      if (!li.hidden) shown++;
+    });
+    empty.hidden = shown > 0;
+    var q = [];
+    if (cat) q.push('cat=' + encodeURIComponent(cat));
+    if (input.value) q.push('q=' + encodeURIComponent(input.value));
+    history.replaceState(null, '', q.length ? '?' + q.join('&') : location.pathname);
+  }
+  function setCat(c) {
+    cat = c;
+    buttons.forEach(function (b) { b.classList.toggle('active', b.dataset.cat === c); });
+    apply();
+  }
+  buttons.forEach(function (b) { b.addEventListener('click', function () { setCat(b.dataset.cat); }); });
+  document.querySelectorAll('.gist-item a.gist-tag').forEach(function (a) {
+    a.addEventListener('click', function (e) { e.preventDefault(); setCat(a.dataset.cat); window.scrollTo({ top: 0, behavior: 'smooth' }); });
+  });
+  input.addEventListener('input', apply);
+  var params = new URLSearchParams(location.search);
+  input.value = params.get('q') || '';
+  setCat(params.get('cat') || '');
+});
+</script>

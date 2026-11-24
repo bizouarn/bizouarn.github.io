@@ -2,6 +2,7 @@
 layout: default
 ---
 <div class="home">
+  {% include gist-search.html %}
   <ul class="post-list">
     {% include gists.html %}
     {% for post in site.posts %}

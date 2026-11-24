@@ -1,9 +1,10 @@
 {% for post in site.data.gist %}
-<li style="border-bottom: 1px solid lightgray;">
+<li class="gist-item" style="border-bottom: 1px solid lightgray;" data-categories="{{ post.category_ids }}" data-search="{{ post.search_text | escape }}">
 	<span class="post-meta">{{ post.created_at | date: "%b %-d, %Y" | replace: 'Jan', 'Janvier' | replace: 'Feb', 'Février' | replace: 'Mar', 'Mars' | replace: 'Apr', 'Avril' | replace: 'May', 'Mai' | replace: 'Jun', 'Juin' | replace: 'Jul', 'Juillet' | replace: 'Aug', 'Août' | replace: 'Sep', 'Septembre' | replace: 'Oct', 'Octobre' | replace: 'Nov', 'Novembre' | replace: 'Dec', 'Décembre' }}</span>
 	<h2>
 		<a class="post-link" href="{{post.id | datapage_url: '/gist'}}">{{post.files | first | first}}</a>
 	</h2>
 	<p style="margin: -15px 0px 5px 0px;">{{ post.description }}</p>
+	<p class="gist-tags">{% for c in post.categories %}<a href="?cat={{ c.id }}" class="gist-tag" data-cat="{{ c.id }}">{{ c.label }}</a>{% endfor %}</p>
 </li>
 {% endfor %}

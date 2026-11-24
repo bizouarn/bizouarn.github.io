@@ -16,3 +16,59 @@
 		background-image: url("/assets/images/dark_logo.png");
 	}
 }
+
+/* Recherche & catégories des gists (même style que .repo-box) */
+.gist-search {
+	margin-bottom: $spacing-unit / 1.5;
+
+	input[type="search"] {
+		width: 100%;
+		box-sizing: border-box;
+		padding: 8px 12px;
+		font: inherit;
+		color: $text-color;
+		background: $background-color;
+		border: 1px solid $grey-color-light;
+		border-radius: 8px;
+		transition: all 0.2s ease-in-out;
+
+		&:focus {
+			outline: none;
+			border-color: $brand-color;
+			box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+		}
+	}
+}
+
+.gist-filters { margin-top: 10px; }
+
+.gist-tag {
+	display: inline-block;
+	margin: 0 6px 6px 0;
+	padding: 4px 12px;
+	font: inherit;
+	font-size: $small-font-size;
+	color: $grey-color;
+	background: transparent;
+	border: 1px solid $grey-color-light;
+	border-radius: 8px;
+	cursor: pointer;
+	text-decoration: none;
+	transition: all 0.2s ease-in-out;
+
+	&:hover {
+		color: $brand-color;
+		border-color: $brand-color;
+		box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+		transform: translateY(-2px);
+	}
+
+	&.active {
+		color: $brand-color;
+		border-color: $brand-color;
+		font-weight: bold;
+	}
+}
+
+.gist-tags { margin: 0 0 8px 0; }
+.gist-item[hidden] { display: none; }
