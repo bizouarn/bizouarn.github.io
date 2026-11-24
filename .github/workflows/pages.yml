@@ -29,6 +29,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+      - name: Restore gist cache
+        uses: actions/cache@v4
+        with:
+          path: .jekyll-cache/gists
+          # Clé unique par run pour toujours sauvegarder le cache mis à jour,
+          # restore-keys reprend le plus récent.
+          key: gists-${{ github.run_id }}
+          restore-keys: gists-
       - name: Setup Pages
         uses: actions/configure-pages@v6
       - name: Build with Jekyll

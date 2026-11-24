@@ -1,7 +1,13 @@
 require 'net/http'
 require 'uri'
+require 'digest'
+require 'fileutils'
 
 module GistFetcher
+  # Les raw_url des gists contiennent le hash de révision : leur contenu est
+  # immuable, on peut donc le mettre en cache sur disque indexé par URL.
+  CACHE_SUBDIR = File.join('.jekyll-cache', 'gists')
+
   # Hook Jekyll qui s'exécute après la lecture du site
   Jekyll::Hooks.register :site, :post_read do |site|
     process_gists(site) if site.data['gist']
@@ -11,11 +17,18 @@ module GistFetcher
 
   # Traite tous les gists du site
   def self.process_gists(site)
+    @cache_dir = File.join(site.source, CACHE_SUBDIR)
+    FileUtils.mkdir_p(@cache_dir)
+    @hits = 0
+    @downloads = 0
+
     site.data['gist'].each do |post|
       next unless post['files'].is_a?(Hash)
-      
+
       process_single_gist(post)
     end
+
+    Jekyll.logger.info "GistFetcher:", "#{@hits} gist(s) depuis le cache, #{@downloads} téléchargé(s)"
   end
 
   # Traite un gist individuel
@@ -55,6 +68,13 @@ module GistFetcher
 
   # Récupère le contenu brut depuis l'URL
   def self.fetch_raw_content(raw_url)
+    cache_file = File.join(@cache_dir, "#{Digest::SHA256.hexdigest(raw_url)}.txt")
+
+    if File.exist?(cache_file)
+      @hits += 1
+      return File.read(cache_file, encoding: 'UTF-8')
+    end
+
     uri = URI.parse(raw_url)
     response = Net::HTTP.get_response(uri)
 
@@ -64,7 +84,15 @@ module GistFetcher
     end
 
     # Nettoyage de l'encodage UTF-8
-    clean_encoding(response.body)
+    content = clean_encoding(response.body)
+
+    # Écriture atomique pour éviter un cache corrompu en cas d'interruption
+    tmp_file = "#{cache_file}.tmp"
+    File.write(tmp_file, content, encoding: 'UTF-8')
+    File.rename(tmp_file, cache_file)
+    @downloads += 1
+
+    content
   end
 
   # Nettoie l'encodage du contenu
