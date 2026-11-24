@@ -4,7 +4,14 @@ hide: true
 ---
 <div class="home">
 	<div id="md">
-		{{page.raw_content | markdownify}}
+		{%- capture tags_html -%}<p class="gist-tags">{% assign ids = page.category_ids | split: " " %}{% for c in site.data.gist_category_list %}{% if ids contains c.id %}<a href="/?cat={{ c.id }}" class="gist-tag">{{ c.label }}</a>{% endif %}{% endfor %}</p>{%- endcapture -%}
+		{%- assign md_html = page.raw_content | markdownify -%}
+		{%- if md_html contains "</h1>" -%}
+		{%- assign repl = "</h1>" | append: tags_html -%}
+		{{ md_html | replace_first: "</h1>", repl }}
+		{%- else -%}
+		{{ tags_html }}{{ md_html }}
+		{%- endif -%}
 	</div>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/styles/base16/dracula.min.css"/>
