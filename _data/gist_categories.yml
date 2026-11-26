@@ -1,45 +1,38 @@
 # Catégories pré-générées par _plugins/GistCategorizer.rb
-# Une catégorie = un mot-clé affiché (label). `keywords` liste ses synonymes (".net" = "c#" = "dotnet"...).
-# Un gist reçoit la catégorie si un synonyme apparaît (sans accents ni casse) :
+# Une catégorie = un thème traité par la note (et non la techno utilisée).
+# `keywords` liste les expressions qui caractérisent ce thème.
+# Un gist reçoit la catégorie si un mot-clé apparaît (sans accents ni casse) :
 #   - dans le nom de fichier / la description : poids x3
 #   - dans le contenu du gist : poids x1
 # `min_score` : score minimal pour être retenu (défaut 3 = au moins un match titre/description).
-- id: dotnet
-  label: ".net"
-  keywords: [".net", "dotnet", "c#", "csharp", "nuget", "async", "await", "linq", "ienumerable", "dapper", "tostring", "hresult"]
-- id: wpf
-  label: "wpf"
-  keywords: ["wpf", "xaml", "markupextension", "brush"]
-- id: mvvm
-  label: "mvvm"
-  keywords: ["mvvm"]
-- id: solid
-  label: "solid"
-  keywords: ["solid", "injection de dependances", "inversion de controle"]
+# Privilégier des mots-clés précis ; un `min_score` élevé limite les faux positifs du contenu.
 - id: architecture
-  label: "architecture"
-  keywords: ["architecture", "pattern", "routage", "routing", "collection typee"]
-- id: powershell
-  label: "powershell"
-  keywords: ["powershell", "gpo", "execution policy", "ie esc"]
-- id: windows
-  label: "windows"
-  keywords: ["windows", "credential manager", "service path", "ghostscript"]
-- id: git
-  label: "git"
-  keywords: ["git", "gitlab", "commit", "branche", "pipeline"]
-- id: sql
-  label: "sql"
-  keywords: ["sql", "mysql", "duckdb", "bulk", "dump", "overpass"]
+  label: "architecture & conception"
+  min_score: 4
+  keywords: ["architecture technique", "architecture logicielle", "solid", "mvvm", "injection de dependances", "inversion de controle", "routage", "routing", "collection typee", "design pattern", "decouplage"]
 - id: securite
   label: "sécurité"
-  keywords: ["securite", "faille", "backdoor", "chiffrement", "exfiltrer", "unquoted"]
-- id: web
-  label: "web"
-  keywords: ["web", "javascript", "php", "polyfill", "http", "cordova", "haxe"]
-- id: bash
-  label: "bash"
-  keywords: ["bash", "shell"]
-- id: ia
-  label: "ia"
-  keywords: ["gpt", "ia", "intelligence artificielle"]
+  min_score: 3
+  keywords: ["securite", "faille", "backdoor", "chiffrement", "exfiltrer", "unquoted", "credential manager", "access_token", "execution policy", "droits d'execution", "vulnerabilite", "attaquant"]
+- id: performance
+  label: "performance"
+  min_score: 4
+  keywords: ["performance", "performances", "benchmark", "optimisation", "bulkoptions", "secondes chrono", "unsafe", "ienumerable"]
+- id: bonnes-pratiques
+  label: "bonnes pratiques"
+  keywords: ["bonnes pratiques", "mauvaisepratiqueienumerable", "pourquoi eviter", "proprement", "maintenable", "syntaxe", "solid", "comment nommer", "emoji", "collection typee"]
+- id: langage
+  label: "langage & concepts"
+  keywords: ["operateurs", "hresult", "tostring", "configureawait", "transactionscope", "unsafe", "polyfill", "ienumerable", "markupextension", "binding", "convert string to stream", "syntaxe", "p/invoke", "service courant"]
+- id: donnees
+  label: "données"
+  keywords: ["sql", "mysql", "duckdb", "dapper", "overpass", "base de donnees", "transactionscope"]
+- id: outillage
+  label: "outillage & devops"
+  keywords: ["git", "gitlab", "git-bash", "commit", "pipelines", "nuget", "haxe", "debug", "deboguer", "utilisation du code claude"]
+- id: systeme
+  label: "administration système"
+  keywords: ["gpo", "powershell execution policy", "droits d'execution", "internet explorer", "vmware", "credential manager", "service path", "deboguer un port"]
+- id: reflexion
+  label: "veille & réflexions"
+  keywords: ["open source", "absurdite", "chat gpt"]
